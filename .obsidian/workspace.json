@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "3634bf2733b7e4f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcdde6bcdebc51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030e76f79b9900f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Training/Training - Pre-Trip Importance - 8-18-25.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Training - Pre-Trip Importance - 8-18-25"
+            }
+          },
+          {
+            "id": "ba5fa678cf82796d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8fb5e6ec2be8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87b84608859a4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc2cb86d3119164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0567245604eff898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "505606d1a856ae92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "5687f5b4d3b44bbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff175a59f076071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4326795821c019a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e1836b4650eea930",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3070cc2d42b691bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd303b1db5c9980b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "67378d129e12b6b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "agent-client:Open agent client": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "030e76f79b9900f8",
+  "lastOpenFiles": [
+    "CarMax Leadership/60 Question Personality Test 2 - JobAssessmentHelp.pdf",
+    "CarMax Leadership/60 Question Personality Test 1 - JobAssessmentHelp.pdf",
+    "Training/Training - Pre-Trip Section 1.jpg",
+    "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
+    "Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf",
+    "Training/Training - Ride Along Observation Part 3.md",
+    "Training/Training - pre-trip_inspection_checklist_two car haulers.pdf",
+    "Training/Training - Engine-Passenger-Side.jpg",
+    "Training/49 CFR Part 380 - Special Training Requirements.pdf",
+    "Training/Pasted image 20260601015533.png",
+    "Training/Paper BOLL.pdf",
+    "Training/Index.md",
+    "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf",
+    "Training/49 CFR Part 383 (up to date as of 9-29-2025).pdf",
+    "Training/49 CFR Part 382 - Controlled Substances and Alcohol Use and Testing.pdf",
+    "Training/49 CFR Part 376 (up to date as of 9-29-2025).pdf",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "CarMax Leadership/Leading Strengths - Gustavo Guallar.md",
+    "CarMax Leadership/CarMax Department Specific Self Evaluati.md",
+    "Training/pre_trip_inspection_checklist_two_car_haulers.md",
+    "CarMax Leadership/Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf",
+    "CarMax Leadership/CarMax Department Specific Self Evaluation for August 2024.md",
+    "Training/Training - The Importance of the Air Dryer.md",
+    "Training/Importance of Air Dryers in Commercial Vehicle.md",
+    "CarMax Leadership/Strong Management Traits.md",
+    "CarMax Leadership/CarMax-What is the CarMax IDP.md",
+    "CarMax Leadership/CarMax-Pre-Trip Inspection Two Car Haulers.md",
+    "CarMax Leadership/CarMax Master Leadership Binder.md",
+    "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
+    "CarMax Leadership/CarMax Human Capital Resources.md",
+    "CarMax Leadership/CarMax Distinguishing Teams from Work Groups.md",
+    "CarMax Leadership/CarMax Code Of Business Conduct.md",
+    "CarMax Leadership/CarMax Business Overview.md",
+    "CarMax Leadership/CarMax Benefits of creating an IDP.md",
+    "Communications/Management Email Communications.md",
+    "CarMax Leadership/Gustavo Guallar CarMax Manager Development – Harver Assessment Summary.md",
+    "CarMax Leadership/Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md",
+    "CarMax Leadership/Self-Evaluation Summary.md",
+    "CarMax Leadership/CarMax Manager Development – Harver Assessment.md",
+    "CarMax Leadership/Gustavo Guallar Harver Assessment Summary.md",
+    "Training/Training - Two Car Hauler.png",
+    "Training/Training - Wrong Three Points of Contact.jpg",
+    "Training/Training - Wrong Three Points of Contact 1.jpg",
+    "Training/Training-Two Car Hauler.png",
+    "Training/Training - Large Vehicles on Two-Car Haulers.jpg",
+    "Training/Training - Weight Station.jpg"
+  ]
+}

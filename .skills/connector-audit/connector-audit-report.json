@@ -1,0 +1,612 @@
+{
+  "CarMax Leadership": {
+    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md",
+    "metadata": {
+      "Vocabulary Guide": "CarMax Vocabulary & Philosophy.md",
+      "Vocabulary Audit": "complete"
+    },
+    "broken_links": [],
+    "resolved_links": [
+      {
+        "link": "2025_Overall_Performance_Rating_APR_Summary",
+        "target": "2025_Overall_Performance_Rating_APR_Summary",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\2025_Overall_Performance_Rating_APR_Summary.md"
+      },
+      {
+        "link": "CarMax ADP Reference",
+        "target": "CarMax ADP Reference",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax ADP Reference.md"
+      },
+      {
+        "link": "CarMax Coaching",
+        "target": "CarMax Coaching",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Coaching.md"
+      },
+      {
+        "link": "CarMax Code Of Conduct",
+        "target": "CarMax Code Of Conduct",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Code Of Conduct.md"
+      },
+      {
+        "link": "CarMax Information",
+        "target": "CarMax Information",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Information.md"
+      },
+      {
+        "link": "CarMax LDP",
+        "target": "CarMax LDP",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax LDP.md"
+      },
+      {
+        "link": "CarMax Leader Calibration Scoring",
+        "target": "CarMax Leader Calibration Scoring",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leader Calibration Scoring.md"
+      },
+      {
+        "link": "CarMax Leadership Development",
+        "target": "CarMax Leadership Development",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership Development.md"
+      },
+      {
+        "link": "CarMax Leadership Pipeline",
+        "target": "CarMax Leadership Pipeline",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership Pipeline.md"
+      },
+      {
+        "link": "CarMax Leadership System",
+        "target": "CarMax Leadership System",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership System.md"
+      },
+      {
+        "link": "CarMax Map Deep Dive",
+        "target": "CarMax Map Deep Dive",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Map Deep Dive.md"
+      },
+      {
+        "link": "CarMax Objective & IDP Draft",
+        "target": "CarMax Objective & IDP Draft",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Objective & IDP Draft.md"
+      },
+      {
+        "link": "CarMax Promotion Deck",
+        "target": "CarMax Promotion Deck",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Promotion Deck.md"
+      },
+      {
+        "link": "CarMax Vocabulary & Philosophy",
+        "target": "CarMax Vocabulary & Philosophy",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Vocabulary & Philosophy.md"
+      },
+      {
+        "link": "Gustavo Guallar Harver Assessment Report",
+        "target": "Gustavo Guallar Harver Assessment Report",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Harver Assessment Report.md"
+      },
+      {
+        "link": "Gustavo Guallar Overall Performance 2025",
+        "target": "Gustavo Guallar Overall Performance 2025",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Overall Performance 2025.md"
+      },
+      {
+        "link": "Gustavo Guallar Performance Rating",
+        "target": "Gustavo Guallar Performance Rating",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Performance Rating.md"
+      },
+      {
+        "link": "Gustavo Guallar-Self Evaluation 2025",
+        "target": "Gustavo Guallar-Self Evaluation 2025",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self Evaluation 2025.md"
+      },
+      {
+        "link": "Gustavo Guallar-Self-Evaluation Summary",
+        "target": "Gustavo Guallar-Self-Evaluation Summary",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self-Evaluation Summary.md"
+      },
+      {
+        "link": "IDP Framework",
+        "target": "IDP Framework",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\IDP Framework.md"
+      },
+      {
+        "link": "IDP Associate Handout",
+        "target": "IDP Associate Handout",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\IDP Associate Handout.md"
+      },
+      {
+        "link": "Leadership Visual Pathway",
+        "target": "Leadership Visual Pathway",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Leadership Visual Pathway.md"
+      },
+      {
+        "link": "Manager Evaluation 7-1-25",
+        "target": "Manager Evaluation 7-1-25",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Manager Evaluation 7-1-25.md"
+      },
+      {
+        "link": "Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
+        "target": "Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Manager_Evaluation__File_Review__Gustavo_Guallar.pdf"
+      },
+      {
+        "link": "Promotion Conversation Script",
+        "target": "Promotion Conversation Script",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Conversation Script.md"
+      },
+      {
+        "link": "Promotion Packet",
+        "target": "Promotion Packet",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Packet.md"
+      },
+      {
+        "link": "Promotion Ready Summary",
+        "target": "Promotion Ready Summary",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Ready Summary.md"
+      },
+      {
+        "link": "Role Guide Assessment",
+        "target": "Role Guide Assessment",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Role Guide Assessment.md"
+      },
+      {
+        "link": "S.M.A.R.T Meaning",
+        "target": "S.M.A.R.T Meaning",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\S.M.A.R.T Meaning.md"
+      },
+      {
+        "link": "Self Evaluation August 2024",
+        "target": "Self Evaluation August 2024",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self Evaluation August 2024.md"
+      },
+      {
+        "link": "Self-Evaluation June 2022",
+        "target": "Self-Evaluation June 2022",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self-Evaluation June 2022.md"
+      },
+      {
+        "link": "Self-Evaluation November 2022",
+        "target": "Self-Evaluation November 2022",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self-Evaluation November 2022.md"
+      },
+      {
+        "link": "Statement Best Describe A Manager",
+        "target": "Statement Best Describe A Manager",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Statement Best Describe A Manager.md"
+      },
+      {
+        "link": "Communications/index|index",
+        "target": "Communications/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+      },
+      {
+        "link": "Maintenance Messages/index|index",
+        "target": "Maintenance Messages/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+      },
+      {
+        "link": "Recognitions/index|index",
+        "target": "Recognitions/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+      },
+      {
+        "link": "Training/Index|Index",
+        "target": "Training/Index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+      }
+    ],
+    "orphan_content_files": [],
+    "content_file_count": 32,
+    "link_count": 37
+  },
+  "Communications": {
+    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md",
+    "metadata": {
+      "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
+      "Vocabulary Audit": "complete"
+    },
+    "broken_links": [],
+    "resolved_links": [
+      {
+        "link": "Christmas Message To Jessy",
+        "target": "Christmas Message To Jessy",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Christmas Message To Jessy.md"
+      },
+      {
+        "link": "Christmas Message To Matt Douglas",
+        "target": "Christmas Message To Matt Douglas",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Christmas Message To Matt Douglas.md"
+      },
+      {
+        "link": "Effective Communication & Vocabulary",
+        "target": "Effective Communication & Vocabulary",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Effective Communication & Vocabulary.md"
+      },
+      {
+        "link": "Training Correction Message To Matthew Douglas",
+        "target": "Training Correction Message To Matthew Douglas",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Training Correction Message To Matthew Douglas.md"
+      },
+      {
+        "link": "Training Message To Matt Douglas",
+        "target": "Training Message To Matt Douglas",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Training Message To Matt Douglas.md"
+      },
+      {
+        "link": "CarMax Leadership/index|index",
+        "target": "CarMax Leadership/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+      },
+      {
+        "link": "Maintenance Messages/index|index",
+        "target": "Maintenance Messages/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+      },
+      {
+        "link": "Recognitions/index|index",
+        "target": "Recognitions/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+      },
+      {
+        "link": "Training/Index|Index",
+        "target": "Training/Index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+      }
+    ],
+    "orphan_content_files": [],
+    "content_file_count": 5,
+    "link_count": 9
+  },
+  "Maintenance Messages": {
+    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md",
+    "metadata": {
+      "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
+      "Vocabulary Audit": "complete"
+    },
+    "broken_links": [],
+    "resolved_links": [
+      {
+        "link": "Maintenance Request-142412",
+        "target": "Maintenance Request-142412",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\Maintenance Request-142412.md"
+      },
+      {
+        "link": "CarMax Leadership/index|index",
+        "target": "CarMax Leadership/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+      },
+      {
+        "link": "Communications/index|index",
+        "target": "Communications/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+      },
+      {
+        "link": "Recognitions/index|index",
+        "target": "Recognitions/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+      },
+      {
+        "link": "Training/Index|Index",
+        "target": "Training/Index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+      }
+    ],
+    "orphan_content_files": [],
+    "content_file_count": 1,
+    "link_count": 5
+  },
+  "Recognitions": {
+    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md",
+    "metadata": {
+      "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
+      "Vocabulary Audit": "complete"
+    },
+    "broken_links": [],
+    "resolved_links": [
+      {
+        "link": "Recognition Given",
+        "target": "Recognition Given",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Given.md"
+      },
+      {
+        "link": "Recognition Purpose",
+        "target": "Recognition Purpose",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Purpose.md"
+      },
+      {
+        "link": "Recognition Received",
+        "target": "Recognition Received",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Received.md"
+      },
+      {
+        "link": "Recognitions Reply",
+        "target": "Recognitions Reply",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognitions Reply.md"
+      },
+      {
+        "link": "CarMax Vocabulary & Philosophy",
+        "target": "CarMax Vocabulary & Philosophy",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Vocabulary & Philosophy.md"
+      },
+      {
+        "link": "CarMax Leadership/index|index",
+        "target": "CarMax Leadership/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+      },
+      {
+        "link": "Communications/index|index",
+        "target": "Communications/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+      },
+      {
+        "link": "Maintenance Messages/index|index",
+        "target": "Maintenance Messages/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+      },
+      {
+        "link": "Training/Index|Index",
+        "target": "Training/Index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+      }
+    ],
+    "orphan_content_files": [],
+    "content_file_count": 4,
+    "link_count": 9
+  },
+  "Training": {
+    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md",
+    "metadata": {
+      "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
+      "Vocabulary Audit": "complete"
+    },
+    "broken_links": [],
+    "resolved_links": [
+      {
+        "link": "CarMax Two Car Hauler Loading Configuration",
+        "target": "CarMax Two Car Hauler Loading Configuration",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\CarMax Two Car Hauler Loading Configuration.md"
+      },
+      {
+        "link": "Pasted image 20260601014520.png",
+        "target": "Pasted image 20260601014520.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601014520.png"
+      },
+      {
+        "link": "Pasted image 20260601015533.png",
+        "target": "Pasted image 20260601015533.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601015533.png"
+      },
+      {
+        "link": "Pasted image 20260601020041.png",
+        "target": "Pasted image 20260601020041.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601020041.png"
+      },
+      {
+        "link": "Pasted image 20260601220055.png",
+        "target": "Pasted image 20260601220055.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601220055.png"
+      },
+      {
+        "link": "Pasted image 20260601223822.png",
+        "target": "Pasted image 20260601223822.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601223822.png"
+      },
+      {
+        "link": "Pasted image 20260606220715.png",
+        "target": "Pasted image 20260606220715.png",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260606220715.png"
+      },
+      {
+        "link": "Training Cotrell Two Car Carrier Manual.pdf",
+        "target": "Training Cotrell Two Car Carrier Manual.pdf",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Cotrell Two Car Carrier Manual.pdf"
+      },
+      {
+        "link": "Peer Training and Self-Evaluation",
+        "target": "Peer Training and Self-Evaluation",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training and Self-Evaluation.md"
+      },
+      {
+        "link": "Peer Training-Alex Lopez Guerra",
+        "target": "Peer Training-Alex Lopez Guerra",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Alex Lopez Guerra.md"
+      },
+      {
+        "link": "Peer Training-Ben Gordon",
+        "target": "Peer Training-Ben Gordon",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Ben Gordon.md"
+      },
+      {
+        "link": "Peer Training-Carlos Barrios",
+        "target": "Peer Training-Carlos Barrios",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Carlos Barrios.md"
+      },
+      {
+        "link": "Peer Training-Santiago Munarriz",
+        "target": "Peer Training-Santiago Munarriz",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Santiago Munarriz.md"
+      },
+      {
+        "link": "Pre-Trip Inspection Reinforcement Plan",
+        "target": "Pre-Trip Inspection Reinforcement Plan",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pre-Trip Inspection Reinforcement Plan.md"
+      },
+      {
+        "link": "Pre-Trip Training Plan 7108",
+        "target": "Pre-Trip Training Plan 7108",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pre-Trip Training Plan 7108.md"
+      },
+      {
+        "link": "Purpose of Daily Message Training",
+        "target": "Purpose of Daily Message Training",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Purpose of Daily Message Training.md"
+      },
+      {
+        "link": "QuiXspinz Ratcheting System",
+        "target": "QuiXspinz Ratcheting System",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\QuiXspinz Ratcheting System.md"
+      },
+      {
+        "link": "Training Cotrell Two Car Carrier Manual.pdf",
+        "target": "Training Cotrell Two Car Carrier Manual.pdf",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Cotrell Two Car Carrier Manual.pdf"
+      },
+      {
+        "link": "Training Entering Lower Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training Entering Lower Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Entering Lower Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training Entering Upper Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training Entering Upper Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Entering Upper Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training Exit Upper Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training Exit Upper Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Exit Upper Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training Exit Lower Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training Exit Lower Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Exit Lower Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training Front Loading Position",
+        "target": "Training Front Loading Position",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Front Loading Position.md"
+      },
+      {
+        "link": "Training Material To Matthew Douglas",
+        "target": "Training Material To Matthew Douglas",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Material To Matthew Douglas.md"
+      },
+      {
+        "link": "Training Material-Matthew Douglas",
+        "target": "Training Material-Matthew Douglas",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Material-Matthew Douglas.md"
+      },
+      {
+        "link": "Training Proper Strap Threading November 14, 2025.mov",
+        "target": "Training Proper Strap Threading November 14, 2025.mov",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Proper Strap Threading November 14, 2025.mov"
+      },
+      {
+        "link": "Training Team Text Training",
+        "target": "Training Team Text Training",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Team Text Training.md"
+      },
+      {
+        "link": "Training-2 Car Manual",
+        "target": "Training-2 Car Manual",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-2 Car Manual.md"
+      },
+      {
+        "link": "Training-DOT Log Book",
+        "target": "Training-DOT Log Book",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-DOT Log Book.md"
+      },
+      {
+        "link": "Training-Entering Weigh Stations",
+        "target": "Training-Entering Weigh Stations",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Entering Weigh Stations.md"
+      },
+      {
+        "link": "Training-Loading & Center of Gravity",
+        "target": "Training-Loading & Center of Gravity",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Loading & Center of Gravity.md"
+      },
+      {
+        "link": "Training-Pre-Trip Inspection",
+        "target": "Training-Pre-Trip Inspection",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Pre-Trip Inspection.md"
+      },
+      {
+        "link": "Training Team Text Training",
+        "target": "Training Team Text Training",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Team Text Training.md"
+      },
+      {
+        "link": "Training-Loading Large Vehicles",
+        "target": "Training-Loading Large Vehicles",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Loading Large Vehicles.md"
+      },
+      {
+        "link": "Training-Oversized Vehicle Loading",
+        "target": "Training-Oversized Vehicle Loading",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Oversized Vehicle Loading.md"
+      },
+      {
+        "link": "Training-Single Vehicle Transport",
+        "target": "Training-Single Vehicle Transport",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Single Vehicle Transport.md"
+      },
+      {
+        "link": "Training-Straps & Hooks",
+        "target": "Training-Straps & Hooks",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Straps & Hooks.md"
+      },
+      {
+        "link": "Training-Straps & Hooks Remainder",
+        "target": "Training-Straps & Hooks Remainder",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Straps & Hooks Remainder.md"
+      },
+      {
+        "link": "Training-Tail Swing",
+        "target": "Training-Tail Swing",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Tail Swing.md"
+      },
+      {
+        "link": "Training-Validating Loading Position",
+        "target": "Training-Validating Loading Position",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Validating Loading Position.md"
+      },
+      {
+        "link": "Training-Weigh Station Awareness",
+        "target": "Training-Weigh Station Awareness",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Weigh Station Awareness.md"
+      },
+      {
+        "link": "Training-Weigh StationAwareness",
+        "target": "Training-Weigh StationAwareness",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Weigh StationAwareness.md"
+      },
+      {
+        "link": "Training-Unsafe 3 Points Contact",
+        "target": "Training-Unsafe 3 Points Contact",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Unsafe 3 Points Contact.md"
+      },
+      {
+        "link": "Training-Wrong Tree Point of Contact",
+        "target": "Training-Wrong Tree Point of Contact",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Wrong Tree Point of Contact.md"
+      },
+      {
+        "link": "Effective Communication & Vocabulary",
+        "target": "Effective Communication & Vocabulary",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Effective Communication & Vocabulary.md"
+      },
+      {
+        "link": "CarMax Leadership/index|index",
+        "target": "CarMax Leadership/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+      },
+      {
+        "link": "Communications/index|index",
+        "target": "Communications/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+      },
+      {
+        "link": "Maintenance Messages/index|index",
+        "target": "Maintenance Messages/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+      },
+      {
+        "link": "Recognitions/index|index",
+        "target": "Recognitions/index",
+        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+      }
+    ],
+    "orphan_content_files": [],
+    "content_file_count": 30,
+    "link_count": 49
+  }
+}

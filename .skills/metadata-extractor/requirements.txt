@@ -1,0 +1,2 @@
+# No external Python packages are required for this script.
+# Install Python 3.8+ and use the provided setup script to create a virtual environment.

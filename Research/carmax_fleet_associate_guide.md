@@ -1,0 +1,404 @@
+# **CarMax Fleet Associate Guide
+# **Driver Handbook****
+
+Orientation & Training Requirements
+As a new CarMax Fleet Associate there are many processes and procedures to learn. 
+To create a great onboarding experience and set our associates up for success, each new driver will participate in a training program within their first weeks of employment that includes, but is not limited to, a library of online training,supplemental training with the stores, local drivers and logistics managers in the market you will be operating. 
+
+For more information, please see the New Driver Training Guide" which includes the training curriculum, training week checklist, and the driver proficiency checklist. 
+All CarMax Fleet Associates operate commercial motor vehicles (i.e., vehicles with a gross vehicle weight rating greater than 10,000 pounds) ("CV"). 
+CMVs and their drivers are subject to various federal and state requirements.
+
+Before being cleared to operate a CarMax commercial motor vehicle, the following items are required:
+• Must complete and submit all new hire documentation to J.J. Keller, a third-party service provider
+and all documents must adhere to DOT and FMCSA guidelines
+• Complete pre-employment controlled substance and alcohol testing (drivers who will operate CMVs that require a commercial driver's license)
+• Must complete training program as outlined in "New Driver Training Guide".
+• Must demonstrate proficiency as defined in the "Driver Proficiency Checklist"
+• Must demonstrate proficiency in driving as defined by "Commercial Driver's Road Test" or "Home Delivery Driver Road Test" as applicable
+
+Road Test & Certificate of Road Test
+
+To successfully complete the "shadowing" and training process and assume the role of Fleet Associate in their domiciled location, the Fleet Associate must successfully pass a Road Test administered by a qualified trainer.
+
+A passing score is measured as "Good" or "Very Good" according to the score listed on the Road Test form. 
+
+Only assessments of "Good" or "Very Good" will qualify. 
+
+Any skills not indicated as "Good" or "Very Good" must be retrained and assessed until a passing score of "Good" or "Very Good" is achieved.
+
+Upon successful completion of the road test, your trainer will provide the training Fleet Associate with a copy of the "Certification of Road Test" and "Commercial Driver's Road Test" that will be filed in the Fleet Associate's store location file, with originals send to the Home Office team at fleetsafetyandcompliance@carmax.com. 
+
+The road test must be conducted using the same type of vehicle the training Fleet Associate is expected to operate. 
+Road tests must be completed for all equipment the Fleet Associate will operate before Fleet Associate is permitted to operate fleet equipment without a trainer present.
+
+Supplemental Training
+
+Once the new Fleet Associate successfully completes and passes the Road Test and other required on-boarding and compliance requirements, they are free to assume the responsibility of a Fleet Associate. 
+However, there may be scenarios where a Fleet Associate, new or existing, will require supplemental training and/or evaluation as directed by their manager.
+----
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Fleet Associate File Reviews
+Every associate should participate in a quarterly file reviews with their manager. 
+File reviews are an opportunity to discuss development opportunities and connect associates and their managers, but associates can reach out to their manager at any time. 
+For more information on file reviews, visit the "My Career" page on CarMax World.
+
+Fleet Associate Pay and Benefits
+
+The objectives of the Fleet Associate pay plan are to attract and retain professional Fleet Associates, and to provide incentives to Fleet Associates who transport vehicles for CarMax.
+
+The Fleet Associate pay plan has been designed to provide an hourly base rate, plus certain Fleet Associates are eligible to participate in quarterly, year-end, and tenure-based bonus programs.
+
+The hourly base rate for Fleet Associates will be determined at the time of hire, based on work experience, location, driving skills, and other appropriate job-related factors. 
+As an hourly associate, the pay is calculated by multiplying clocked production hours by hourly base rate. 
+
+Overtime is paid at one and one half (1.5) times base rate for all hours worked as required by each state's regulations. For more information, contact your Logistics Manager.
+
+Paychecks are paid on a bi-weekly basis and are issued every other Friday for the previous Sunday to Saturday two-week period.
+
+Growth Opportunities
+
+As an associate of CarMax, you have the opportunity to expand your role and responsibilities as a Fleet Associate through any career interests you choose. Whether you're a Vehicle Delivery Driver interested in getting a Class A license to become a fleet driver, a fleet driver interested in becoming a Senior, or you want to explore management and beyond, partner with your manager to learn more about growth and development opportunities at CarMax. The opportunities are endless.
+
+KMX Fleet Associate Bonus & President Club Program
+
+The Fleet Associate Bonus & President Club Program rewards CarMax Drivers (non-VDDs) that exemplify outstanding work performance, by measuring safety and compliance levels during the CarMax Fiscal Year period.
+
+Data for the quarterly scores will be compiled, reviewed, and submitted by the CarMax Logistic Managers to the Home Office Safety and Compliance Team for review. Should discrepancies arise, the Logistics Managers are able to request a change with supporting justification to the Safety and Compliance team for consideration.
+
+For more information, please refer to the "KM Fleet Associate Bonus & President's Club Program" document.
+
+Effect of Involuntary Termination
+
+Any Fleet Associate involuntarily terminated by CarMax will not be eligible for re-employment as a CarMax Fleet Associate for a minimum of one year from the date of termination. Upon conclusion of the one-year period, it remains the sole discretion of CarMax as to whether the terminated Associate may reapply for a CarMax Fleet Associate role.
+
+——-
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Supplies
+Various supplies are needed for Fleet Associates to perform their daily functions. Items such as tie-down bars, tire straps, height sticks, etc. must be requested from your Logistics Manager. Logistics Managers will review, approve, and order these supplies.
+
+Drivers will be given the option of receiving an initial uniform package or ordering uniforms from Unifirst through the store. If the driver choses to receive the initial uniform package, they will be responsible for the purchase of any additional uniforms in most states. 
+
+Please provide the driver's clothing size to the Logistics Manager to order initial uniform order.
+
+Fleet Associates can procure personal items such as raingear and protective footwear and submit costs for reimbursement to the Logistics Manager. 
+
+Please refer to the "Personal Protective Equipment (PPE) Policy," available on CarMax World, for maximum allowable reimbursement amounts. 
+
+If an item is not listed in the PPE policy, partner with the Logistics Manager for approval. 
+
+Any items purchased by Fleet Associates that require reimbursement must also be approved by their manager before purchase. 
+
+For any other questions on supplies, please partner with your Logistics Manager.
+
+Fuel Cards
+
+All Fleet Associates will be issued a fuel card. 
+
+It is required that Fleet Associates utilize the closest leasing agent service center to fuel fleet vehicles. 
+No fuel cards are needed when fueling at a leasing agent's facility as they direct-bill CarMax for these purchases. Additionally, fueling at leasing agent locations allows their personnel to perform visual inspections of the tractor and trailer. 
+
+If the leasing agent facilities aren't convenient, you can purchase fuel at other locations using the fuel purchase credit card.
+
+When you are initially issued a fuel purchase credit card, you will also receive a "CarMax Fuel Usage Statement." This states that the card is to be used solely for the purpose of fueling the company vehicle, and then using that vehicle to perform only company-sanctioned business. 
+
+The actual use of the credit card will be monitored and audited, and any abuse of this company-owned asset may result in the Fleet Associate's immediate termination.
+
+Fleet Associates will be required to sign and return this statement to fleetsafetyandcompliance@carmax.com. A copy will also be kept in the Fleet Associate's personnel file.
+
+Tobacco usage in Fleet Equipment
+
+All CarMax Associates are required to comply with the "Tobacco-Free Workplace Policy," available on CarMax World. 
+
+In accordance with this policy, Associates may not use tobacco products while on or in company property, including CarMax fleet equipment, at any time, including when the Associate is on break.
+
+Driving Singles
+
+Fleet Associates may need to drive a single vehicle instead of operating assigned Commercial Motor Vehicle (CMV). 
+
+If an Associate's assigned CMV is available for use, Fleet Associates should not operate singles. 
+
+Please follow the guidelines listed in the Logistics Single Vehicle Driving Policy and partner with your Logistics Manager to review and approval for taking single vehicles. 
+
+Prior to inquiring about moving single vehicles, another CMV in market may be available and should be considered before a decision to drive singles is permitted.
+——
+
+CarMax Fleet Associate Guide
+
+Driver Handbook
+
+It is highly recommended that fleet vehicles be parked behind delta gates, any fleet supplies properly secured, and keys removed from the fleet vehicle when not in use. 
+
+If it is operationally necessary for the fleet vehicle to be parked in an unsecured area with vehicles loaded, then all vehicle keys (including second sets attached to safety belts) and titles must be removed and placed in a secured location.
+
+At times it may be necessary for Fleet Associates to deliver vehicles to store locations outside of store operating hours. 
+
+If access to secured areas is unavailable and vehicles are left in customer parking areas, all keys and titles must be removed and placed in a secured location.
+
+CarMax Fleet Associates must immediately report instances of loss, damage, or theft to a CarMax fleet vehicle, or any vehicle being transported to their Logistics Manager. 
+
+Any damage to transport vehicles must also be reported to the store at the time of delivery and accurately documented on the Fleet Associate's Bill of Lading (BOL).
+
+Accident Procedures
+No matter how safely a Fleet Associate operates their fleet equipment, there is always a chance of being involved in an accident. 
+
+When the unexpected happens, it is important that the Fleet Associate knows what to do and what to expect.
+
+At the scene of an accident, CarMax Associates are instructed to answer the questions of law enforcement personnel honestly, while relating only the facts of the incident. 
+
+Avoid sharing your own opinion about what occurred and do not discuss details of the accident with anyone other than law enforcement, CarMax personnel, or representatives of CarMax's insurance company. 
+
+Do not admit fault, nor offer apologies to the other parties involved. Determinations of fault and resolutions of damages will be handled by law enforcement, insurance representatives, and CarMax Risk Management personnel. 
+For further information, refer to the accident kit located inside the truck or partner with your Logistics Manager.
+
+Accident Kit
+A CarMax-specific accident kit should be kept in each vehicle to help record any accident. 
+
+The kit includes:
+
+• General Instructions explaining immediate on-site actions, and instructions for reporting to Travelers Insurance.
+• Vehicle accident report to ensure that adequate data has been obtained.
+• Pen
+• Post-accident drug/alcohol screening medical authorization
+• Fleet Associate injury guide
+• Drug test chain of custody
+
+If you are involved in an accident, please ensure all of these items are returned to the truck. If your truck does not have an accident kit, contact your Logistics Manager for a replacement.
+
+Spill Clean-Up
+CarMax is in partnership with a spill response company (CURA) to support any spill response needs. 
+
+CURA's emergency number is 1-800-579-2872 and should be stored in all Fleet Associates' phones for emergencies.
+
+If a spill is identified, regardless of the size, Fleet Associates should follow the Spill Cleanup Procedures guidelines found on CarMax World. 
+
+Partner with your Logistics Manager for more information.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+CarMax provides all Fleet Associates with cell phones for emergency purposes. 
+CarMax prohibits Fleet Associates from using cell phones while driving unless a "hands-free" device is used and allows one-touch operation. 
+Fleet Associates may partner with their Logistics manager to obtain a "hands-free" device. 
+CarMax recommends that all Fleet Associates limit their "hands-free" cell phone use to brief and necessary communications and save longer conversations for when you are safely off the road.
+Drivers should refrain from operating a cell phone while operating the trailer or the vehicles being transported. Under no circumstances is texting allowed while driving.
+Please also see "Cellular and Wireless Device Policy (308.1)" in CarMax World for further information or partner with your Logistics Manager.
+
+Event Recorders
+
+At CarMax we put people first, and Fleet Associate safety is one of our core values. 
+We want to keep our Fleet Associates safe, while also being a safety conscious member of the motoring public. Event recorders are becoming the industry standard and are a valuable resource to protect our fleet drivers and CarMax. 
+CarMax-installed event recorders eliminate the need for fleet drivers to manage their own devices, while providing a better user experience. 
+Event recorders are installed in all CarMax leased equipment. 
+For further details, please refer to the "Fleet Event Recorder Program Policy."
+
+GPS and Location Monitoring
+CarMax requires all fleet vehicles to have various global positioning system (GPS) technologies installed and/or Fleet Associates to utilize applications on their CarMax-issued cell phones to track and monitor geolocation and other data.
+Additionally, the Electronic Logging Devices (ELDs) installed in the vehicles, may also capture similar data. By operating the vehicle, you acknowledge your understanding of, and agreement to, such monitoring.
+
+Distracted Driving
+Drivers may experience other distractions while on the road, inside and outside the cab.
+To support attentiveness while driving, drivers should always:
+
+• Minimize any distractions
+• Secure all items prior to operating the tractor
+• Maintain cleanliness and organization in the tractor
+• Maintain control of the vehicle
+• Keep eyes on the road and hands on the wheel Be alert at all times
+
+If a Fleet Associate is unable to remain alert and attentive at all times, the associate should safely exit the roadway and partner with their Logistics Manager.
+
+Asset Protection
+CarMax Fleet Associates have the responsibility of safeguarding CarMax property from loss, damage, and theft. This responsibility includes their fleet vehicle and all vehicles being transported.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+During inclement weather conditions when the store remains open, the driver's logistics manager has the discretion to determine if conditions are unsafe for our drivers. 
+However, managers rely heavily on their Fleet Associate to deem if conditions are safe. 
+Fleet Associates are not required to operate in conditions they feel are unsafe.
+
+If you feel unsafe for any reason, including but not limited to weather conditions, do not continue and partner with your Logistics Manager or any available manager immediately.
+
+Safe Driving Speeds
+
+Fleet Associates are required to obey posted speeds, traffic signals, and other road markings at all times. Failure to comply to the speed limits posted throughout jurisdictions will result in performance management & may include loss of bonus eligibility (quarterly & annually). 
+Continued violation of this policy could result in disciplinary actions, up to and including termination.
+
+Loading/Unloading and Operation of Fleet Equipment
+
+Fleet Associates are specifically trained on the tasks associated with operating a fleet vehicle. 
+This training is designed to avoid damage to the vehicles, their transportation equipment, and store property. More importantly, their training and processes are designed to ensure the safety of our Fleet Associates. 
+All Fleet Associates are given access to the operating manuals for the equipment they operate to ensure the proper operation of the vehicles.
+
+During the loading/unloading process, only one person may load/unload vehicles and operate the hydraulic systems.
+Other persons:
+• Must stay clear of the truck at all times
+• May stage cars or stand with the Fleet Associate who is operating the hydraulic systems
+
+Under no circumstances is anyone other than a CarMax Fleet Associate allowed to operate fleet equipment, load or unload vehicles onto fleet equipment, or walk on fleet vehicles. 
+For further information, please refer to the "Safe Operation of Auto Hauling Truck Hydraulic Systems" document, found in CarMax World. 
+Violation of these guidelines could result in disciplinary actions, up to and including termination.
+
+Cell Phone Use
+
+All Fleet Associates are required to obey federal and state laws regarding cell phone use. This includes federal regulations that prohibit Fleet Associates from holding, reaching for, or pressing more than one button on a cell phone while driving.
+This restriction applies even when a Fleet Associate is stopped momentarily due to traffic or a stop light.
+"Hands-free" devices are an acceptable way to use a cell phone while driving as long as (1) you can accept or make calls with the touch of one button and (2) you do not have to reach for the phone to use it. 
+In the event of an emergency, however, you may use a hand-held cell phone to contact law enforcement or emergency services.
+Drivers who disregard these rules are subject to serious fines and, in the case of more than one violation within three years of another, a period of disqualification of your CDL.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Roadside Inspections
+Roadside inspections are a fact of life for our CarMax Fleet Associates. 
+Being stopped for an inspection may be frustrating and time-consuming, but they are a very important tool for law enforcement officials to ensure carrier safety on the highway. 
+It is our policy to fully cooperate with law enforcement officers during roadside inspections. Results of roadside inspections, favorable or not, significantly impact our Compliance, Safety & Accountability (CSA) Scores and ultimately determine if our trucks are pulled over for more detailed inspections. 
+Our CarMax Fleet Associates can make a difference by:
+
+    -Ensuring that loads are secured. CarMax requires 4 points of contact, or all wheels strapped.
+    -Conducting a thorough pre-trip vehicle inspection and noting any defects prior to every use of the fleet vehicle
+    -Communicating any noted defects immediately to the leasing agent so corrections or repairs can be made.
+    -Not operating any vehicle with known defects
+    -Adhering to Hours-of-Service regulations and ensuring that ELD on-duty time mirrors your Kronos hours
+    -Obeying all traffic laws and driving equipment safely and responsibly
+
+If a Fleet Associate is stopped for a roadside inspection, associates are expected to behave in a professional and courteous manner, and obey all instructions given by the inspection official. 
+If a defect is noted during the inspection process that places the equipment out of service (OOS), the Fleet Associate should contact the leasing agent breakdown number, as provided by their manager, immediately to arrange for them to arrive and correct the issue. 
+A vehicle placed OOS by an inspection official cannot be operated until that issue has been resolved satisfactorily. 
+If a non-OOS defect is noted, the Fleet Associate should contact the leasing company's local branch as soon as possible to arrange for repairs of the defect.
+Regardless, of whether defects are noted during an inspection, the Fleet Associate will be provided with a Driver/Vehicle Examination report. 
+The Fleet Associate must present this report to their respective Logistics Manager as soon as the Fleet Associate reports back to their domiciled location. 
+All inspections must be submitted to Home Office (fleetsafetyandcompliance@carmax.com) within 24 hours of occurrence.
+The Home Office team will retain a copy of this report in the Fleet Associate's file for a minimum of two years. 
+If there are any defects noted, all defects must be corrected. Once complete, a copy of the inspection report must be signed by the driver and their manager and returned to the respective state vehicle enforcement agency as quickly as possible.
+Having a complete set of all Driver/Vehicle Examination reports in our ELD keeps us in compliance and the data allows us to identify any trends we need to address.
+Successful roadside inspections, with no defects noted, further improve our SA scores with the DOT. 
+A good CSA score could result in less roadside inspections and decreases the likelihood of an audit.
+
+----
+
+Inclement Weather Conditions
+All Fleet Associates must adhere to the "Location Closure, Emergency and Clean Up Pay Policy" in CarMax World for delays or closings.
+Snow, ice, and heavy rain may present dangerous conditions for our Fleet Associates to climb atop trailers to load, unload, and secure vehicles. 
+Utilize the inclement weather hotline for your home stores, as well as stores you will be delivering to, to determine if locations you are servicing are open for business.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Recording of Time Worked
+
+All Hourly Associates are required to complete an accurate record of actual time worked through the Kronos time tracking system. 
+Please refer to the "Proper Recording of Time Policy," is available on CarMax World. 
+If you have any questions, please contact your Logistics Manager.
+
+Controlled Substance and Alcohol Program
+
+The safety and security of associates, customers and company assets are of critical importance to CarMax. 
+The abuse and illegal use of controlled substances can seriously injure the health of associates, adversely impair performance and judgment, and endanger the safety of others.
+In support of this effort, CarMax adopted a "Drug, Alcohol and Illegal Substance Use and Testing Policy." 
+Any Fleet Associates with a commercial driver's license (CL) that operates a commercial vehicle must also adhere to "Drug and Alcohol Testing Policy for FMCSA-Regulated Drivers." 
+Both policies can be found on CarMax World. Partner with your Logistics Manager for more information.
+
+Fleet Vehicle Inspection and Maintenance
+
+The Fleet Associate is responsible for the condition of the vehicle and making sure that it is maintained in a safe operating condition. 
+Any issues identified that may jeopardize the safe operation of the fleet vehicle must be communicated to the equipment leasing company immediately. 
+If you have any questions regarding the overall maintenance and safety of your fleet equipment, please contact the local representative for the equipment leasing company or the Logistics Manager. 
+If a vehicle is not in a safe operating condition, do not operate until appropriate repairs are made.
+
+Vehicle Maintenance Schedule
+
+Each of our fleet vehicles requires specific services at regular intervals to ensure the equipment works efficiently and reliably. 
+These services are known as preventative maintenance (PMs) and are scheduled by the leasing agent. 
+It is the responsibility of the Fleet Associate to ensure the vehicle is provided to the leasing agent for service when requested and that all issues are documented at the time of drop-off. 
+CarMax is not responsible for loss or damage to personal items left in vehicles prior to maintenance work being performed.
+Upon completion of servicing, the driver picking up the truck should ensure, to the best of their abilities, that all services and/or repairs have been completed satisfactorily and that the appropriate documentation is affixed to the truck (Annual inspection stickers, IFTA, License plate, ETC.) 
+If at any time the Fleet Associate determines the fleet vehicle is unsafe for operation, the Fleet Associate is to notify their manager before continued operation of the fleet vehicle.
+
+Pre-trip and Post-trip Vehicle Inspections
+Each Fleet Associate must perform a pre-trip inspection of the fleet vehicle prior to operating the equipment, and a post-trip inspection after operating the equipment. 
+These inspections must be thoroughly completed each day. This function is performed in your ELD application and is stored there for the time required by the FMCSA. 
+Not completing pre-trip or post-trip inspections will face disciplinary actions up to, and including, termination.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Associates are not permitted to work while clocked out for breaks and managers are not permitted to ask associates to work during breaks while they are in Sleeper Berth or Off-Duty Status.
+All associates' hours worked must match both in the time-keeping system for payroll and in the ELD system for 
+Hours of Service. 
+Associates may be required to work beyond their scheduled shift in the event of weather events, traffic, and other qualifying events.
+
+Record-keeping:
+
+The DOT requires a CMV driver to record their hours of service using electronic logging device ("ELD") unless an exemption applies. 
+CarMax installed ELDs in all of its CMVs to capture driver logs automatically. 
+The only time a Fleet Associate is required to complete a paper log is in the event their ELD malfunctions. Partner with your logistics manager immediately if any ELD is malfunctioning.
+Paper log books should be on hand with every driver in the event of a malfunction and can be obtained by partnering with the logistics manager.
+Recording on a paper log cannot continue for more than 8 days after the malfunction unless an extension is approved by the FMCSA.
+It is important that the hours of service captured by the ELD is consistent with the hours each Fleet Associate clocks in Kronos.
+
+Additional Notes on Driver Hours:
+
+The DOT's Hours of Service requirements are the maximum allowable under the law. We do not expect Fleet Associates to work up to these maximums. 
+A Fleet Associate's hours will be based on the workload considering the needed trips, traffic conditions, staging assistance, etc.
+Many of our fleet locations qualify to operate under a limited exemption to the DOT's Hours of Service commonly refer to as the short-haul exemption. 
+While this limited exemption impacts ELD logging requirements, CarMax uses the ELD devices to record all Fleet Associate hours and we expect all Fleet Associate to comply with the Hours-of-Service guidelines. 
+CarMax requires Fleet Associates to use an ELD to record hours even if operating under an exemption.
+All Fleet Associates must adhere to the Proper Recording of Time Policy in CarMax World.
+Hours of services rules are enforced by the FMCSA and state law enforcement agencies, and may change at any time.
+It is the driver's responsibility to be aware to any changes that may be occurring to hours-of-service regulation.
+
+Hours of Service - Non-CarMax Employment
+
+All on-duty hours where a Fleet Associate performs work for compensation, whether with CarMax or another employer must be reported in the Fleet Associates' Hours of Service logs. 
+All Fleet Associates must adhere to all DOT Hours of Service requirements at all times. 
+Any other employment must not conflict with CarMax, as described in the CarMax Code of Business Conduct.
+——
+
+CarMax Fleet Associate Guide
+Driver Handbook
+
+Licensing and Medical Card Requirements
+Fleet Associates are required to hold a valid commercial driver's license or driver's license, as applicable, at all times. 
+If you move to a new state you are required to review and adhere to the state's requirements for obtaining a new driver's license and provide a new copy of the updated license to your logistics manager.
+Fleet Associates are also required to maintain a valid medical card at all times.
+Current and valid medical cards and licenses are required to operate fleet equipment at all times and all fleet associates must have medical cards and licenses available to present in the event of a traffic stop or roadside inspection.
+
+CarMax Hours of Service (HOS) Rules
+
+CarMax Fleet Associates are required to comply with Hours-of-Service (HOS) rules as issued by the Department of Transportation's Federal Motor Carrier Safety Administration (FMCSA). 
+Violations of these rules may subject CarMax to serious penalties and fines. 
+Any driver that is not in compliance with these rules will face disciplinary actions, up to and including, termination.
+
+Hours of Service Requirements for Fleet Associates:
+
+    • 14-Hour Limit - Cannot be "on-duty" for more than 14 hours per day.
+    • Fleet Associates must take a minimum 10 hours "off-duty" before starting a new day.
+    • 11 Hour Driving Limit - Cannot drive a CMV more than 11 hours during a 14-hour day without adverse conditions exception
+    • 70/8 Hour Duty Limit - Cannot be "on-duty" for more than 70 hours over any 8 consecutive day period.
+    • 34-hour Restart - Fleet Associates can restart their 70/8 clock only after spending 34 consecutive hours "off-duty"
+    • 30-Minute Rest Break - All Fleet Associates must take a 30-minute break when they have driven for a period of 8 cumulative hours without at least a 30-minute interruption. 
+The 30-minute break from driving time can be satisfied by off-duty, sleeper berth, or on-duty not driving time, or by a combination of off-duty, sleeper berth and on-duty not driving time.
+
+Non-CDL Fleet Associates, or Vehicle Delivery Drivers, are also subject to state specific meal and rest break requirements depending on the state in which they work. 
+For more information, refer to the Meal Period and Rest Break Policy found on CarMax World.
+All Fleet associates domiciled in California - regardless of position - are also subject to the California state specific meal and rest break requirements and must follow those requirements. 
+Per these rules, California Fleet associates domiciled in California are required to attest in Kronos if they do not wish to take a 2nd meal break, among other requirements. 
+For more information on these requirements, refer to the Meal Period and Rest Break Policy found on CarMax World.
+If a Fleet Associate is in On-Duty Not Driving or On-Duty Driving status in the ELD, they must be clocked in to Kronos.
+If an associate is in Off Duty or Sleeper Berth status in the ELD, the associate must be clocked out of Kronos, unless otherwise specified in the Meal Period and Rest Break Policy found in CarMax World, as it applies to Non-CL Fleet Associates or Vehicle Delivery Drivers.
+——
+

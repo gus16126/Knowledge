@@ -1,0 +1,137 @@
+{
+  "topic": "pre-trip inspection",
+  "citation_line": "Index.md (2026-06-06); \ud83d\udcd8 Peer Training and Self-Evaluation Summary.md (2026-06-06)",
+  "candidates": [
+    {
+      "title": "Index",
+      "path": "..\\..\\Training\\Index.md",
+      "last_modified": "2026-06-06",
+      "summary": "Training Index Vocabulary Guide docs CarMax_Vocabulary_Guide txt Vocabulary Audit pending CarMax Two Car Hauler Loading Configuration Peer Training and Self",
+      "tags": [
+        "training",
+        "index",
+        "loading"
+      ],
+      "word_count": 138,
+      "value_labels": [
+        "Teamwork",
+        "Safety",
+        "Improvement",
+        "Appreciation"
+      ],
+      "suggested_phrases": [
+        "We Win Together when everyone stays consistent with the process.",
+        "Safety first \u2014 take a moment to double-check before moving.",
+        "Let's Go For Greatness by incorporating this improvement."
+      ]
+    },
+    {
+      "title": "\ud83d\udcd8 Peer Training and Self-Evaluation Summary",
+      "path": "..\\..\\Training\\Peer Training and Self-Evaluation.md",
+      "last_modified": "2026-06-06",
+      "summary": "Peer Training and Self Evaluation Summary Purpose To consolidate all peer training records safety initiatives and self evaluation milestones from",
+      "tags": [
+        "safety",
+        "training",
+        "trip"
+      ],
+      "word_count": 3348,
+      "value_labels": [
+        "Teamwork",
+        "Safety",
+        "Integrity",
+        "Improvement"
+      ],
+      "suggested_phrases": [
+        "We Win Together when everyone stays consistent with the process.",
+        "Safety first \u2014 take a moment to double-check before moving.",
+        "Doing the Right Thing means following this process end-to-end."
+      ]
+    },
+    {
+      "title": "Gustavo Guallar Performance Rating",
+      "path": "..\\..\\CarMax Leadership\\Gustavo Guallar Performance Rating.md",
+      "last_modified": "2026-06-05",
+      "summary": "Gustavo Guallar 280305 2025 Overall Performance Rating APR Summary Manager Rating Successful Comment Strength Results Focus Gustavo consistently demonstrates exceptional",
+      "tags": [
+        "rating",
+        "gustavo",
+        "team"
+      ],
+      "word_count": 308,
+      "value_labels": [
+        "Teamwork",
+        "Integrity",
+        "Improvement",
+        "Appreciation"
+      ],
+      "suggested_phrases": [
+        "We Win Together when everyone stays consistent with the process.",
+        "Doing the Right Thing means following this process end-to-end.",
+        "Let's Go For Greatness by incorporating this improvement."
+      ]
+    },
+    {
+      "title": "Training-Pre-Trip Inspection",
+      "path": "..\\..\\Training\\Training-Pre-Trip Inspection.md",
+      "last_modified": "2026-06-05",
+      "summary": "Pre Trip Inspection Checklist Two Car Haulers Instructions Check each item as completed",
+      "tags": [
+        "condition",
+        "air",
+        "rear"
+      ],
+      "word_count": 2440,
+      "value_labels": [
+        "Teamwork",
+        "Safety",
+        "Integrity",
+        "Improvement"
+      ],
+      "suggested_phrases": [
+        "We Win Together when everyone stays consistent with the process.",
+        "Safety first \u2014 take a moment to double-check before moving.",
+        "Doing the Right Thing means following this process end-to-end."
+      ]
+    },
+    {
+      "title": "Purpose of Daily Message Training",
+      "path": "..\\..\\Training\\Purpose of Daily Message Training.md",
+      "last_modified": "2026-06-05",
+      "summary": "Purpose Of The Daily Message Training Program Team The purpose of this training program is to strengthen our knowledge consistency",
+      "tags": [
+        "our",
+        "training",
+        "inspection"
+      ],
+      "word_count": 164,
+      "value_labels": [
+        "Teamwork",
+        "Safety",
+        "Improvement",
+        "Appreciation"
+      ],
+      "suggested_phrases": [
+        "We Win Together when everyone stays consistent with the process.",
+        "Safety first \u2014 take a moment to double-check before moving.",
+        "Let's Go For Greatness by incorporating this improvement."
+      ]
+    }
+  ],
+  "value_labels": [
+    "Teamwork",
+    "Safety",
+    "Improvement",
+    "Appreciation",
+    "Integrity"
+  ],
+  "suggested_phrases": [
+    "We Win Together when everyone stays consistent with the process.",
+    "Safety first \u2014 take a moment to double-check before moving.",
+    "Let's Go For Greatness by incorporating this improvement.",
+    "Doing the Right Thing means following this process end-to-end."
+  ],
+  "primary_suggestion": "We Win Together when everyone stays consistent with the process.",
+  "tone_hint": "Teamwork, Safety, Improvement, Appreciation, Integrity",
+  "notes": ""
+}
