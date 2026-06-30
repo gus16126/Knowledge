@@ -1,6 +1,6 @@
 {
   "CarMax Leadership": {
-    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md",
+    "connector": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\index.md",
     "metadata": {
       "Vocabulary Guide": "CarMax Vocabulary & Philosophy.md",
       "Vocabulary Audit": "complete"
@@ -8,197 +8,412 @@
     "broken_links": [],
     "resolved_links": [
       {
-        "link": "2025_Overall_Performance_Rating_APR_Summary",
-        "target": "2025_Overall_Performance_Rating_APR_Summary",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\2025_Overall_Performance_Rating_APR_Summary.md"
+        "link": "CarMax Leadership/2025_Overall_Performance_Rating_APR_Summary.md",
+        "target": "CarMax Leadership/2025_Overall_Performance_Rating_APR_Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\2025_Overall_Performance_Rating_APR_Summary.md"
       },
       {
-        "link": "CarMax ADP Reference",
-        "target": "CarMax ADP Reference",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax ADP Reference.md"
+        "link": "CarMax Leadership/CarMax ADP Reference.md",
+        "target": "CarMax Leadership/CarMax ADP Reference",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax ADP Reference.md"
       },
       {
-        "link": "CarMax Coaching",
-        "target": "CarMax Coaching",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Coaching.md"
+        "link": "CarMax Leadership/CarMax Coaching.md",
+        "target": "CarMax Leadership/CarMax Coaching",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Coaching.md"
       },
       {
-        "link": "CarMax Code Of Conduct",
-        "target": "CarMax Code Of Conduct",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Code Of Conduct.md"
+        "link": "CarMax Leadership/CarMax Code Of Conduct.md",
+        "target": "CarMax Leadership/CarMax Code Of Conduct",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Code Of Conduct.md"
       },
       {
-        "link": "CarMax Information",
-        "target": "CarMax Information",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Information.md"
+        "link": "CarMax Leadership/CarMax Information.md",
+        "target": "CarMax Leadership/CarMax Information",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Information.md"
       },
       {
-        "link": "CarMax LDP",
-        "target": "CarMax LDP",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax LDP.md"
+        "link": "CarMax Leadership/CarMax LDP.md",
+        "target": "CarMax Leadership/CarMax LDP",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax LDP.md"
       },
       {
-        "link": "CarMax Leader Calibration Scoring",
-        "target": "CarMax Leader Calibration Scoring",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leader Calibration Scoring.md"
+        "link": "CarMax Leadership/CarMax Leader Calibration Scoring.md",
+        "target": "CarMax Leadership/CarMax Leader Calibration Scoring",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Leader Calibration Scoring.md"
       },
       {
-        "link": "CarMax Leadership Development",
-        "target": "CarMax Leadership Development",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership Development.md"
+        "link": "CarMax Leadership/CarMax Leadership Development.md",
+        "target": "CarMax Leadership/CarMax Leadership Development",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Leadership Development.md"
       },
       {
-        "link": "CarMax Leadership Pipeline",
-        "target": "CarMax Leadership Pipeline",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership Pipeline.md"
+        "link": "CarMax Leadership/CarMax Leadership Pipeline.md",
+        "target": "CarMax Leadership/CarMax Leadership Pipeline",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Leadership Pipeline.md"
       },
       {
-        "link": "CarMax Leadership System",
-        "target": "CarMax Leadership System",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Leadership System.md"
+        "link": "CarMax Leadership/CarMax Leadership System.md",
+        "target": "CarMax Leadership/CarMax Leadership System",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Leadership System.md"
       },
       {
-        "link": "CarMax Map Deep Dive",
-        "target": "CarMax Map Deep Dive",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Map Deep Dive.md"
+        "link": "CarMax Leadership/CarMax Map Deep Dive.md",
+        "target": "CarMax Leadership/CarMax Map Deep Dive",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Map Deep Dive.md"
       },
       {
-        "link": "CarMax Objective & IDP Draft",
-        "target": "CarMax Objective & IDP Draft",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Objective & IDP Draft.md"
+        "link": "CarMax Leadership/CarMax Objective & IDP Draft.md",
+        "target": "CarMax Leadership/CarMax Objective & IDP Draft",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Objective & IDP Draft.md"
       },
       {
-        "link": "CarMax Promotion Deck",
-        "target": "CarMax Promotion Deck",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Promotion Deck.md"
+        "link": "CarMax Leadership/CarMax Promotion Deck.md",
+        "target": "CarMax Leadership/CarMax Promotion Deck",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Promotion Deck.md"
       },
       {
-        "link": "CarMax Vocabulary & Philosophy",
-        "target": "CarMax Vocabulary & Philosophy",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Vocabulary & Philosophy.md"
+        "link": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
+        "target": "CarMax Leadership/CarMax Vocabulary & Philosophy",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Vocabulary & Philosophy.md"
       },
       {
-        "link": "Gustavo Guallar Harver Assessment Report",
-        "target": "Gustavo Guallar Harver Assessment Report",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Harver Assessment Report.md"
+        "link": "CarMax Leadership/Gustavo Guallar Harver Assessment Report.md",
+        "target": "CarMax Leadership/Gustavo Guallar Harver Assessment Report",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Harver Assessment Report.md"
       },
       {
-        "link": "Gustavo Guallar Overall Performance 2025",
-        "target": "Gustavo Guallar Overall Performance 2025",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Overall Performance 2025.md"
+        "link": "CarMax Leadership/Gustavo Guallar Overall Performance 2025.md",
+        "target": "CarMax Leadership/Gustavo Guallar Overall Performance 2025",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Overall Performance 2025.md"
       },
       {
-        "link": "Gustavo Guallar Performance Rating",
-        "target": "Gustavo Guallar Performance Rating",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar Performance Rating.md"
+        "link": "CarMax Leadership/Gustavo Guallar Performance Rating.md",
+        "target": "CarMax Leadership/Gustavo Guallar Performance Rating",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Performance Rating.md"
       },
       {
-        "link": "Gustavo Guallar-Self Evaluation 2025",
-        "target": "Gustavo Guallar-Self Evaluation 2025",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self Evaluation 2025.md"
+        "link": "CarMax Leadership/Gustavo Guallar-Self Evaluation 2025.md",
+        "target": "CarMax Leadership/Gustavo Guallar-Self Evaluation 2025",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self Evaluation 2025.md"
       },
       {
-        "link": "Gustavo Guallar-Self-Evaluation Summary",
-        "target": "Gustavo Guallar-Self-Evaluation Summary",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self-Evaluation Summary.md"
+        "link": "CarMax Leadership/Gustavo Guallar-Self-Evaluation Summary.md",
+        "target": "CarMax Leadership/Gustavo Guallar-Self-Evaluation Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self-Evaluation Summary.md"
       },
       {
-        "link": "IDP Framework",
-        "target": "IDP Framework",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\IDP Framework.md"
+        "link": "CarMax Leadership/IDP Framework.md",
+        "target": "CarMax Leadership/IDP Framework",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\IDP Framework.md"
       },
       {
-        "link": "IDP Associate Handout",
-        "target": "IDP Associate Handout",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\IDP Associate Handout.md"
+        "link": "CarMax Leadership/IDP Associate Handout.md",
+        "target": "CarMax Leadership/IDP Associate Handout",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\IDP Associate Handout.md"
       },
       {
-        "link": "Leadership Visual Pathway",
-        "target": "Leadership Visual Pathway",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Leadership Visual Pathway.md"
-      },
-      {
-        "link": "Manager Evaluation 7-1-25",
-        "target": "Manager Evaluation 7-1-25",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Manager Evaluation 7-1-25.md"
+        "link": "CarMax Leadership/Leadership Visual Pathway.md",
+        "target": "CarMax Leadership/Leadership Visual Pathway",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Leadership Visual Pathway.md"
       },
       {
         "link": "Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
         "target": "Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Manager_Evaluation__File_Review__Gustavo_Guallar.pdf"
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Manager_Evaluation__File_Review__Gustavo_Guallar.pdf"
       },
       {
-        "link": "Promotion Conversation Script",
-        "target": "Promotion Conversation Script",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Conversation Script.md"
+        "link": "CarMax Leadership/Manager Evaluation 7-1-25.md",
+        "target": "CarMax Leadership/Manager Evaluation 7-1-25",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Manager Evaluation 7-1-25.md"
       },
       {
-        "link": "Promotion Packet",
-        "target": "Promotion Packet",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Packet.md"
+        "link": "CarMax Leadership/Promotion Conversation Script.md",
+        "target": "CarMax Leadership/Promotion Conversation Script",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Promotion Conversation Script.md"
       },
       {
-        "link": "Promotion Ready Summary",
-        "target": "Promotion Ready Summary",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Promotion Ready Summary.md"
+        "link": "CarMax Leadership/Promotion Packet.md",
+        "target": "CarMax Leadership/Promotion Packet",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Promotion Packet.md"
       },
       {
-        "link": "Role Guide Assessment",
-        "target": "Role Guide Assessment",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Role Guide Assessment.md"
+        "link": "CarMax Leadership/Promotion Ready Summary.md",
+        "target": "CarMax Leadership/Promotion Ready Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Promotion Ready Summary.md"
       },
       {
-        "link": "S.M.A.R.T Meaning",
-        "target": "S.M.A.R.T Meaning",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\S.M.A.R.T Meaning.md"
+        "link": "CarMax Leadership/Role Guide Assessment.md",
+        "target": "CarMax Leadership/Role Guide Assessment",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role Guide Assessment.md"
       },
       {
-        "link": "Self Evaluation August 2024",
-        "target": "Self Evaluation August 2024",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self Evaluation August 2024.md"
+        "link": "CarMax Leadership/S.M.A.R.T Meaning.md",
+        "target": "CarMax Leadership/S.M.A.R.T Meaning",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\S.M.A.R.T Meaning.md"
       },
       {
-        "link": "Self-Evaluation June 2022",
-        "target": "Self-Evaluation June 2022",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self-Evaluation June 2022.md"
+        "link": "CarMax Leadership/Self Evaluation August 2024.md",
+        "target": "CarMax Leadership/Self Evaluation August 2024",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Self Evaluation August 2024.md"
       },
       {
-        "link": "Self-Evaluation November 2022",
-        "target": "Self-Evaluation November 2022",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Self-Evaluation November 2022.md"
+        "link": "CarMax Leadership/Self-Evaluation June 2022.md",
+        "target": "CarMax Leadership/Self-Evaluation June 2022",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Self-Evaluation June 2022.md"
       },
       {
-        "link": "Statement Best Describe A Manager",
-        "target": "Statement Best Describe A Manager",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\Statement Best Describe A Manager.md"
+        "link": "CarMax Leadership/Self-Evaluation November 2022.md",
+        "target": "CarMax Leadership/Self-Evaluation November 2022",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Self-Evaluation November 2022.md"
       },
       {
-        "link": "Communications/index|index",
-        "target": "Communications/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+        "link": "CarMax Leadership/Statement Best Describe A Manager.md",
+        "target": "CarMax Leadership/Statement Best Describe A Manager",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Statement Best Describe A Manager.md"
       },
       {
-        "link": "Maintenance Messages/index|index",
-        "target": "Maintenance Messages/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+        "link": "CarMax Leadership/Role Guide Assessment Tool-LEAD IC to Manager.md",
+        "target": "CarMax Leadership/Role Guide Assessment Tool-LEAD IC to Manager",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role Guide Assessment Tool-LEAD IC to Manager.md"
       },
       {
-        "link": "Recognitions/index|index",
-        "target": "Recognitions/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+        "link": "CarMax Leadership/Personality Test For Job Assessment_.md",
+        "target": "CarMax Leadership/Personality Test For Job Assessment_",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Personality Test For Job Assessment_.md"
       },
       {
-        "link": "Training/Index|Index",
-        "target": "Training/Index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+        "link": "CarMax Leadership/CarMax Benefits of creating an IDP.md",
+        "target": "CarMax Leadership/CarMax Benefits of creating an IDP",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Benefits of creating an IDP.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Business Overview.md",
+        "target": "CarMax Leadership/CarMax Business Overview",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Business Overview.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Code Of Business Conduct.md",
+        "target": "CarMax Leadership/CarMax Code Of Business Conduct",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Code Of Business Conduct.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Department Specific Self Evaluati.md",
+        "target": "CarMax Leadership/CarMax Department Specific Self Evaluati",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Department Specific Self Evaluati.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Department Specific Self Evaluation for August 2024.md",
+        "target": "CarMax Leadership/CarMax Department Specific Self Evaluation for August 2024",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Department Specific Self Evaluation for August 2024.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Distinguishing Teams from Work Groups.md",
+        "target": "CarMax Leadership/CarMax Distinguishing Teams from Work Groups",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Distinguishing Teams from Work Groups.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Human Capital Resources.md",
+        "target": "CarMax Leadership/CarMax Human Capital Resources",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Human Capital Resources.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
+        "target": "CarMax Leadership/CarMax Laws and Regulations For Dealer",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Laws and Regulations For Dealer.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Manager Development \u2013 Harver Assessment.md",
+        "target": "CarMax Leadership/CarMax Manager Development \u2013 Harver Assessment",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Manager Development \u2013 Harver Assessment.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax Master Leadership Binder.md",
+        "target": "CarMax Leadership/CarMax Master Leadership Binder",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax Master Leadership Binder.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax-Pre-Trip Inspection Two Car Haulers.md",
+        "target": "CarMax Leadership/CarMax-Pre-Trip Inspection Two Car Haulers",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax-Pre-Trip Inspection Two Car Haulers.md"
+      },
+      {
+        "link": "CarMax Leadership/CarMax-What is the CarMax IDP.md",
+        "target": "CarMax Leadership/CarMax-What is the CarMax IDP",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\CarMax-What is the CarMax IDP.md"
+      },
+      {
+        "link": "CarMax Leadership/Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md",
+        "target": "CarMax Leadership/Gustavo Guallar 2025 Overall Performance Rating & APR Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md"
+      },
+      {
+        "link": "CarMax Leadership/Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary.md",
+        "target": "CarMax Leadership/Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar CarMax Manager Development \u2013 Harver Assessment Summary.md"
+      },
+      {
+        "link": "CarMax Leadership/Gustavo Guallar Harver Assessment Summary.md",
+        "target": "CarMax Leadership/Gustavo Guallar Harver Assessment Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Harver Assessment Summary.md"
+      },
+      {
+        "link": "CarMax Leadership/Leading Strengths - Gustavo Guallar.md",
+        "target": "CarMax Leadership/Leading Strengths - Gustavo Guallar",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Leading Strengths - Gustavo Guallar.md"
+      },
+      {
+        "link": "CarMax Leadership/Peer Training and Self-Evaluation Summary.md",
+        "target": "CarMax Leadership/Peer Training and Self-Evaluation Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Peer Training and Self-Evaluation Summary.md"
+      },
+      {
+        "link": "CarMax Leadership/Self-Evaluation Summary.md",
+        "target": "CarMax Leadership/Self-Evaluation Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Self-Evaluation Summary.md"
+      },
+      {
+        "link": "CarMax Leadership/Strong Management Traits.md",
+        "target": "CarMax Leadership/Strong Management Traits",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Strong Management Traits.md"
+      },
+      {
+        "link": "CarMax Leadership/60 Question Personality Test 1 - JobAssessmentHelp.pdf",
+        "target": "CarMax Leadership/60 Question Personality Test 1 - JobAssessmentHelp.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\60 Question Personality Test 1 - JobAssessmentHelp.pdf"
+      },
+      {
+        "link": "CarMax Leadership/60 Question Personality Test 2 - JobAssessmentHelp.pdf",
+        "target": "CarMax Leadership/60 Question Personality Test 2 - JobAssessmentHelp.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\60 Question Personality Test 2 - JobAssessmentHelp.pdf"
+      },
+      {
+        "link": "CarMax Leadership/80 Questions Personality Test 4 - JobAssessmentHelp.pdf",
+        "target": "CarMax Leadership/80 Questions Personality Test 4 - JobAssessmentHelp.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\80 Questions Personality Test 4 - JobAssessmentHelp.pdf"
+      },
+      {
+        "link": "CarMax Leadership/A time you organize a plan to reach a complex goal.pdf",
+        "target": "CarMax Leadership/A time you organize a plan to reach a complex goal.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\A time you organize a plan to reach a complex goal.pdf"
+      },
+      {
+        "link": "CarMax Leadership/A time you solve complicated business problem.pdf",
+        "target": "CarMax Leadership/A time you solve complicated business problem.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\A time you solve complicated business problem.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Conflict Resolution.pdf",
+        "target": "CarMax Leadership/Conflict Resolution.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Conflict Resolution.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf",
+        "target": "CarMax Leadership/Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf"
+      },
+      {
+        "link": "CarMax Leadership/gustavo_guallar_apr_2025.pdf",
+        "target": "CarMax Leadership/gustavo_guallar_apr_2025.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\gustavo_guallar_apr_2025.pdf"
+      },
+      {
+        "link": "CarMax Leadership/gustavo_guallar_MDP_assessment.pdf",
+        "target": "CarMax Leadership/gustavo_guallar_MDP_assessment.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\gustavo_guallar_MDP_assessment.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Insight and IDP Handout.pdf",
+        "target": "CarMax Leadership/Insight and IDP Handout.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Insight and IDP Handout.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Logical Reasoning - Test 1 - JobAssessmentHelp.pdf",
+        "target": "CarMax Leadership/Logical Reasoning - Test 1 - JobAssessmentHelp.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Logical Reasoning - Test 1 - JobAssessmentHelp.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Logical-Reasoning-Tests-Study-Guide.pdf",
+        "target": "CarMax Leadership/Logical-Reasoning-Tests-Study-Guide.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Logical-Reasoning-Tests-Study-Guide.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Logistic - Funtional Observation.pdf",
+        "target": "CarMax Leadership/Logistic - Funtional Observation.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Logistic - Funtional Observation.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar.pdf",
+        "target": "CarMax Leadership/Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
+        "target": "CarMax Leadership/Manager_Evaluation__File_Review__Gustavo_Guallar.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Manager_Evaluation__File_Review__Gustavo_Guallar.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Mid_Year_Self_Evaluation_2025.pdf",
+        "target": "CarMax Leadership/Mid_Year_Self_Evaluation_2025.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Mid_Year_Self_Evaluation_2025.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Recognition 1.pdf",
+        "target": "CarMax Leadership/Recognition 1.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Recognition 1.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Role Guide Assessment Tool LEAD - IC to Manager.pdf",
+        "target": "CarMax Leadership/Role Guide Assessment Tool LEAD - IC to Manager.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role Guide Assessment Tool LEAD - IC to Manager.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm.pdf",
+        "target": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role_Guide_Assessment_Tool_Lead.IC2_BlankForm.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm1.pdf",
+        "target": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm1.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role_Guide_Assessment_Tool_Lead.IC2_BlankForm1.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf",
+        "target": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf",
+        "target": "CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Time Help A Team Member.pdf",
+        "target": "CarMax Leadership/Time Help A Team Member.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Time Help A Team Member.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Time helped coworker improve performance.pdf",
+        "target": "CarMax Leadership/Time helped coworker improve performance.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Time helped coworker improve performance.pdf"
+      },
+      {
+        "link": "CarMax Leadership/Verbal-Reasoning-Tests-Study-Guide.pdf",
+        "target": "CarMax Leadership/Verbal-Reasoning-Tests-Study-Guide.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Verbal-Reasoning-Tests-Study-Guide.pdf"
       }
     ],
-    "orphan_content_files": [],
-    "content_file_count": 32,
-    "link_count": 37
+    "orphan_content_files": [
+      "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar 6-9-26 Quarterly File Review.md",
+      "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Disciplinary Action Information.md",
+      "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar Write-Up.md",
+      "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\CarMax Leadership\\Gustavo Guallar-Self-Evaluation Summary - Draft.md"
+    ],
+    "content_file_count": 57,
+    "link_count": 79
   },
   "Communications": {
-    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md",
+    "connector": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\index.md",
     "metadata": {
       "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
       "Vocabulary Audit": "complete"
@@ -206,57 +421,62 @@
     "broken_links": [],
     "resolved_links": [
       {
-        "link": "Christmas Message To Jessy",
-        "target": "Christmas Message To Jessy",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Christmas Message To Jessy.md"
+        "link": "Communications/Christmas Message To Jessy.md",
+        "target": "Communications/Christmas Message To Jessy",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Christmas Message To Jessy.md"
       },
       {
-        "link": "Christmas Message To Matt Douglas",
-        "target": "Christmas Message To Matt Douglas",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Christmas Message To Matt Douglas.md"
+        "link": "Communications/Christmas Message To Matt Douglas.md",
+        "target": "Communications/Christmas Message To Matt Douglas",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Christmas Message To Matt Douglas.md"
       },
       {
-        "link": "Effective Communication & Vocabulary",
-        "target": "Effective Communication & Vocabulary",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Effective Communication & Vocabulary.md"
+        "link": "Communications/Effective Communication & Vocabulary.md",
+        "target": "Communications/Effective Communication & Vocabulary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Effective Communication & Vocabulary.md"
       },
       {
-        "link": "Training Correction Message To Matthew Douglas",
-        "target": "Training Correction Message To Matthew Douglas",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Training Correction Message To Matthew Douglas.md"
+        "link": "Communications/Message To Matt - Toolbox.md",
+        "target": "Communications/Message To Matt - Toolbox",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Message To Matt - Toolbox.md"
       },
       {
-        "link": "Training Message To Matt Douglas",
-        "target": "Training Message To Matt Douglas",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Training Message To Matt Douglas.md"
+        "link": "Communications/Message To Matt On Truck 557.md",
+        "target": "Communications/Message To Matt On Truck 557",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Message To Matt On Truck 557.md"
       },
       {
-        "link": "CarMax Leadership/index|index",
-        "target": "CarMax Leadership/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+        "link": "Communications/Message To Matt Vehicle Jacket Found.md",
+        "target": "Communications/Message To Matt Vehicle Jacket Found",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Message To Matt Vehicle Jacket Found.md"
       },
       {
-        "link": "Maintenance Messages/index|index",
-        "target": "Maintenance Messages/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+        "link": "Communications/Training Correction Message To Matthew Douglas.md",
+        "target": "Communications/Training Correction Message To Matthew Douglas",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Training Correction Message To Matthew Douglas.md"
       },
       {
-        "link": "Recognitions/index|index",
-        "target": "Recognitions/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+        "link": "Communications/Training Message To Matt Douglas.md",
+        "target": "Communications/Training Message To Matt Douglas",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Training Message To Matt Douglas.md"
       },
       {
-        "link": "Training/Index|Index",
-        "target": "Training/Index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+        "link": "Communications/huddle_morning_safety_brief___tire_pressure_checks_2026-05-22.md",
+        "target": "Communications/huddle_morning_safety_brief___tire_pressure_checks_2026-05-22",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\huddle_morning_safety_brief___tire_pressure_checks_2026-05-22.md"
+      },
+      {
+        "link": "Communications/Management Email Communications.md",
+        "target": "Communications/Management Email Communications",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Communications\\Management Email Communications.md"
       }
     ],
     "orphan_content_files": [],
-    "content_file_count": 5,
-    "link_count": 9
+    "content_file_count": 10,
+    "link_count": 10
   },
   "Maintenance Messages": {
-    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md",
+    "connector": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Maintenance Messages\\index.md",
     "metadata": {
       "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
       "Vocabulary Audit": "complete"
@@ -264,37 +484,17 @@
     "broken_links": [],
     "resolved_links": [
       {
-        "link": "Maintenance Request-142412",
-        "target": "Maintenance Request-142412",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\Maintenance Request-142412.md"
-      },
-      {
-        "link": "CarMax Leadership/index|index",
-        "target": "CarMax Leadership/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
-      },
-      {
-        "link": "Communications/index|index",
-        "target": "Communications/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
-      },
-      {
-        "link": "Recognitions/index|index",
-        "target": "Recognitions/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
-      },
-      {
-        "link": "Training/Index|Index",
-        "target": "Training/Index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+        "link": "Maintenance Messages/Maintenance Request-142412.md",
+        "target": "Maintenance Messages/Maintenance Request-142412",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Maintenance Messages\\Maintenance Request-142412.md"
       }
     ],
     "orphan_content_files": [],
     "content_file_count": 1,
-    "link_count": 5
+    "link_count": 1
   },
   "Recognitions": {
-    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md",
+    "connector": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Recognitions\\index.md",
     "metadata": {
       "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
       "Vocabulary Audit": "complete"
@@ -302,57 +502,32 @@
     "broken_links": [],
     "resolved_links": [
       {
-        "link": "Recognition Given",
-        "target": "Recognition Given",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Given.md"
+        "link": "Recognitions/Recognition Given.md",
+        "target": "Recognitions/Recognition Given",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Recognitions\\Recognition Given.md"
       },
       {
-        "link": "Recognition Purpose",
-        "target": "Recognition Purpose",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Purpose.md"
+        "link": "Recognitions/Recognition Purpose.md",
+        "target": "Recognitions/Recognition Purpose",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Recognitions\\Recognition Purpose.md"
       },
       {
-        "link": "Recognition Received",
-        "target": "Recognition Received",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognition Received.md"
+        "link": "Recognitions/Recognition Received.md",
+        "target": "Recognitions/Recognition Received",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Recognitions\\Recognition Received.md"
       },
       {
-        "link": "Recognitions Reply",
-        "target": "Recognitions Reply",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\Recognitions Reply.md"
-      },
-      {
-        "link": "CarMax Vocabulary & Philosophy",
-        "target": "CarMax Vocabulary & Philosophy",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\CarMax Vocabulary & Philosophy.md"
-      },
-      {
-        "link": "CarMax Leadership/index|index",
-        "target": "CarMax Leadership/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
-      },
-      {
-        "link": "Communications/index|index",
-        "target": "Communications/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
-      },
-      {
-        "link": "Maintenance Messages/index|index",
-        "target": "Maintenance Messages/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
-      },
-      {
-        "link": "Training/Index|Index",
-        "target": "Training/Index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md"
+        "link": "Recognitions/Recognitions Reply.md",
+        "target": "Recognitions/Recognitions Reply",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Recognitions\\Recognitions Reply.md"
       }
     ],
     "orphan_content_files": [],
     "content_file_count": 4,
-    "link_count": 9
+    "link_count": 4
   },
   "Training": {
-    "connector": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Index.md",
+    "connector": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Index.md",
     "metadata": {
       "Vocabulary Guide": "CarMax Leadership/CarMax Vocabulary & Philosophy.md",
       "Vocabulary Audit": "complete"
@@ -360,253 +535,803 @@
     "broken_links": [],
     "resolved_links": [
       {
-        "link": "CarMax Two Car Hauler Loading Configuration",
-        "target": "CarMax Two Car Hauler Loading Configuration",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\CarMax Two Car Hauler Loading Configuration.md"
-      },
-      {
         "link": "Pasted image 20260601014520.png",
         "target": "Pasted image 20260601014520.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601014520.png"
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601014520.png"
       },
       {
-        "link": "Pasted image 20260601015533.png",
-        "target": "Pasted image 20260601015533.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601015533.png"
+        "link": "Training/CarMax Two Car Hauler Loading Configuration.md",
+        "target": "Training/CarMax Two Car Hauler Loading Configuration",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\CarMax Two Car Hauler Loading Configuration.md"
       },
       {
-        "link": "Pasted image 20260601020041.png",
-        "target": "Pasted image 20260601020041.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601020041.png"
+        "link": "Training - Two Car Hauler.png",
+        "target": "Training - Two Car Hauler.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Two Car Hauler.png"
       },
       {
-        "link": "Pasted image 20260601220055.png",
-        "target": "Pasted image 20260601220055.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601220055.png"
+        "link": "Training/Pasted image two car hauler.md",
+        "target": "Training/Pasted image two car hauler",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image two car hauler.md"
       },
       {
-        "link": "Pasted image 20260601223822.png",
-        "target": "Pasted image 20260601223822.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260601223822.png"
+        "link": "Training/Class B CDL Training Curriculum.md",
+        "target": "Training/Class B CDL Training Curriculum",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Class B CDL Training Curriculum.md"
       },
       {
-        "link": "Pasted image 20260606220715.png",
-        "target": "Pasted image 20260606220715.png",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pasted image 20260606220715.png"
+        "link": "Training/Peer Training-Alex Lopez Guerra.md",
+        "target": "Training/Peer Training-Alex Lopez Guerra",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Alex Lopez Guerra.md"
       },
       {
-        "link": "Training Cotrell Two Car Carrier Manual.pdf",
-        "target": "Training Cotrell Two Car Carrier Manual.pdf",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Cotrell Two Car Carrier Manual.pdf"
+        "link": "Training/Peer Training-Ben Gordon.md",
+        "target": "Training/Peer Training-Ben Gordon",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Ben Gordon.md"
       },
       {
-        "link": "Peer Training and Self-Evaluation",
-        "target": "Peer Training and Self-Evaluation",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training and Self-Evaluation.md"
+        "link": "Training/Peer Training-Carlos Barrios.md",
+        "target": "Training/Peer Training-Carlos Barrios",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Carlos Barrios.md"
       },
       {
-        "link": "Peer Training-Alex Lopez Guerra",
-        "target": "Peer Training-Alex Lopez Guerra",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Alex Lopez Guerra.md"
+        "link": "Training/Peer Training-Dayan Enamorado.md",
+        "target": "Training/Peer Training-Dayan Enamorado",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Dayan Enamorado.md"
       },
       {
-        "link": "Peer Training-Ben Gordon",
-        "target": "Peer Training-Ben Gordon",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Ben Gordon.md"
+        "link": "Training/Peer Training-Santiago Munarriz.md",
+        "target": "Training/Peer Training-Santiago Munarriz",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Santiago Munarriz.md"
       },
       {
-        "link": "Peer Training-Carlos Barrios",
-        "target": "Peer Training-Carlos Barrios",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Carlos Barrios.md"
+        "link": "Training/Peer Training-Von Frazier.md",
+        "target": "Training/Peer Training-Von Frazier",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training-Von Frazier.md"
       },
       {
-        "link": "Peer Training-Santiago Munarriz",
-        "target": "Peer Training-Santiago Munarriz",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Peer Training-Santiago Munarriz.md"
+        "link": "Training/Pre-Trip Inspection Reinforcement Plan.md",
+        "target": "Training/Pre-Trip Inspection Reinforcement Plan",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pre-Trip Inspection Reinforcement Plan.md"
       },
       {
-        "link": "Pre-Trip Inspection Reinforcement Plan",
-        "target": "Pre-Trip Inspection Reinforcement Plan",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pre-Trip Inspection Reinforcement Plan.md"
+        "link": "Training/Pre-Trip Training Plan 7108.md",
+        "target": "Training/Pre-Trip Training Plan 7108",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pre-Trip Training Plan 7108.md"
       },
       {
-        "link": "Pre-Trip Training Plan 7108",
-        "target": "Pre-Trip Training Plan 7108",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Pre-Trip Training Plan 7108.md"
+        "link": "Training/Purpose of Daily Message Training.md",
+        "target": "Training/Purpose of Daily Message Training",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Purpose of Daily Message Training.md"
       },
       {
-        "link": "Purpose of Daily Message Training",
-        "target": "Purpose of Daily Message Training",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Purpose of Daily Message Training.md"
+        "link": "Training/QuiXspinz Ratcheting System.md",
+        "target": "Training/QuiXspinz Ratcheting System",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\QuiXspinz Ratcheting System.md"
       },
       {
-        "link": "QuiXspinz Ratcheting System",
-        "target": "QuiXspinz Ratcheting System",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\QuiXspinz Ratcheting System.md"
+        "link": "Training/Importance of Air Dryers in Commercial Vehicle.md",
+        "target": "Training/Importance of Air Dryers in Commercial Vehicle",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Importance of Air Dryers in Commercial Vehicle.md"
       },
       {
-        "link": "Training Cotrell Two Car Carrier Manual.pdf",
-        "target": "Training Cotrell Two Car Carrier Manual.pdf",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Cotrell Two Car Carrier Manual.pdf"
+        "link": "Training/Index.md",
+        "target": "Training/Index",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Index.md"
       },
       {
-        "link": "Training Entering Lower Deck 3 Point Contact November _14, _2025.mov",
-        "target": "Training Entering Lower Deck 3 Point Contact November _14, _2025.mov",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Entering Lower Deck 3 Point Contact November _14, _2025.mov"
+        "link": "Training/Peer Training and Self-Evaluation Summary.md",
+        "target": "Training/Peer Training and Self-Evaluation Summary",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Peer Training and Self-Evaluation Summary.md"
       },
       {
-        "link": "Training Entering Upper Deck 3 Point Contact November _14, _2025.mov",
-        "target": "Training Entering Upper Deck 3 Point Contact November _14, _2025.mov",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Entering Upper Deck 3 Point Contact November _14, _2025.mov"
+        "link": "Training/pre_trip_inspection_checklist_two_car_haulers.md",
+        "target": "Training/pre_trip_inspection_checklist_two_car_haulers",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\pre_trip_inspection_checklist_two_car_haulers.md"
       },
       {
-        "link": "Training Exit Upper Deck 3 Point Contact November _14, _2025.mov",
-        "target": "Training Exit Upper Deck 3 Point Contact November _14, _2025.mov",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Exit Upper Deck 3 Point Contact November _14, _2025.mov"
+        "link": "Training - Cotrell Two Car Carrier Manual.pdf",
+        "target": "Training - Cotrell Two Car Carrier Manual.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Cotrell Two Car Carrier Manual.pdf"
       },
       {
-        "link": "Training Exit Lower Deck 3 Point Contact November _14, _2025.mov",
-        "target": "Training Exit Lower Deck 3 Point Contact November _14, _2025.mov",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Exit Lower Deck 3 Point Contact November _14, _2025.mov"
+        "link": "Training/Training - 2 Car Manual.md",
+        "target": "Training/Training - 2 Car Manual",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - 2 Car Manual.md"
       },
       {
-        "link": "Training Front Loading Position",
-        "target": "Training Front Loading Position",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Front Loading Position.md"
+        "link": "Training/Training - DOT Log Book.md",
+        "target": "Training/Training - DOT Log Book",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - DOT Log Book.md"
       },
       {
-        "link": "Training Material To Matthew Douglas",
-        "target": "Training Material To Matthew Douglas",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Material To Matthew Douglas.md"
+        "link": "Training/Training - Entering Weigh Stations.md",
+        "target": "Training/Training - Entering Weigh Stations",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Entering Weigh Stations.md"
       },
       {
-        "link": "Training Material-Matthew Douglas",
-        "target": "Training Material-Matthew Douglas",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Material-Matthew Douglas.md"
+        "link": "Training/Training - Front Loading Position.md",
+        "target": "Training/Training - Front Loading Position",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Front Loading Position.md"
       },
       {
-        "link": "Training Proper Strap Threading November 14, 2025.mov",
-        "target": "Training Proper Strap Threading November 14, 2025.mov",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Proper Strap Threading November 14, 2025.mov"
+        "link": "Training/Training - HD Road Test.md",
+        "target": "Training/Training - HD Road Test",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - HD Road Test.md"
       },
       {
-        "link": "Training Team Text Training",
-        "target": "Training Team Text Training",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Team Text Training.md"
+        "link": "Training/Training - Loading & Center of Gravity.md",
+        "target": "Training/Training - Loading & Center of Gravity",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading & Center of Gravity.md"
       },
       {
-        "link": "Training-2 Car Manual",
-        "target": "Training-2 Car Manual",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-2 Car Manual.md"
+        "link": "Training/Training - Loading Large Vehicles.md",
+        "target": "Training/Training - Loading Large Vehicles",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading Large Vehicles.md"
       },
       {
-        "link": "Training-DOT Log Book",
-        "target": "Training-DOT Log Book",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-DOT Log Book.md"
+        "link": "Training/Training - Material To Matthew Douglas.md",
+        "target": "Training/Training - Material To Matthew Douglas",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Material To Matthew Douglas.md"
       },
       {
-        "link": "Training-Entering Weigh Stations",
-        "target": "Training-Entering Weigh Stations",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Entering Weigh Stations.md"
+        "link": "Training/Training - Material-Matthew Douglas.md",
+        "target": "Training/Training - Material-Matthew Douglas",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Material-Matthew Douglas.md"
       },
       {
-        "link": "Training-Loading & Center of Gravity",
-        "target": "Training-Loading & Center of Gravity",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Loading & Center of Gravity.md"
+        "link": "Training/Training - MaxOffers Procedure.md",
+        "target": "Training/Training - MaxOffers Procedure",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - MaxOffers Procedure.md"
       },
       {
-        "link": "Training-Pre-Trip Inspection",
-        "target": "Training-Pre-Trip Inspection",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Pre-Trip Inspection.md"
+        "link": "Training/Training - Oversized Vehicle Loading.md",
+        "target": "Training/Training - Oversized Vehicle Loading",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Oversized Vehicle Loading.md"
       },
       {
-        "link": "Training Team Text Training",
-        "target": "Training Team Text Training",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training Team Text Training.md"
+        "link": "Training/Training - Pre-Trip Inspection.md",
+        "target": "Training/Training - Pre-Trip Inspection",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip Inspection.md"
       },
       {
-        "link": "Training-Loading Large Vehicles",
-        "target": "Training-Loading Large Vehicles",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Loading Large Vehicles.md"
+        "link": "Training/Training - Ride Along Observation Part 1.md",
+        "target": "Training/Training - Ride Along Observation Part 1",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Ride Along Observation Part 1.md"
       },
       {
-        "link": "Training-Oversized Vehicle Loading",
-        "target": "Training-Oversized Vehicle Loading",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Oversized Vehicle Loading.md"
+        "link": "Training/Training - Ride Along Observation Part 2.md",
+        "target": "Training/Training - Ride Along Observation Part 2",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Ride Along Observation Part 2.md"
       },
       {
-        "link": "Training-Single Vehicle Transport",
-        "target": "Training-Single Vehicle Transport",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Single Vehicle Transport.md"
+        "link": "Training/Training - Ride Along Observation Part 3.md",
+        "target": "Training/Training - Ride Along Observation Part 3",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Ride Along Observation Part 3.md"
       },
       {
-        "link": "Training-Straps & Hooks",
-        "target": "Training-Straps & Hooks",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Straps & Hooks.md"
+        "link": "Training/Training - Ride Along Observation Part 4.md",
+        "target": "Training/Training - Ride Along Observation Part 4",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Ride Along Observation Part 4.md"
       },
       {
-        "link": "Training-Straps & Hooks Remainder",
-        "target": "Training-Straps & Hooks Remainder",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Straps & Hooks Remainder.md"
+        "link": "Training/Training - Ride Along Observation Part 5.md",
+        "target": "Training/Training - Ride Along Observation Part 5",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Ride Along Observation Part 5.md"
       },
       {
-        "link": "Training-Tail Swing",
-        "target": "Training-Tail Swing",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Tail Swing.md"
+        "link": "Training/Training - Single Vehicle Transport.md",
+        "target": "Training/Training - Single Vehicle Transport",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Single Vehicle Transport.md"
       },
       {
-        "link": "Training-Validating Loading Position",
-        "target": "Training-Validating Loading Position",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Validating Loading Position.md"
+        "link": "Training/Training - Straps & Hooks Remainder.md",
+        "target": "Training/Training - Straps & Hooks Remainder",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Straps & Hooks Remainder.md"
       },
       {
-        "link": "Training-Weigh Station Awareness",
-        "target": "Training-Weigh Station Awareness",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Weigh Station Awareness.md"
+        "link": "Training/Training - Straps & Hooks.md",
+        "target": "Training/Training - Straps & Hooks",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Straps & Hooks.md"
       },
       {
-        "link": "Training-Weigh StationAwareness",
-        "target": "Training-Weigh StationAwareness",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Weigh StationAwareness.md"
+        "link": "Training/Training - Tail Swing.md",
+        "target": "Training/Training - Tail Swing",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Tail Swing.md"
       },
       {
-        "link": "Training-Unsafe 3 Points Contact",
-        "target": "Training-Unsafe 3 Points Contact",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Unsafe 3 Points Contact.md"
+        "link": "Training/Training - Team Text Training.md",
+        "target": "Training/Training - Team Text Training",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Team Text Training.md"
       },
       {
-        "link": "Training-Wrong Tree Point of Contact",
-        "target": "Training-Wrong Tree Point of Contact",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Training\\Training-Wrong Tree Point of Contact.md"
+        "link": "Training/Training - The Importance of the Air Dryer.md",
+        "target": "Training/Training - The Importance of the Air Dryer",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - The Importance of the Air Dryer.md"
       },
       {
-        "link": "Effective Communication & Vocabulary",
-        "target": "Effective Communication & Vocabulary",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\Effective Communication & Vocabulary.md"
+        "link": "Training/Training - Toolbox.md",
+        "target": "Training/Training - Toolbox",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Toolbox.md"
       },
       {
-        "link": "CarMax Leadership/index|index",
-        "target": "CarMax Leadership/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\CarMax Leadership\\index.md"
+        "link": "Training/Training - Unsafe 3 Points Contact.md",
+        "target": "Training/Training - Unsafe 3 Points Contact",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Unsafe 3 Points Contact.md"
       },
       {
-        "link": "Communications/index|index",
-        "target": "Communications/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Communications\\index.md"
+        "link": "Training/Training - Validating Loading Position.md",
+        "target": "Training/Training - Validating Loading Position",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Validating Loading Position.md"
       },
       {
-        "link": "Maintenance Messages/index|index",
-        "target": "Maintenance Messages/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Maintenance Messages\\index.md"
+        "link": "Training/Training - Weigh Station Awareness.md",
+        "target": "Training/Training - Weigh Station Awareness",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Weigh Station Awareness.md"
       },
       {
-        "link": "Recognitions/index|index",
-        "target": "Recognitions/index",
-        "path": "C:\\Users\\trans\\Documents\\Knowledge\\Recognitions\\index.md"
+        "link": "Training/Training - Weigh StationAwareness.md",
+        "target": "Training/Training - Weigh StationAwareness",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Weigh StationAwareness.md"
+      },
+      {
+        "link": "Training/Training - Wrong Tree Point of Contact.md",
+        "target": "Training/Training - Wrong Tree Point of Contact",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Wrong Tree Point of Contact.md"
+      },
+      {
+        "link": "Training/2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.pdf",
+        "target": "Training/2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.pdf"
+      },
+      {
+        "link": "Training/2024-01-25_fl_weigh-stations-best-practices.pdf",
+        "target": "Training/2024-01-25_fl_weigh-stations-best-practices.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\2024-01-25_fl_weigh-stations-best-practices.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 376 (up to date as of 9-29-2025).pdf",
+        "target": "Training/49 CFR Part 376 (up to date as of 9-29-2025).pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 376 (up to date as of 9-29-2025).pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 380 - Special Training Requirements.pdf",
+        "target": "Training/49 CFR Part 380 - Special Training Requirements.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 380 - Special Training Requirements.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 382 - Controlled Substances and Alcohol Use and Testing.pdf",
+        "target": "Training/49 CFR Part 382 - Controlled Substances and Alcohol Use and Testing.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 382 - Controlled Substances and Alcohol Use and Testing.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 383 (up to date as of 9-29-2025).pdf",
+        "target": "Training/49 CFR Part 383 (up to date as of 9-29-2025).pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 383 (up to date as of 9-29-2025).pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf",
+        "target": "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 385 (up to date as of 9-29-2025).pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 387 (up to date as of 9-29-2025).pdf",
+        "target": "Training/49 CFR Part 387 (up to date as of 9-29-2025).pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 387 (up to date as of 9-29-2025).pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 390 (up to date as of 9-29-2025).pdf",
+        "target": "Training/49 CFR Part 390 (up to date as of 9-29-2025).pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 390 (up to date as of 9-29-2025).pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 391 (up to date as of 9-29-2025)Qualifications of Drivers and Longer Combination Vehicle (LCV) Driver.pdf",
+        "target": "Training/49 CFR Part 391 (up to date as of 9-29-2025)Qualifications of Drivers and Longer Combination Vehicle (LCV) Driver.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 391 (up to date as of 9-29-2025)Qualifications of Drivers and Longer Combination Vehicle (LCV) Driver.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 392 (up to date as of 9-29-2025)Driving of Commercial Motor Vehicles.pdf",
+        "target": "Training/49 CFR Part 392 (up to date as of 9-29-2025)Driving of Commercial Motor Vehicles.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 392 (up to date as of 9-29-2025)Driving of Commercial Motor Vehicles.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 395 (up to date as of 9-29-2025)Hours of Service of Drivers.pdf",
+        "target": "Training/49 CFR Part 395 (up to date as of 9-29-2025)Hours of Service of Drivers.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 395 (up to date as of 9-29-2025)Hours of Service of Drivers.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 396 (up to date as of 9-29-2025)Inspection, Repair, and Maintenance.pdf",
+        "target": "Training/49 CFR Part 396 (up to date as of 9-29-2025)Inspection, Repair, and Maintenance.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 396 (up to date as of 9-29-2025)Inspection, Repair, and Maintenance.pdf"
+      },
+      {
+        "link": "Training/49 CFR Part 399 (up to date as of 9-29-2025)Employee Safety and Health Standards.pdf",
+        "target": "Training/49 CFR Part 399 (up to date as of 9-29-2025)Employee Safety and Health Standards.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\49 CFR Part 399 (up to date as of 9-29-2025)Employee Safety and Health Standards.pdf"
+      },
+      {
+        "link": "Training/Carmax Code Of Conduct.pdf",
+        "target": "Training/Carmax Code Of Conduct.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Carmax Code Of Conduct.pdf"
+      },
+      {
+        "link": "Training/CFR-2024-title49-vol5-part375.pdf",
+        "target": "Training/CFR-2024-title49-vol5-part375.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\CFR-2024-title49-vol5-part375.pdf"
+      },
+      {
+        "link": "Training/cotrell_two_car_carrier_manual-xl-additions-v-2.pdf",
+        "target": "Training/cotrell_two_car_carrier_manual-xl-additions-v-2.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\cotrell_two_car_carrier_manual-xl-additions-v-2.pdf"
+      },
+      {
+        "link": "Training/cotrell_two_car_carrier_manual.pdf",
+        "target": "Training/cotrell_two_car_carrier_manual.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\cotrell_two_car_carrier_manual.pdf"
+      },
+      {
+        "link": "Training/Paper BOLL.pdf",
+        "target": "Training/Paper BOLL.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Paper BOLL.pdf"
+      },
+      {
+        "link": "Training/Pasted image 20260601014520.png",
+        "target": "Training/Pasted image 20260601014520.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601014520.png"
+      },
+      {
+        "link": "Training/Pasted image 20260601015533.png",
+        "target": "Training/Pasted image 20260601015533.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601015533.png"
+      },
+      {
+        "link": "Training/Pasted image 20260601020041.png",
+        "target": "Training/Pasted image 20260601020041.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601020041.png"
+      },
+      {
+        "link": "Training/Pasted image 20260601220055.png",
+        "target": "Training/Pasted image 20260601220055.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601220055.png"
+      },
+      {
+        "link": "Training/Pasted image 20260601223822.png",
+        "target": "Training/Pasted image 20260601223822.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260601223822.png"
+      },
+      {
+        "link": "Training/Pasted image 20260606220715.png",
+        "target": "Training/Pasted image 20260606220715.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image 20260606220715.png"
+      },
+      {
+        "link": "Training/Pasted image IMG_2261.jpeg",
+        "target": "Training/Pasted image IMG_2261.jpeg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image IMG_2261.jpeg"
+      },
+      {
+        "link": "Training/Pasted image IMG_2262.jpeg",
+        "target": "Training/Pasted image IMG_2262.jpeg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pasted image IMG_2262.jpeg"
+      },
+      {
+        "link": "Training/Pre-Trip Inspection Guidelines.pdf",
+        "target": "Training/Pre-Trip Inspection Guidelines.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Pre-Trip Inspection Guidelines.pdf"
+      },
+      {
+        "link": "Training/rivian-commercial-van-tow-operator-guide.pdf",
+        "target": "Training/rivian-commercial-van-tow-operator-guide.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\rivian-commercial-van-tow-operator-guide.pdf"
+      },
+      {
+        "link": "Training/Rivian_R1_tow_operator_guide.pdf",
+        "target": "Training/Rivian_R1_tow_operator_guide.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Rivian_R1_tow_operator_guide.pdf"
+      },
+      {
+        "link": "Training/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf",
+        "target": "Training/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf"
+      },
+      {
+        "link": "Training/Role_Guide_Assessment_Tool_Lead_March_14_2025-1.pdf",
+        "target": "Training/Role_Guide_Assessment_Tool_Lead_March_14_2025-1.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Role_Guide_Assessment_Tool_Lead_March_14_2025-1.pdf"
+      },
+      {
+        "link": "Training/Training - Air Brake Test 8-14-25 - Copy.jpg",
+        "target": "Training/Training - Air Brake Test 8-14-25 - Copy.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Air Brake Test 8-14-25 - Copy.jpg"
+      },
+      {
+        "link": "Training/Training - Air Brake Test 8-14-25.jpg",
+        "target": "Training/Training - Air Brake Test 8-14-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Air Brake Test 8-14-25.jpg"
+      },
+      {
+        "link": "Training/Training - Alternator-AC-Tensioner-Waterpump 9-2-25.jpg",
+        "target": "Training/Training - Alternator-AC-Tensioner-Waterpump 9-2-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Alternator-AC-Tensioner-Waterpump 9-2-25.jpg"
+      },
+      {
+        "link": "Training/Training - Alternator-AC-Tensioner-Waterpump.jpg",
+        "target": "Training/Training - Alternator-AC-Tensioner-Waterpump.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Alternator-AC-Tensioner-Waterpump.jpg"
+      },
+      {
+        "link": "Training/Training - Alternator-AC-Tensioner-Waterpump1.jpg",
+        "target": "Training/Training - Alternator-AC-Tensioner-Waterpump1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Alternator-AC-Tensioner-Waterpump1.jpg"
+      },
+      {
+        "link": "Training/Training - bedinspectiondriverside.jpg",
+        "target": "Training/Training - bedinspectiondriverside.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - bedinspectiondriverside.jpg"
+      },
+      {
+        "link": "Training/Training - Big Truck Loading.jpg",
+        "target": "Training/Training - Big Truck Loading.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Big Truck Loading.jpg"
+      },
+      {
+        "link": "Training/Training - broken-leaf-spring.jpg",
+        "target": "Training/Training - broken-leaf-spring.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - broken-leaf-spring.jpg"
+      },
+      {
+        "link": "Training/Training - Class B\u2014CDL Training Curriculum.md",
+        "target": "Training/Training - Class B\u2014CDL Training Curriculum",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Class B\u2014CDL Training Curriculum.md"
+      },
+      {
+        "link": "Training/Training - Cotrell Two Car Carrier Manual.pdf",
+        "target": "Training/Training - Cotrell Two Car Carrier Manual.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Cotrell Two Car Carrier Manual.pdf"
+      },
+      {
+        "link": "Training/Training - drum_brake.jpg",
+        "target": "Training/Training - drum_brake.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - drum_brake.jpg"
+      },
+      {
+        "link": "Training/Training - Engine Bay Passenger Side 2 \u2013 Step 3.jpg",
+        "target": "Training/Training - Engine Bay Passenger Side 2 \u2013 Step 3.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine Bay Passenger Side 2 \u2013 Step 3.jpg"
+      },
+      {
+        "link": "Training/Training - Engine Bay Passenger Side \u2013 Step 3.jpg",
+        "target": "Training/Training - Engine Bay Passenger Side \u2013 Step 3.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine Bay Passenger Side \u2013 Step 3.jpg"
+      },
+      {
+        "link": "Training/Training - Engine Compartment Top 8-22-25.jpg",
+        "target": "Training/Training - Engine Compartment Top 8-22-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine Compartment Top 8-22-25.jpg"
+      },
+      {
+        "link": "Training/Training - Engine Fan Failure 9-11-25.jpg",
+        "target": "Training/Training - Engine Fan Failure 9-11-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine Fan Failure 9-11-25.jpg"
+      },
+      {
+        "link": "Training/Training - Engine-Driver Side2-8-15-25.jpg",
+        "target": "Training/Training - Engine-Driver Side2-8-15-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine-Driver Side2-8-15-25.jpg"
+      },
+      {
+        "link": "Training/Training - Engine-Passenger-Side.jpg",
+        "target": "Training/Training - Engine-Passenger-Side.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Engine-Passenger-Side.jpg"
+      },
+      {
+        "link": "Training/Training - englishcdlhandbook.pdf",
+        "target": "Training/Training - englishcdlhandbook.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - englishcdlhandbook.pdf"
+      },
+      {
+        "link": "Training/Training - englishdriverhandbook.pdf",
+        "target": "Training/Training - englishdriverhandbook.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - englishdriverhandbook.pdf"
+      },
+      {
+        "link": "Training/Training - Entering Lower Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training/Training - Entering Lower Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Entering Lower Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training/Training - Entering Upper Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training/Training - Entering Upper Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Entering Upper Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training/Training - Exit Lower Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training/Training - Exit Lower Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Exit Lower Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training/Training - Exit Upper Deck 3 Point Contact November _14, _2025.mov",
+        "target": "Training/Training - Exit Upper Deck 3 Point Contact November _14, _2025.mov",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Exit Upper Deck 3 Point Contact November _14, _2025.mov"
+      },
+      {
+        "link": "Training/Training - key-suspension-parts.jpg",
+        "target": "Training/Training - key-suspension-parts.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - key-suspension-parts.jpg"
+      },
+      {
+        "link": "Training/Training - Large Vehicles on Two-Car Haulers.jpg",
+        "target": "Training/Training - Large Vehicles on Two-Car Haulers.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Large Vehicles on Two-Car Haulers.jpg"
+      },
+      {
+        "link": "Training/Training - Large Vehicles on Two-Car Haulers1.jpg",
+        "target": "Training/Training - Large Vehicles on Two-Car Haulers1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Large Vehicles on Two-Car Haulers1.jpg"
+      },
+      {
+        "link": "Training/Training - Load Positioning Example 9-10-25.jpg",
+        "target": "Training/Training - Load Positioning Example 9-10-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Load Positioning Example 9-10-25.jpg"
+      },
+      {
+        "link": "Training/Training - Loading Height 9-19-25.jpg",
+        "target": "Training/Training - Loading Height 9-19-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading Height 9-19-25.jpg"
+      },
+      {
+        "link": "Training/Training - Loading Height Sep 19, 2025.jpg",
+        "target": "Training/Training - Loading Height Sep 19, 2025.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading Height Sep 19, 2025.jpg"
+      },
+      {
+        "link": "Training/Training - Loading Low 9-7-25.jpg",
+        "target": "Training/Training - Loading Low 9-7-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading Low 9-7-25.jpg"
+      },
+      {
+        "link": "Training/Training - Loading Low June 6, 26.jpg",
+        "target": "Training/Training - Loading Low June 6, 26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Loading Low June 6, 26.jpg"
+      },
+      {
+        "link": "Training/Training - Low Transmission Fluids 6-15-26.jpg",
+        "target": "Training/Training - Low Transmission Fluids 6-15-26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Low Transmission Fluids 6-15-26.jpg"
+      },
+      {
+        "link": "Training/Training - Low Transmission Fluids 9-15-25.jpg",
+        "target": "Training/Training - Low Transmission Fluids 9-15-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Low Transmission Fluids 9-15-25.jpg"
+      },
+      {
+        "link": "Training/Training - Low Transmission Fluids.jpg",
+        "target": "Training/Training - Low Transmission Fluids.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Low Transmission Fluids.jpg"
+      },
+      {
+        "link": "Training/Training - MV-inspection-guide 6-15-26.jpg",
+        "target": "Training/Training - MV-inspection-guide 6-15-26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - MV-inspection-guide 6-15-26.jpg"
+      },
+      {
+        "link": "Training/Training - MY20 ELD-1.jpg",
+        "target": "Training/Training - MY20 ELD-1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - MY20 ELD-1.jpg"
+      },
+      {
+        "link": "Training/Training - MY20 ELD-2.jpg",
+        "target": "Training/Training - MY20 ELD-2.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - MY20 ELD-2.jpg"
+      },
+      {
+        "link": "Training/Training - MY20 ELD-3 June 15, 26.jpg",
+        "target": "Training/Training - MY20 ELD-3 June 15, 26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - MY20 ELD-3 June 15, 26.jpg"
+      },
+      {
+        "link": "Training/Training - Oil Pressure.jpg",
+        "target": "Training/Training - Oil Pressure.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Oil Pressure.jpg"
+      },
+      {
+        "link": "Training/Training - Passanger Inside Wheel.jpg",
+        "target": "Training/Training - Passanger Inside Wheel.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Passanger Inside Wheel.jpg"
+      },
+      {
+        "link": "Training/Training - Penske Orlando.jpg",
+        "target": "Training/Training - Penske Orlando.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Penske Orlando.jpg"
+      },
+      {
+        "link": "Training/Training - Post-Trip Importance 8-28-25.jpg",
+        "target": "Training/Training - Post-Trip Importance 8-28-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Post-Trip Importance 8-28-25.jpg"
+      },
+      {
+        "link": "Training/Training - Post-Trip Importance.jpg",
+        "target": "Training/Training - Post-Trip Importance.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Post-Trip Importance.jpg"
+      },
+      {
+        "link": "Training/Training - Pre & Post-Trip Reminder 8-27-25.jpg",
+        "target": "Training/Training - Pre & Post-Trip Reminder 8-27-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre & Post-Trip Reminder 8-27-25.jpg"
+      },
+      {
+        "link": "Training/Training - Pre-Trip & Tires 9-19-25.jpg",
+        "target": "Training/Training - Pre-Trip & Tires 9-19-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip & Tires 9-19-25.jpg"
+      },
+      {
+        "link": "Training/Training - Pre-Trip & Tires.jpg",
+        "target": "Training/Training - Pre-Trip & Tires.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip & Tires.jpg"
+      },
+      {
+        "link": "Training/Training - Pre-Trip Importance - 8-18-25.jpg",
+        "target": "Training/Training - Pre-Trip Importance - 8-18-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip Importance - 8-18-25.jpg"
+      },
+      {
+        "link": "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
+        "target": "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip Inspection Section 1 June 15, 26.jpg"
+      },
+      {
+        "link": "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
+        "target": "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pre-Trip Inspection Section 1 June 15, 26.jpg"
+      },
+      {
+        "link": "Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf",
+        "target": "Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - pre-trip_inspection_checklist_two car haulers_drive.pdf"
+      },
+      {
+        "link": "Training/Training - Preparation - Pre-Trip Inspection-Step 1.jpg",
+        "target": "Training/Training - Preparation - Pre-Trip Inspection-Step 1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Preparation - Pre-Trip Inspection-Step 1.jpg"
+      },
+      {
+        "link": "Training/Training - Pretrip Observation Log.pdf",
+        "target": "Training/Training - Pretrip Observation Log.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Pretrip Observation Log.pdf"
+      },
+      {
+        "link": "Training/Training - Proper Strap Threading November 14, 2025.mov",
+        "target": "Training/Training - Proper Strap Threading November 14, 2025.mov",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Proper Strap Threading November 14, 2025.mov"
+      },
+      {
+        "link": "Training/Training - QuiXspinz 2.0 Ratcheting System Report.pdf",
+        "target": "Training/Training - QuiXspinz 2.0 Ratcheting System Report.pdf",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - QuiXspinz 2.0 Ratcheting System Report.pdf"
+      },
+      {
+        "link": "Training/Training - Safeguarding Tags.jpg",
+        "target": "Training/Training - Safeguarding Tags.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Safeguarding Tags.jpg"
+      },
+      {
+        "link": "Training/Training - Shocking Your Wheels 9-1-25.jpg",
+        "target": "Training/Training - Shocking Your Wheels 9-1-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Shocking Your Wheels 9-1-25.jpg"
+      },
+      {
+        "link": "Training/Training - Step 1-Preparation\u2013Pre-Trip Inspection.jpg",
+        "target": "Training/Training - Step 1-Preparation\u2013Pre-Trip Inspection.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 1-Preparation\u2013Pre-Trip Inspection.jpg"
+      },
+      {
+        "link": "Training/Training - Step 10 Cab-Passenger Side.jpg",
+        "target": "Training/Training - Step 10 Cab-Passenger Side.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 10 Cab-Passenger Side.jpg"
+      },
+      {
+        "link": "Training/Training - Step 12-Air Brake Test.jpg",
+        "target": "Training/Training - Step 12-Air Brake Test.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 12-Air Brake Test.jpg"
+      },
+      {
+        "link": "Training/Training - Step 12-Service Brake Test.jpg",
+        "target": "Training/Training - Step 12-Service Brake Test.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 12-Service Brake Test.jpg"
+      },
+      {
+        "link": "Training/Training - Step 2-Front Cab Inspection.jpg",
+        "target": "Training/Training - Step 2-Front Cab Inspection.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 2-Front Cab Inspection.jpg"
+      },
+      {
+        "link": "Training/Training - Step 3-Engine Bay-Passenger Side1.jpg",
+        "target": "Training/Training - Step 3-Engine Bay-Passenger Side1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 3-Engine Bay-Passenger Side1.jpg"
+      },
+      {
+        "link": "Training/Training - Step 4-Engine Bay-Driver Side1.jpg",
+        "target": "Training/Training - Step 4-Engine Bay-Driver Side1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 4-Engine Bay-Driver Side1.jpg"
+      },
+      {
+        "link": "Training/Training - Step 4-Engine Bay-Driver Side2.jpg",
+        "target": "Training/Training - Step 4-Engine Bay-Driver Side2.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 4-Engine Bay-Driver Side2.jpg"
+      },
+      {
+        "link": "Training/Training - Step 6-Cab Exterior\u2013Driver\u2019s Side.jpg",
+        "target": "Training/Training - Step 6-Cab Exterior\u2013Driver\u2019s Side.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 6-Cab Exterior\u2013Driver\u2019s Side.jpg"
+      },
+      {
+        "link": "Training/Training - Step 8 Bed Inspection-Rear Side.jpg",
+        "target": "Training/Training - Step 8 Bed Inspection-Rear Side.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Step 8 Bed Inspection-Rear Side.jpg"
+      },
+      {
+        "link": "Training/Training - Tail Swing Awareness.jpg",
+        "target": "Training/Training - Tail Swing Awareness.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Tail Swing Awareness.jpg"
+      },
+      {
+        "link": "Training/Training - Truck Front.JPG",
+        "target": "Training/Training - Truck Front.JPG",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Truck Front.JPG"
+      },
+      {
+        "link": "Training/Training - truck-international-logo-black.jpg",
+        "target": "Training/Training - truck-international-logo-black.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - truck-international-logo-black.jpg"
+      },
+      {
+        "link": "Training/Training - truck-international-logo.jpg",
+        "target": "Training/Training - truck-international-logo.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - truck-international-logo.jpg"
+      },
+      {
+        "link": "Training/Training - Two Car Hauler.png",
+        "target": "Training/Training - Two Car Hauler.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Two Car Hauler.png"
+      },
+      {
+        "link": "Training/Training - Two Car Logo.png",
+        "target": "Training/Training - Two Car Logo.png",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Two Car Logo.png"
+      },
+      {
+        "link": "Training/Training - Water Pump.jpg",
+        "target": "Training/Training - Water Pump.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Water Pump.jpg"
+      },
+      {
+        "link": "Training/Training - Weight Station.jpg",
+        "target": "Training/Training - Weight Station.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Weight Station.jpg"
+      },
+      {
+        "link": "Training/Training - Wheel Rim Inside 8-19-25.jpg",
+        "target": "Training/Training - Wheel Rim Inside 8-19-25.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Wheel Rim Inside 8-19-25.jpg"
+      },
+      {
+        "link": "Training/Training - Wrong Three Points of Contact 1.jpg",
+        "target": "Training/Training - Wrong Three Points of Contact 1.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Wrong Three Points of Contact 1.jpg"
+      },
+      {
+        "link": "Training/Training - Wrong Three Points of Contact.jpg",
+        "target": "Training/Training - Wrong Three Points of Contact.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training - Wrong Three Points of Contact.jpg"
+      },
+      {
+        "link": "Training/Training -Tire Diagram.jpg",
+        "target": "Training/Training -Tire Diagram.jpg",
+        "path": "C:\\Users\\trans\\.gemini\\antigravity\\scratch\\Knowledge\\Training\\Training -Tire Diagram.jpg"
       }
     ],
     "orphan_content_files": [],
-    "content_file_count": 30,
-    "link_count": 49
+    "content_file_count": 46,
+    "link_count": 159
   }
 }

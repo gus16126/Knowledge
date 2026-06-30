@@ -1,5 +1,22 @@
 Gustavo Guallar Recognition Given.
 
+"2026-06-16 20:50:00",APPROVED,"Social Recognition", "Matt Douglas", "Put People First", "Give Recognition", ,"Hi Matt,
+
+I want to take a moment to thank you for the consistent guidance, support, and operational feedback you provide. 
+
+Whether we are aligning on route efficiencies, discussing training models, or working through recent certifications, I appreciate your effort and the time you dedicate to my professional growth and our logistics team's success. Your leadership and active support make a significant difference in how we operate, ensuring we Put People First while keeping our safety standards high.
+
+Thank you for having our back and helping our team Win Together!
+
+Best regards,
+Gustavo Guallar"
+-
+"2026-06-16 16:08:00",APPROVED,"Social Recognition", "Von Frazier", "Do the Right Thing", "Give Recognition", ,"I’d like to recognize Von Frazier for his outstanding dedication to safety and daily operational discipline.
+
+Since completing his training and being assigned his truck, Von has consistently performed a proper and thorough Pre-Trip inspection at the start of every shift. By actively applying his training, he demonstrates the key behaviors that keep our fleet and team safe.
+
+I appreciate your effort, Von, and thank you for representing our commitment to excellence!"
+-
 "2025-10-29 19:18:47",APPROVED,"Social Recognition", "Alejandro Delgado", "Win Together", "Give Recognition", ,"During a recent visit to Store 6036 Naples, I had difficulty locating a vehicle that wasn’t staged for pickup. Alejandro promptly stepped in to help — he located the vehicle, prepared the title, and ensured everything was ready for departure. I was running slightly behind on my route, and his proactive support made all the difference in keeping things on schedule. Thank you, Alejandro, for your teamwork and dedication to delivering a great experience"
 -
 "2025-10-29 19:18:47",APPROVED,"Social Recognition", "Jessy Pesantes", "Win Together", "Give Recognition", ,"During a recent visit to Store 6036 Naples, I had difficulty locating a vehicle that wasn’t staged for pickup. Alejandro promptly stepped in to help — he located the vehicle, prepared the title, and ensured everything was ready for departure. I was running slightly behind on my route, and his proactive support made all the difference in keeping things on schedule. Thank you, Alejandro, for your teamwork and dedication to delivering a great experience"
@@ -123,6 +140,15 @@ Gustavo Guallar
 -
 **Recognized for “Win Together”**  
 I’d like to recognize **Manny Velázquez** and **Ramon Segura** for stepping up to support our team by covering the vehicle relay to 7108. Even though they are on a different schedule, their willingness to jump in and coordinate reflects true teamwork and dedication. This is a great example of how we succeed when we Win Together—thank you both for having the team’s back.
+Gustavo Guallar
+-
+### **Recognized for “Do the Right Thing”**
+
+I’d like to recognize **Von Frazier** for his outstanding dedication to safety and daily operational discipline. 
+
+Since completing his training and being assigned his truck, Von has consistently performed a proper and thorough Pre-Trip inspection at the start of every shift. By actively applying his training, he demonstrates the key behaviors that keep our fleet and team safe.
+
+I appreciate your effort, Von, and thank you for representing our commitment to excellence!
 Gustavo Guallar
 -
 ### **Recognized for “Do the Right Thing”**

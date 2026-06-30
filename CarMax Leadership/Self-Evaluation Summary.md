@@ -262,9 +262,20 @@ Regulatory Knowledge - Florida Intrastate Hours of Service (FL Intra 7/70).
 Date: October 13, 2025
 I shared an educational overview explaining Florida's Intrastate 7/70 Hours of Service rule, clarifying the distinction between intrastate and interstate operations.
 This communication helped ensure team understanding of applicable HOS regulations, reinforcing compliance expectations while supporting accurate ELD usage and trip planning.
+Operator Safety - 3-Point Contact Training Videos.
+Date: November 14, 2025
+I created and shared a series of four training videos demonstrating the proper execution of the three-point contact safety rule during loading and unloading operations on the 2-Car Hauler. The videos cover:
+- Entering Lower Deck 3 Point Contact
+- Entering Upper Deck 3 Point Contact
+- Exit Lower Deck 3 Point Contact
+- Exit Upper Deck 3 Point Contact
+These visual safety guides model correct body positioning and grip sequence, reinforcing safe carrier operations, minimizing slip-and-fall hazards, and supporting team safety compliance.
 Compliance Awareness - Weight Station Instructions.
 Date: November 14, 2025
 I shared a compliance reminder emphasizing the importance of following posted weight-station instructions. The message highlighted the financial and enforcement consequences associated with non-compliance, reinforcing the need for attention and accountability during operations.
+Equipment Safety - Proper Strap Threading Training Video.
+Date: November 15, 2025
+I created and shared a detailed training video demonstrating the correct procedures for securing vehicles and threading straps using the Cottrell QuiXspinz ratcheting system. This visual guide shows how to properly align and tension wheel straps to prevent equipment wear, ensure DOT cargo securement compliance, and preserve the integrity of our tie-down systems.
 Equipment Safety - Proper Strap Handling.
 Date: November 18, 2025
 I reinforced proper strap-handling procedures during loading and unloading, referencing Cottrell's official guidance stating that vehicles should never be driven over wheel straps or hooks.

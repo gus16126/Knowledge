@@ -2,7 +2,7 @@
 
 Team,
 
-To ensure accurate vehicle handling and proper documentation, please follow the process below for every MaxOffers pickup and delivery.
+To ensure accurate vehicle handling and proper documentation, please follow the process below for every MaxOffers pickup and delivery. This protocol is geared to help new associates with the MaxOffers procedures.
 
 ### Pickup Location
 

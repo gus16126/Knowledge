@@ -19,6 +19,9 @@ For these reasons, when conditions allow, loading sedans **front first on both p
 - Protection of the vehicle’s front bumper
 
 This approach supports safer loading practices and helps protect both the equipment and the vehicles being transported.
+![Pic]("C:\Users\trans\.gemini\antigravity\scratch\Knowledge\Training\Pasted image 20260601014520.png")
+![Pic]("C:\Users\trans\.gemini\antigravity\scratch\Knowledge\Training\Pasted image 20260601015533.png")
+![Pic]("C:\Users\trans\.gemini\antigravity\scratch\Knowledge\Training\Pasted image 20260601020041.png")
 
 [[Training/Pasted image 20260601014520.png]]
 [[Training/Pasted image 20260601015533.png]]

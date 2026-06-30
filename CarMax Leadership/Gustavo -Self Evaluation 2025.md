@@ -1,11 +1,10 @@
+Gustavo Guallar-Self Evaluation 2025
+
 Self Evaluation: 2025 Annual
 Performance Review - Self:
-Gustavo Guallar (280305)                                                                                                                       Overall
-Associate
-Rating
-Rating
+Gustavo Guallar (280305)
+Overall Associate Rating
 Exceptional
-Comment
 Comment
 Top Competency
 

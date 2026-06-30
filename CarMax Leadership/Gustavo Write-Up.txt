@@ -1,0 +1,147 @@
+Summary
+
+Disciplinary Action Information
+
+    Disciplinary Action Reason
+        Analysis & Decision Making (United States of America)
+        Results Focus (United States of America)
+
+Previous Performance History
+
+        Question
+
+        Has the performance issue(s) that will be documented in this Corrective Action been discussed with the Associate previously? (Y/N) If yes, include type of discussion. 
+    Manager Answer
+
+        No
+        Question
+
+        If so, when? (mm/dd/yyyy)
+    Manager
+        Answer
+        Answer
+
+
+        Question
+        Question
+
+        Has this Associate received any Corrective Actions in the last 12 months? (Y/N) 
+    Manager
+        Answer
+        Answer
+
+        No
+        Question
+        Question
+
+        If so, when? (mm/dd/yyyy)
+    Manager
+        Answer
+        Answer
+
+
+Current Performance Issue
+
+        Question
+        Question
+
+        ISSUE: (e.g. applicable policy, procedure violation or behavior)
+    Manager
+        Answer
+        Answer
+
+        Vehicle Delivery Driver, Mr. Gustavo Guallar, did not adhere to the CarMax Fleet Associate Guide - Driver Handbook, which states that Fleet Associates have the responsibility of safeguarding CarMax property from loss, damage, and theft. This responsibility includes their Fleet equipment and all vehicles being transported.  Mr. Guallar did not demonstrate consistent behaviors in the following CarMax Associate 1 Competencies. Analysis and Decision Making: Uses all available resources to make good decisions; thinks logically; has a thought process that is practical and grounded; takes time necessary to make the right choice. Results Focus: Gets the work done well, on time, following the right process; displays dependability and reliability; makes and follows through on commitments.
+        Question
+        Question
+
+        BACKGROUND: (e.g. behaviors observed, dates and times)
+    Manager
+        Answer
+        Answer
+
+        On February 20, 2026, Vehicle Delivery Driver, Mr. Gustavo Guallar, arrived at 6141-RPB to collect an assigned customer transfer, 28301853, 2024 Toyota RAV4.  The vehicle was to be delivered to the 7113-BOY location.  He partnered with an Associate at 6141 and offered to help pull the car but was told that help was not required and he could wait in the loading area.  Mr. Guallar proceeded to wait in his truck.  Once the vehicle was taken to the loading area by the Inventory Associate, Mr. Guallar compared the vehicle information in his Driver App with the stock number listed on the transfer bag.  He did not, however, verify the stock and vin number on the vehicle.  The result was that Mr. Guallar loaded and delivered a 2023 Toyota Crolla Cross (28256528) to 7113-BOY instead.
+
+         
+
+        Field Logistics Manager, Matt Douglas, conducted a discovery conversation with Mr. Gustavo Guallar on Wednesday, February 25, 2026.  During this conversation, Mr. Guallar was presented with the route and RecovR information that indicated an incorrect vehicle had been delivered.  Mr. Guallar took ownership of the mistake and acknowledged he had forgotten to check the stock and vin numbers on the car.
+        Question
+        Question
+
+        IMPACT: (e.g. on the individual, workplace or co-workers)
+    Manager
+        Answer
+        Answer
+
+        By not paying attention to detail and following the “Asset Protection” section of the CarMax Fleet Associate Guide – Driver Handbook, Mr. Guallar picked up and delivered and incorrect vehicle.  This can have a negative impact on the iconic customer experience, the CarMax stores’ inventory management, and increase the likelihood of loss, damage or theft of Company assets.
+
+Performance Management Action Plans
+
+    Performance Management Action Plan
+    Performance Management Action Plan
+    Verification of Stock and Vin Numbers
+    Additional Information
+    Additional Information
+
+        Starting today and going forward, Mr. Gustavo Guallar commits to verifying the stock and vin numbers of all cars to ensure he transports the correct vehicles.
+
+     
+
+        By March 31, 2026, Mr. Guallar will review the CarMax Fleet Associate - Driver Handbook, “Asset Protection” section. Mr. Guallar will discuss his learnings with his manager to be documented through an observation in Workday.
+    Status
+    Status
+        In Progress
+    Status Note
+    Status Note
+    (empty)
+
+    Start Date
+    Start Date
+    02/25/2026
+    Completion Date
+    Completion Date
+    08/25/2026
+
+    Relates To
+    Relates To
+        Analysis and Decision Making (Competency)
+        Results Focus (Competency)
+
+    Skills to Develop
+    Skills to Develop
+    (empty)
+
+History
+Additional Information
+
+    Question
+    Question
+
+    Performance must improve promptly and meet the Action Plans as outlined in the document. Continued unacceptable performance could result in further disciplinary action up to and including termination.
+
+
+    Your electronic signature acknowledges that the contents of this document have been discussed with you and that you agree to perform the Action Plans addressed on the document.
+
+Acknowledgement
+
+Manager
+
+    Status
+    Status
+        Acknowledge Review
+    Comment
+    Comment
+
+
+    Acknowledged By
+    Acknowledged By
+        Matthew Douglas (257785)
+    Acknowledgement Date
+    Acknowledgement Date
+    03/05/2026 12:39 PM
+
+Associate
+
+    Status
+    Status
+    (empty)
+    Comment

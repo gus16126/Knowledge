@@ -25,7 +25,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/CarMax Code Of Conduct.md]]  
   Summary: CarMax Code of Business Conduct 2014 Quick Index Introduction Purpose scope and responsibilities Duty to report misconduct Help Line information  
   Tags: carmax, business, information, code  
-  Last-modified: 2026-06-05
+  Last-modified: 2026-06-19
 
 - Title: Carmax Information.  
   Link: [[CarMax Leadership/CarMax Information.md]]  
@@ -84,8 +84,8 @@ Vocabulary Audit: complete
 - Title: CarMax Vocabulary & Philosophy Playbook  
   Link: [[CarMax Leadership/CarMax Vocabulary & Philosophy.md]]  
   Summary: CarMax Vocabulary Philosophy Playbook Official Source of Truth To maintain a unified and professional communication tone aligned with CarMax leadership  
-  Tags: carmax, team, your, language  
-  Last-modified: 2026-06-10
+  Tags: carmax, team, your, clear  
+  Last-modified: 2026-06-29
 
 - Title: Gustavo Guallar Harver Assessment Development Report  
   Link: [[CarMax Leadership/Gustavo Guallar Harver Assessment Report.md]]  
@@ -95,26 +95,14 @@ Vocabulary Audit: complete
 
 - Title: 2025 Overall Performance Rating & APR Summary  
   Link: [[CarMax Leadership/Gustavo Guallar Overall Performance 2025.md]]  
-  Summary: 2025 Overall Performance Rating APR Summary Manager Rating Successful Strength Results Focus Gustavo consistently demonstrates exceptional results focus and is  
+  Summary: 2025 Overall Performance Rating APR Summary CarMax Manager Name Mattew Douglas Manager Rating Successful Strength Results Focus Gustavo consistently demonstrates  
   Tags: gustavo, team, decision, focus  
-  Last-modified: 2026-06-05
+  Last-modified: 2026-06-29
 
 - Title: Gustavo Guallar (280305) 2025 Overall Performance Rating & APR Summary  
   Link: [[CarMax Leadership/Gustavo Guallar Performance Rating.md]]  
   Summary: Gustavo Guallar 280305 2025 Overall Performance Rating APR Summary Manager Rating Successful Comment Strength Results Focus Gustavo consistently demonstrates exceptional  
   Tags: rating, gustavo, team, 2025  
-  Last-modified: 2026-06-05
-
-- Title: Self Evaluation: 2025 Annual  
-  Link: [[CarMax Leadership/Gustavo Guallar-Self Evaluation 2025.md]]  
-  Summary: Self Evaluation 2025 Annual Performance Review Self Gustavo Guallar 280305 Overall Associate Rating Rating Exceptional Comment Comment Top Competency One  
-  Tags: team, carmax, overall, safety  
-  Last-modified: 2026-06-05
-
-- Title: Gustavo Guallar – Self-Evaluation Summary  
-  Link: [[CarMax Leadership/Gustavo Guallar-Self-Evaluation Summary.md]]  
-  Summary: Gustavo Guallar Self Evaluation Summary LinkedIn Profile http www linkedin com in gustavo guallar 6b4776118 http www linkedin com in  
-  Tags: safety, training, team, trip  
   Last-modified: 2026-06-05
 
 - Title: **CarMax Individual Development Plan (IDP) Framework**  
@@ -127,7 +115,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/IDP Associate Handout.md]]  
   Summary: IDP Associate Handout Overview The Insight assessments measure personality traits and help us consider how they might impact competencies and  
   Tags: reasoning, test, your, will  
-  Last-modified: 2026-06-07
+  Last-modified: 2026-06-21
 
 - Title: **CarMax Leadership Pathway — One-Page Visual Guide**  
   Link: [[CarMax Leadership/Leadership Visual Pathway.md]]  
@@ -169,25 +157,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/S.M.A.R.T Meaning.md]]  
   Summary: At CarMax S M A R T  
   Tags: example, should, goal, goals  
-  Last-modified: 2026-06-05
-
-- Title: CarMax Department Specific Self Evaluation for August 2024.  
-  Link: [[CarMax Leadership/Self Evaluation August 2024.md]]  
-  Summary: CarMax Department Specific Self Evaluation for August 2024  
-  Tags: vehicle, mazda, brickell, release  
-  Last-modified: 2026-06-07
-
-- Title: CarMax Department Specific Self-Evaluation for June 2022.  
-  Link: [[CarMax Leadership/Self-Evaluation June 2022.md]]  
-  Summary: CarMax Department Specific Self Evaluation for June 2022  
-  Tags: safety, 2022, carmax, fleet  
-  Last-modified: 2026-06-07
-
-- Title: CarMax Department Specific Self-Evaluation for November 2022.  
-  Link: [[CarMax Leadership/Self-Evaluation November 2022.md]]  
-  Summary: CarMax Department Specific Self Evaluation for November 2022  
-  Tags: rollback, 2022, carmax, driver  
-  Last-modified: 2026-06-07
+  Last-modified: 2026-06-29
 
 - Title: The statement that best describes a manager is:  
   Link: [[CarMax Leadership/Statement Best Describe A Manager.md]]  
@@ -241,7 +211,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/CarMax Distinguishing Teams from Work Groups.md]]  
   Summary: Distinguishing Teams from Work Groups  
   Tags: team, teams, members, their  
-  Last-modified: 2026-06-15
+  Last-modified: 2026-06-21
 
 - Title: CarMax Human Capital Resources.  
   Link: [[CarMax Leadership/CarMax Human Capital Resources.md]]  
@@ -295,7 +265,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/Gustavo Guallar Harver Assessment Summary.md]]  
   Summary: Gustavo Guallar gus16126 gmail com Manager Field For Development CarMax Development Completion Date 6 23 2025 Overview Your development journey  
   Tags: your, more, learn, others  
-  Last-modified: 2026-06-15
+  Last-modified: 2026-06-21
 
 - Title: ✅ Leading Strengths - Gustavo Guallar  
   Link: [[CarMax Leadership/Leading Strengths - Gustavo Guallar.md]]  
@@ -313,7 +283,7 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/Self-Evaluation Summary.md]]  
   Summary: Gustavo Guallar Self Evaluation Summary LinkedIn Profile http www linkedin com in gustavo guallar 6b4776118 Onboarding Early Contribution June 2022  
   Tags: safety, training, team, trip  
-  Last-modified: 2026-06-15
+  Last-modified: 2026-06-20
 
 - Title: Strong Management Traits  
   Link: [[CarMax Leadership/Strong Management Traits.md]]  
@@ -355,19 +325,13 @@ Vocabulary Audit: complete
   Link: [[CarMax Leadership/Conflict Resolution.pdf]]  
   Summary: PDF Document: Conflict Resolution.pdf  
   Tags: pdf, document  
-  Last-modified: 2026-06-15
+  Last-modified: 2026-06-24
 
 - Title: Enroll_in_Content_for_Manager_Enroll__MDP_Explore  
   Link: [[CarMax Leadership/Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf]]  
   Summary: PDF Document: Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf  
   Tags: pdf, document  
   Last-modified: 2025-07-01
-
-- Title: gustavo_guallar_apr_2025  
-  Link: [[CarMax Leadership/gustavo_guallar_apr_2025.pdf]]  
-  Summary: PDF Document: gustavo_guallar_apr_2025.pdf  
-  Tags: pdf, document  
-  Last-modified: 2026-06-15
 
 - Title: gustavo_guallar_MDP_assessment  
   Link: [[CarMax Leadership/gustavo_guallar_MDP_assessment.pdf]]  
@@ -381,12 +345,6 @@ Vocabulary Audit: complete
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
-- Title: Logical Reasoning - Test 1 - JobAssessmentHelp  
-  Link: [[CarMax Leadership/Logical Reasoning - Test 1 - JobAssessmentHelp.pdf]]  
-  Summary: PDF Document: Logical Reasoning - Test 1 - JobAssessmentHelp.pdf  
-  Tags: pdf, document  
-  Last-modified: 2026-06-15
-
 - Title: Logical-Reasoning-Tests-Study-Guide  
   Link: [[CarMax Leadership/Logical-Reasoning-Tests-Study-Guide.pdf]]  
   Summary: PDF Document: Logical-Reasoning-Tests-Study-Guide.pdf  
@@ -396,12 +354,6 @@ Vocabulary Audit: complete
 - Title: Logistic - Funtional Observation  
   Link: [[CarMax Leadership/Logistic - Funtional Observation.pdf]]  
   Summary: PDF Document: Logistic - Funtional Observation.pdf  
-  Tags: pdf, document  
-  Last-modified: 2026-06-15
-
-- Title: Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar  
-  Link: [[CarMax Leadership/Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar.pdf]]  
-  Summary: PDF Document: Manager_Evaluation__1st_File_Review_2025_Field_Gustavo_Guallar.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
@@ -441,12 +393,6 @@ Vocabulary Audit: complete
   Tags: pdf, document  
   Last-modified: 2026-03-04
 
-- Title: Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022  
-  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf]]  
-  Summary: PDF Document: Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf  
-  Tags: pdf, document  
-  Last-modified: 2026-06-15
-
 - Title: Role_Guide_Assessment_Tool_Lead_March_14_2025  
   Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf]]  
   Summary: PDF Document: Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf  
@@ -470,3 +416,111 @@ Vocabulary Audit: complete
   Summary: PDF Document: Verbal-Reasoning-Tests-Study-Guide.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
+
+- Title: CarMax Leadership Assessment Methodology  
+  Link: [[CarMax Leadership/CarMax Role Guide Assessment Writing Standard.md]]  
+  Summary: CarMax Leadership Assessment Methodology Internal Writing Evaluation Instructions Version 2 0 Purpose Standard methodology for preparing competency based Role Guide  
+  Tags: leadership, competency, evidence, demonstrate  
+  Last-modified: 2026-06-25
+
+- Title: Detailed Analysis: Disciplinary Action Report (Gustavo Guallar)  
+  Link: [[CarMax Leadership/Detailed_Disciplinary_Analysis.md]]  
+  Summary: Detailed Analysis Disciplinary Action Report Gustavo Guallar This is a comprehensive breakdown of the Disciplinary Action document issued on March  
+  Tags: your, carmax, analysis, incident  
+  Last-modified: 2026-06-20
+
+- Title: Formal Draft: Associate Statement (Gustavo Guallar)  
+  Link: [[CarMax Leadership/Formal_Disciplinary_Response.md]]  
+  Summary: Formal Draft Associate Statement Gustavo Guallar This draft is designed for the Associate Comment section in Workday  
+  Tags: have, fleet, error, long  
+  Last-modified: 2026-06-20
+
+- Title: **Gustavo Guallar 2025 Individual Competency Ratings**  
+  Link: [[CarMax Leadership/Gustavo Guallar 2025 Individual Competency Ratings.md]]  
+  Summary: Gustavo Guallar 2025 Individual Competency Ratings 2025 Individual Competency Ratings 05 29 PM 10 26 2025 Page 1 of 1  
+  Tags: rating, 2025, exceptional, gustavo  
+  Last-modified: 2026-06-29
+
+- Title: 6/9/26 – Quarterly File Review  
+  Link: [[CarMax Leadership/Gustavo Guallar 6-9-26 Quarterly File Review.md]]  
+  Summary: 6 9 26 Quarterly File Review Create Observation Observation of Gustavo Guallar 280305 Vehicle Delivery Driver by Matthew Douglas 257785  
+  Tags: gustavo, observation, guallar, 257785  
+  Last-modified: 2026-06-16
+
+- Title: **Gustavo Guallar Disciplinary Action Information**  
+  Link: [[CarMax Leadership/Gustavo Guallar Disciplinary Action Information.md]]  
+  Summary: Gustavo Guallar Disciplinary Action Information Disciplinary Action Reason Analysis Decision Making United States of America Results Focus United States of  
+  Tags: guallar, manager, associate, question  
+  Last-modified: 2026-06-16
+
+- Title: **Gustavo Guallar Write-Up**  
+  Link: [[CarMax Leadership/Gustavo Guallar Write-Up.md]]  
+  Summary: Gustavo Guallar Write Up Write up Statement 1  
+  Tags: have, vehicle, carmax, your  
+  Last-modified: 2026-06-16
+
+- Title: Leave & Accommodation Resources Policy  
+  Link: [[CarMax Leadership/Leave & Accommodation Resources Policy.pdf]]  
+  Summary: PDF Document: Leave & Accommodation Resources Policy.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-20
+
+- Title: POLICY  
+  Link: [[CarMax Leadership/Leave & Accomodation Resources Policy.md]]  
+  Summary: POLICY Leave Accommodation Resources PURPOSE SCOPE The purpose of this policy is to provide an overview of the leave and  
+  Tags: leave, accommodation, policy, carmax  
+  Last-modified: 2026-06-24
+
+- Title: Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt.pdf]]  
+  Summary: PDF Document: Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-24
+
+- Title: Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt1  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt1.pdf]]  
+  Summary: PDF Document: Role_Guide_Assessment_Tool_Lead.IC2 2026 Copy To Matt1.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-24
+
+- Title: CarMax Role_Guide_Assessment_Tool_Lead.IC2 2026  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2 2026.md]]  
+  Summary: CarMax Role_Guide_Assessment_Tool_Lead IC2 2026 Lead IC Manager Leadership Portfolio Reference Associate Gustavo Guallar Position Home Delivery Driver Manager Matthew Douglas  
+  Tags: carmax, operational, associates, coaching  
+  Last-modified: 2026-06-24
+
+- Title: Role_Guide_Assessment_Tool_Lead.IC2 Late 2025 to 2026  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2 Late 2025 to 2026.pdf]]  
+  Summary: PDF Document: Role_Guide_Assessment_Tool_Lead.IC2 Late 2025 to 2026.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-24
+
+- Title: Training - Home Delivery Road Test  
+  Link: [[CarMax Leadership/Training - Home Delivery Road Test.pdf]]  
+  Summary: PDF Document: Training - Home Delivery Road Test.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-20
+
+- Title: The STAR Template  
+  Link: [[CarMax Leadership/CarMax STAR Template.md]]  
+  Summary: The STAR Template The STAR Template is commonly used at CarMax and many other companies for Performance reviews Leadership programs  
+  Tags: equipment, team, toolbox, leadership  
+  Last-modified: 2026-06-21
+
+- Title: Gustavo Guallar-Self Evaluation 2025  
+  Link: [[CarMax Leadership/Gustavo -Self Evaluation 2025.md]]  
+  Summary: Gustavo Guallar Self Evaluation 2025 Self Evaluation 2025 Annual Performance Review Self Gustavo Guallar 280305 Overall Associate Rating Exceptional Comment  
+  Tags: team, carmax, guallar, gustavo  
+  Last-modified: 2026-06-29
+
+- Title: **Gustavo Guallar – Leadership Evidence Portfolio**  
+  Link: [[CarMax Leadership/Gustavo Leadership Evidence Portfolio.md]]  
+  Summary: Gustavo Guallar Leadership Evidence Portfolio Purpose This document serves as the permanent evidence library for my leadership development at CarMax  
+  Tags: training, safety, team, trip  
+  Last-modified: 2026-06-29
+
+- Title: Role_Guide_Assessment_Tool_Lead.IC2_BlankForm2  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm2.pdf]]  
+  Summary: PDF Document: Role_Guide_Assessment_Tool_Lead.IC2_BlankForm2.pdf  
+  Tags: pdf, document  
+  Last-modified: 2026-06-24

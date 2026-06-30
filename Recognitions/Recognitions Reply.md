@@ -1,6 +1,78 @@
-Recognitions Reply.
+**Reply:**
+Jun 11, 2026
+Hi Matt,
 
+Thank you for the recognition regarding our quarterly file review. 
+
+I appreciate your guidance and the opportunity to discuss operational challenges and development opportunities. Let's stay aligned as we continue to drive safety and efficiency in our fleet operations. Staying receptive to feedback is key to helping our team succeed and deliver excellence.
+
+Thank you again for your support and leadership!
+
+Best regards,
+Gustavo Guallar
+CarMax Logistics Team
+
+-----------
+**Reply:**
+Jun 16, 2026
+Thank you, Todd — I appreciate the support! We Win Together when we watch out for each other on the road and ensure everyone gets back safely during a breakdown. Glad I could help Kelvin and support the team.
+
+Best regards,
+Gustavo Guallar
+CarMax Logistics Team
+
+-----------
+**Reply:**
+Jun 16, 2026
+Thank you for the recognition! I'm glad I could help certify the drivers on the new 2-car loading and unloading process. Passing this knowledge along is key to keeping the team safe and consistent, and I appreciate the support as we continue to strengthen our skills.
+Best regards,
+Gustavo Guallar
+
+-----------
+**Reply:**
+Jun 16, 2026
+Thank you Jessy, I always appreciate your support.
+
+-----------
+**Reply:**
+Jun 16, 2026
+Thank you for the recognition! I'm glad to have completed the 2-Car Hauler certification. Keeping our loading processes and equipment safe is very important to me, and I appreciate the support as we continue to move cars safely.
+
+-----------
+**Reply:**
+Jun 16, 2026
+Thank you, Jessy — I appreciate the support! Glad I could step in and help out the team.
+
+-----------
+**Reply:**
+Jun 16, 2026
+Hi Matt,
+
+Thank you for the recognition regarding the modified MaxOffer recovery.
+
+Handling the lowered suspension was a challenge, but I wanted to make sure we got the vehicle transported safely and avoided any extra costs or delays for the team.
+
+Best regards,  
+Gustavo Guallar  
+CarMax Logistics Team
+
+-----------
+**Reply:**
+Jun 16, 2026
+Hi Matt,
+
+Thank you for the recognition regarding the APU coverage at 7198-LKS. 
+
+When the need arose to cover the unit, making that pivot was a clear opportunity to support both the store team and our customers. Ensuring that they received a seamless, iconic experience is always the top priority.
+
+Best regards,
+Gustavo Guallar 
+CarMax Logistics Team
+
+-----------
+**Reply:**
 Nov 21, 2025
+
 Thank you, Jessy.  We really appreciate the recognition. The team has been working hard to stay consistent with the Pre-Trip standards and keep safety at the center of everything we do. It means a lot to hear that the intent and discipline are showing through during observations.
 We’ll keep pushing that momentum forward, supporting each other, and making sure we continue to Win Together as we move more cars through CarMax Fleet. Thanks for your leadership and for taking the time to acknowledge the team’s effort.
 

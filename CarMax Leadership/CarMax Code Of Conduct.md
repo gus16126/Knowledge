@@ -52,10 +52,12 @@ Responsibility, accountability, guidance resources
 code of business conduct
 
 Last revised: 10/20/14CarMax Code of Business Conduct  1 of 46
+
 THIS CODE OF BUSINESS CONDUCT IS NOT A CONTRACT OF EMPLOYMENT AND DOES NOT CREATE ANY CONTRACTUAL RIGHTS OF ANY KIND BETWEEN CARMAX, ITS ASSOCIATES, OR THIRD PARTIES, 
 INCLUDING ANY EXPRESS OR IMPLIED CONTRACT OF EMPLOYMENT.  CARMAX DOES NOT CREATE ANY RIGHTS OR ASSUME ANY DUTIES, CONTRACTUAL OR OTHERWISE, BY ISSUING THIS CODE.
 
 Last revised: 10/20/14CarMax Code of Business Conduct  2 of 46
+
 Dear Associates:
  
 Standing in front of our first store over 21 years ago, it was hard to imagine what our Company would become.  What we knew was that we were going to do things differently:  by being honest and transparent in our business practices we would change the way used cars are sold.  This is what we mean when we say that CarMax was founded on the fundamental principle of integrity, reflected in the way we serve our customers, treat each other, and deliver our products. 
@@ -84,6 +86,7 @@ Board Members and Associates with management responsibilities are also obligated
  ■ Respond to compliance problems by taking prompt corrective or disciplinary action for any violations.
 
 Last revised: 10/20/14CarMax Code of Business Conduct  7 of 46
+
 INTRODUCTION
 Applying the Code
 As Associates, we are all responsible for compliance with and enforcement of this Code.  You must certify compliance with the Code as a condition of employment (Associates) and as a matter of policy (Board Members).  
@@ -272,8 +275,7 @@ CarMax is required by law to maintain books, records, and accounts that accurate
 that you ensure business records and accounts under your control are accurate and supported by appropriate documents in a form suitable for an audit.  
 CarMax expects your cooperation in fulfilling this obligation.  
 You must report complaints or concerns regarding accounting, internal accounting controls, or auditing, and may do so on a confidential and  
-anonymous basis by calling the Associate Help Line at 1-866-KMX-TIPS (1-866-569-8477) or by using the Help Line Reporting Website at [www](http://www/).  
-kmxtips.com.  
+anonymous basis by calling the Associate Help Line at 1-866-KMX-TIPS (1-866-569-8477) or by using the Help Line Reporting Website at [www](http://www/).  kmxtips.com.  
 All of these reported complaints or concerns will be directed to the Audit Committee.  
 CarMax has a zero-tolerance policy with respect to retaliation and will not tolerate retaliation in response to any Associate’s use of the various systems and  
 procedures to report concerns.
@@ -284,6 +286,7 @@ CarMax must comply with a variety of federal, state, and local laws and regulati
 COMPLIANCE WITH THE LAWS
 
 Last revised: 10/20/14CarMax Code of Business Conduct 31 of 46 Antitrust  
+
 Antitrust laws prohibit monopolies, restraints of trade, and unfair trade practices, including price fixing, group boycotting, and disparaging a product  
 or service, manufacturer, or vendor. We expect all Associates to comply with antitrust laws. Associates are prohibited from serving as directors or officers of  
 other companies that engage in substantial competition with CarMax. Direct any questions about business decisions involving risks of antitrust exposure to  
@@ -358,10 +361,12 @@ Alcohol consumption at certain functions may be permitted if approved by a CarMa
 
 DRUG AND ALCOHOL POLICY  
 Last revised: 10/20/14CarMax Code of Business Conduct 43 of 46 board member and associate conduct and business practices  
-Last revised: 10/20/14CarMax Code of Business Conduct 44 of 46  
-You must maintain the highest level of personal integrity in performing your duties and in working with other Board Members or Associates, customers, vendors, and competitors.
 
-Last revised: 10/20/14CarMax Code of Business Conduct 45 of 46 BOARD MEMBER AND ASSOCIATE CONDUCT AND BUSINESS PRACTICES  
+**Last revised: 10/20/14 CarMax Code of Business Conduct 44 of 46  
+You must maintain the highest level of personal integrity in performing your duties and in working with other Board Members or Associates, customers, vendors, and competitors.**
+
+Last revised: 10/20/14 CarMax Code of Business Conduct 45 of 46 BOARD MEMBER AND ASSOCIATE CONDUCT AND BUSINESS PRACTICES  
+
 Obviously, a policy statement cannot cover all situations. Good judgment coupled with a high sense of personal integrity is the best policy.  
 When situations arise that fall within a gray area, you must follow the steps described under “Getting Answers to Questions and Reporting Concerns” on page 7.
 

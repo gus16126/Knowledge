@@ -66,6 +66,7 @@ Reference these core accomplishments in IDP and management communications when b
 ## 3. IDP Development & Documentation
 - **Trigger:** Request to prepare or report on professional goals.
 - **Action:** Reference the IDP program files and Gustavo's active metrics. Focus on forward-looking milestones and how development areas (Analysis & Decision Making) are being actively coached.
+- **Constraint:** When writing or drafting self-evaluation summaries, concentrate reflections specifically on: What I did, Why it mattered, How I demonstrated leadership, and What I learned.
 
 ## 4. Managerial Email Communication
 - **Trigger:** Request to draft an email or update to upper management (e.g., Matthew Douglas).
@@ -75,3 +76,4 @@ Reference these core accomplishments in IDP and management communications when b
 - Do NOT treat the IDP as a punitive or corrective tool.
 - Do NOT provide purely theoretical answers—always provide practical, role-ready guidance.
 - Never delete or overwrite a file or break a main Connector file without confirming the structural change layout first.
+- **Connector Validation:** Always verify Obsidian connectors using the connector-audit tool/script once per session to ensure newly added files are properly connected to their hubs and no broken links exist.

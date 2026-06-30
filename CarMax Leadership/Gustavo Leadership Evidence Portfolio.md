@@ -1,6 +1,11 @@
-Gustavo Guallar – Self-Evaluation Summary
+# **Gustavo Guallar – Leadership Evidence Portfolio**
 
-[LinkedIn Profile](http://www.linkedin.com/in/gustavo-guallar-6b4776118): [**http://www.linkedin.com/in/gustavo-guallar-6b4776118**](http://www.linkedin.com/in/gustavo-guallar-6b4776118)
+# Purpose
+
+This document serves as the permanent evidence library for my leadership development at CarMax.
+
+Unlike a traditional annual self-evaluation, this portfolio is maintained continuously throughout the year. Significant accomplishments, leadership activities, coaching experiences, process improvements, training initiatives, and operational contributions are documented as they occur to preserve accurate evidence for future Self-Evaluations, Role Guide Assessments, IDPs, MAP, LDP, promotion discussions, and other leadership development opportunities.
+
 
 🟦 Onboarding & Early Contribution – June 2022
 
@@ -8,9 +13,13 @@ After several years as an over-the-road owner-operator, I joined CarMax in June 
 
 Upon return, I shared key takeaways with Sr. Fleet Drivers at my store, including practices to improve visibility and safety — such as keeping the upper deck elevated to 8 feet or more, and tucking in lower extensions and ramps when not in use.
 
+---
+
 🟦 Equipment Safety Improvements – Sept to Nov 2022
 
 Leveraging my experience in light- and medium-duty towing, I identified safety risks with the **wheel lifter tie-down** and **rollback eight-point strapping** methods. I consulted with peers in the industry and reviewed expert recommendations. I submitted two detailed safety proposals to my lead driver **Luis Rejon**, supported by references and procedural guidelines aimed at reducing damage and improving driver safety.
+
+---
 
 🟦 Rollback Winch Safety Advocacy – Jan to Nov 2023
 
@@ -18,11 +27,15 @@ In early 2023, I raised concerns about the condition and use of **winch systems*
 
 In November 2023, I was invited by management to co-develop a formal **winch safety training program**. I contributed a draft curriculum based on my experience, police reports, and the Utah Tow Truck Certification Guide. Although the rollback role was phased out shortly after submission, it was rewarding to collaborate on a project focused on proactive fleet safety.
 
+---
+
 🟦 Role Transition & Operational Innovation – Aug to Sept 2024
 
 Following fleet restructuring, I transitioned to the **Home Delivery Team**. During this period, I identified operational and logistical challenges in **MaxOffer pickups** at dealerships like Brickell Mazda and Miami Lakes Auto Mall.
 
 I established direct relationships with dealership contacts, mapped their internal processes, and developed independent workflows that reduced wait times, enabled after-hours pickups, and minimized disruption to their staff. These efforts turned previously challenging accounts into reliable and manageable routes — improving both, delivery efficiency and professional relationships.
+
+---
 
 🟦 Proactive Maintenance & Structural Safety – August 2024
 
@@ -34,6 +47,8 @@ This procedure was shared with my team and logistics manager **Matthew Douglas**
 
 In February, my manager asked me to train a fellow team member, **Alex López Guerra**, on the CarMax Driver App and MaxOffer delivery process. I provided a step-by-step walkthrough at multiple locations and supported his learning with a custom checklist. Alex quickly demonstrated independence and confidence in completing MaxOffer assignments.
 
+---
+
 🟦 Equipment Use & Safety Reinforcement – Feb 2025
 
 I raised safety concerns regarding the misuse of the **Cottrell QuixSpinz Ratcheting System** on our two-car haulers. I noticed improper strap positioning causing unnecessary wear and misalignment, potentially compromising safety.
@@ -43,6 +58,8 @@ After confirming correct procedures through Cottrell documentation, I attempted 
 ✅ Closing Reflection
 
 Across roles and transitions, I’ve remained committed to identifying risks, proposing actionable solutions, and engaging my peers through collaboration and accountability. Whether addressing equipment safety, streamlining pickups, or supporting team development, I’ve aimed to reinforce CarMax’s values through action — especially _Doing the Right Thing_, _Win Together_, and _Go for Greatness_.
+
+---
 
 🟦 **Peer Training – Ben Gordon**
 
@@ -149,6 +166,8 @@ We reviewed how this core CarMax value applies to safety, honesty, and professio
 
 Ben Gordon showed steady improvement in all areas of the training program. He absorbed material quickly, applied feedback effectively, and approached each day with a strong attitude and willingness to learn. His performance consistently reflected CarMax’s values and commitment to safety, professionalism, and teamwork.
 
+---
+
 🟦 **Peer Training – Santiago Munarriz**
 
 **Training Period: May 5 – June 5, 2025**
@@ -188,6 +207,8 @@ The core training pillars remained the same as those used in previous peer train
 ✅ **Performance & Engagement**
 
 Santiago demonstrated a strong willingness to learn from day one. His focused attitude, proactive approach to hands-on tasks, and thoughtful questions throughout the process made him a standout trainee. He showed consistent growth in both safety procedures and daily operations, and by the end of his training period, he was confidently handling vehicle pickups, inspections, and customer interactions independently.
+
+---
 
 🟦 **Peer Training – Carlos Barrios**
 
@@ -229,6 +250,8 @@ Carlos received the same structured instructional approach that was proven effec
 
 Carlos displayed a proactive attitude and a strong desire to learn from day one. He engaged fully in daily practice sessions, quickly grasped the importance of safety standards, and demonstrated consistent improvement in his confidence and operational skills. By the end of the two-week training period, Carlos was confidently managing pre-trips, load securement, and delivery procedures with minimal assistance.
 
+---
+
 **🟦 Training Development – Pre-Trip Inspection Step-by-Step Checklist**
 
 **Date Range: June 20, 2025 – August 5, 2025**
@@ -243,11 +266,17 @@ The intent of this checklist was not to replace the CarMax job aid, but to **ope
 
 This tool supports safer operations, stronger compliance, and reinforces the importance of completing inspections thoroughly and in the correct order every time.
 
+---
+
 📅 On **August 5, 2025**, I conducted a **Pre-Trip Inspection observation** of _**Mario Ramirez**_ as part of ongoing driver performance and safety evaluation. The observation was performed in accordance with CarMax guidelines, using the standardized checklist and evaluation criteria to assess procedural accuracy, safety awareness, and adherence to pre-trip inspection protocols.
+
+---
 
 📅 **On August 14, 2025**, I conducted a **Pre-Trip Inspection observation of Carlos Barrios.** The observation was performed following CarMax’s standardized inspection protocol, using the official checklist and criteria to evaluate procedural accuracy, safety compliance, and overall inspection proficiency.
 
 🛠️ As part of this session, I also provided Carlos with an in-depth walkthrough of the under-hood components, including their names and individual functions. This explanation served to build his foundational knowledge of mechanical systems and enhance his ability to identify potential issues during daily inspections.
+
+---
 
 ### **🔍 Pre-Trip Observation – Santiago Munarriz**
 
@@ -272,8 +301,9 @@ To help reinforce specific areas where further growth was needed, particularly c
     
 - Air brake procedure timing and checklist flow
     
-
 This combination of hands-on performance and guided observation continues to strengthen Santiago’s inspection proficiency and reinforces our team's shared commitment to standardized, safe vehicle operation.
+
+---
 
 ### **🔍 Pre-Trip Observation – Benaiah Gordon**
 
@@ -297,7 +327,8 @@ Earlier in the week, I had invited Benaiah to observe my own Pre-Trip Inspection
 - **Component Naming:** Continued practice needed with engine and suspension part identification.
     
 - **Air Brake Check:** Understanding is improving, with more practice needed on timing and air loss tracking.
-    
+
+---    
 
 📱 ****Team Text Group – Started August 14, 2025****
 
@@ -310,6 +341,8 @@ To be used as a tool for growing as a team and continuing to learn together.
 📅 **On August 15, 2025, I published a labeled diagram of the driver-side engine compartment to the team.** The image included clearly marked components to support learning and increase mechanical awareness during Pre-Trip Inspections.
 
 The goal of this visual aid was to reinforce standardization across the team by helping team members identify and understand key engine components with confidence and accuracy. This resource supports our commitment to vehicle safety, readiness, and consistent inspection practices.
+
+---
 
 📅 On **August 18, 2025**, I shared this reminder to help reinforce one of the most critical parts of our daily operations — the **Pre-Trip and Post-Trip Inspections and its standardization**.
 
@@ -330,6 +363,8 @@ Completing this inspection helps ensure:
 
 As a team, it's essential that we **not only perform these inspections**, but also understand _why_ they matter. This reinforces our commitment to safety, professionalism, and _Doing the Right Thing_ every day.
 
+---
+
 📅 **August 19, 2025**
 
 Subject: “Wheel Inside” Diagram – Visual Aid for Pre-Trip Inspection
@@ -340,13 +375,15 @@ On August 19, 2025, I shared with the home delivery team a labeled image titled 
 
 The goal of this visual was to **strengthen team awareness and knowledge** of the specific parts that must be inspected during daily pre-trip and post-trip inspections.
 
+---
+
 📅 **August 22, 2025**
 
 Subject: Engine Compartment – Visual Aid for Pre-Trip Inspection.
 
 On August 22, 2025, I followed up on the previous week’s training initiative by sharing a second **labeled diagram**, this time showing a detailed view of the **top of the engine compartment**. The purpose remained the same: to help team members become more familiar with the **critical components they are responsible for inspecting** during their daily pre- and post-trip inspections.
 
-  
+---  
 
 **📅 August 27, 2025**
 
@@ -364,8 +401,9 @@ This is a quick reminder of why it's essential that we follow the **standardized
     
 - **Preparedness**: A complete inspection helps avoid surprises during deliveries and prevents delays.
     
-
 This isn’t just about compliance—it’s about our **commitment to safety, professionalism, and Doing the Right Thing** every day.
+
+---
 
 **📅 August 28, 2025**
 
@@ -402,8 +440,9 @@ I shared a **labeled photo** with the team showing the **correct method for plac
     
 - **Visual Reminder:** The image shared demonstrates exactly **where** and **how** the chocks should be positioned to prevent movement—especially when performing tasks under or around the vehicle.
     
-
 Let’s all make sure we’re **not just completing pre-trips—but doing them to standard**, using **all the safety tools available** to us.
+
+---
 
 **📅 September 2, 2025**
 
@@ -430,6 +469,8 @@ To support the ongoing development of knowledge related to components on our tru
 
 I encouraged Santiago Munarriz to share an image with the team from a recent delivery that included a lifted Jeep. His approach effectively allowed him to keep the load as low as possible, maintaining a low center of gravity. His example reinforced the principles we’ve been discussing and added real-world value to the team’s training materials.
 
+---
+
 **🟦 Load Positioning Reinforcement – Real-World Example.**
 
 **Date: September 10, 2025**
@@ -438,11 +479,15 @@ During a recent transport move, Santiago Munarriz handled a load that included a
 
 This example aligned directly with the load-positioning safety principles we have been emphasizing as a team. I encouraged Santiago to share the image with the group as a real-world reference to reinforce correct technique and support ongoing learning through peer examples.
 
+---
+
 **🟦 Team Engagement – Training Contribution.**
 
 **Date: September 10, 2025**
 
 I acknowledged and thanked Santiago Munarriz for sharing the load-positioning image with the team, recognizing his contribution to reinforcing proper loading practices and supporting collective learning.
+
+---
 
 **🟦 Equipment Safety Awareness – Engine Fan Inspection.**
 
@@ -454,6 +499,8 @@ The training reinforced that fan or clutch damage may not be immediately noticea
 
 I emphasized the importance of visually inspecting fan blades and checking for looseness during under-hood inspections to help detect potential failures early and prevent roadside breakdowns.
 
+---
+
 **🟦 Pre-Trip Inspection Reinforcement – Transmission Fluid Check.**
 
 **Date: September 15, 2025**
@@ -461,6 +508,8 @@ I emphasized the importance of visually inspecting fan blades and checking for l
 During a pre-trip inspection, a transmission dipstick reading revealed critically low fluid levels. I shared this example with the team to reinforce the importance of consistently checking fluid levels during every inspection.
 
 This communication highlighted how thorough pre-trip inspections help prevent major mechanical damage, reduce breakdown risk, and protect both equipment and driver safety. It reinforced that small inspection steps play a critical role in maintaining reliable and safe operations.
+
+---
 
 **🟦 Operational Training – MaxOffer Pickup System.**
 
@@ -470,6 +519,8 @@ I shared a short instructional video outlining the process for the new MaxOffer 
 
 The purpose of this communication was to help the team prepare in advance, build familiarity with the updated process, and ensure a smooth transition once the system became active.
 
+---
+
 **🟦 Tire Safety Awareness – Foreign Object in Tread.**
 
 **Date: September 19, 2025**
@@ -477,6 +528,8 @@ The purpose of this communication was to help the team prepare in advance, build
 I shared a photo showing a screw embedded in a tire tread discovered during a pre-trip inspection. Even when a tire is not yet punctured, continued rotation can drive the object deeper, increasing the risk of sudden air loss or blowout.
 
 I referenced a similar situation previously identified by Carlos Barrios, where early detection prevented a potentially dangerous front-tire failure. This training reinforced that pre-trip inspections are non-negotiable and play a direct role in preventing serious safety risks.
+
+---
 
 **🟦 Load Positioning & Stability Reinforcement.**
 
@@ -488,6 +541,8 @@ The training highlighted how a lower center of gravity improves vehicle stabilit
 
 This example served as a practical reinforcement of safe loading principles and encouraged continued peer contribution to team learning.
 
+---
+
 **🟦 Team Training – Tail Swing Awareness.**
 
 **Date: September 23, 2025**
@@ -496,11 +551,15 @@ I shared a real-world incident to reinforce the importance of tail-swing awarene
 
 This training reinforced defensive driving habits and situational awareness critical to safe vehicle operation.
 
+---
+
 **🟦 Team Training – Tail Swing Awareness (Follow-Up).**
 
 **Date: September 25, 2025**
 
 I followed up with an additional team message reinforcing tail-swing awareness, again emphasizing real-world consequences, proper vehicle positioning, and continuous mirror monitoring during turns to prevent accidents and protect other road users.
+
+---
 
 **🟦 Team Training & Safety – Safeguarding Tags.**
 
@@ -512,6 +571,8 @@ Best practices included documenting tag placement with photos, coordinating reco
 
 This communication reinforced accountability and care for shared operational resources, supporting smoother workflows and minimizing avoidable disruptions.  
 
+---
+
 **🟦 Team Training – Weigh Station Awareness.**
 
 **Date: October 8, 2025**
@@ -519,6 +580,8 @@ This communication reinforced accountability and care for shared operational res
 As routes expanded into additional Florida cities, I shared guidance on weigh-station awareness and compliance requirements.
 
 This communication reinforced the obligation to enter open weigh stations, outlined potential enforcement actions for non-compliance, and set expectations for future training on inspection procedures and required documentation.
+
+---
 
 **🟦 Team Training – Understanding ELD Log Records.**
 
@@ -528,6 +591,8 @@ I provided a training message explaining how ELD records are reviewed during DOT
 
 Key takeaways focused on accuracy, documentation, and proactive log review to support safe and compliant operations.
 
+---
+
 **🟦 Team Training & Safety – ELD Log Detail Review.**
 
 **Date: October 9, 2025**
@@ -535,6 +600,8 @@ Key takeaways focused on accuracy, documentation, and proactive log review to su
 I shared a detailed overview of the MY20 ELD summary screen, explaining how duty status changes, notes, locations, and total mileage are recorded and reviewed.
 
 The training reinforced the importance of accurate logging for DOT inspections, management review, and personal accountability, highlighting transparency and professionalism in daily operations.
+
+---
 
 **🟦 Regulatory Knowledge – Florida Intrastate Hours of Service (FL Intra 7/70).**
 
@@ -544,11 +611,35 @@ I shared an educational overview explaining Florida’s Intrastate 7/70 Hours of
 
 This communication helped ensure team understanding of applicable HOS regulations, reinforcing compliance expectations while supporting accurate ELD usage and trip planning.
 
+**🟦 Operator Safety – 3-Point Contact Training Videos.**
+
+**Date: November 14, 2025**
+
+I created and shared a series of four training videos demonstrating the proper execution of the three-point contact safety rule during loading and unloading operations on the 2-Car Hauler. The videos cover:
+- **Entering Lower Deck 3 Point Contact**
+- **Entering Upper Deck 3 Point Contact**
+- **Exit Lower Deck 3 Point Contact**
+- **Exit Upper Deck 3 Point Contact**
+
+These visual safety guides model correct body positioning and grip sequence, reinforcing safe carrier operations, minimizing slip-and-fall hazards, and supporting team safety compliance.
+
+---
+
 **🟦 Compliance Awareness – Weight Station Instructions.**
 
 **Date: November 14, 2025**
 
 I shared a compliance reminder emphasizing the importance of following posted weight-station instructions. The message highlighted the financial and enforcement consequences associated with non-compliance, reinforcing the need for attention and accountability during operations.
+
+---
+
+**🟦 Equipment Safety – Proper Strap Threading Training Video.**
+
+**Date: November 15, 2025**
+
+I created and shared a detailed training video demonstrating the correct procedures for securing vehicles and threading straps using the Cottrell QuiXspinz ratcheting system. This visual guide shows how to properly align and tension wheel straps to prevent equipment wear, ensure DOT cargo securement compliance, and preserve the integrity of our tie-down systems.
+
+---
 
 **🟦 Equipment Safety – Proper Strap Handling.**
 
@@ -558,6 +649,8 @@ I reinforced proper strap-handling procedures during loading and unloading, refe
 
 This communication emphasized consistency, equipment preservation, and adherence to manufacturer safety standards—addressing the risks associated with shortcuts and reinforcing correct procedures across the team.
 
+---
+
 **🟦 Team Message – Professional Value & Responsibility.**
 
 **Date: November 19, 2025**
@@ -566,6 +659,8 @@ I shared a team message recognizing the complexity and responsibility involved i
 
 The intent was to reinforce pride in the role, highlight the professional judgment required daily, and acknowledge the trust placed in drivers to represent CarMax safely and responsibly.
 
+---
+
 **🟦 Operator Safety – Footwear Requirements.**
 
 **Date: November 20, 2025**
@@ -573,6 +668,8 @@ The intent was to reinforce pride in the role, highlight the professional judgme
 I shared a safety reminder based on Cottrell’s operator precautions regarding appropriate footwear while operating the carrier.
 
 This communication reinforced the importance of slip-resistant footwear to reduce fall risk, improve stability on ladders and steps, and ensure equipment is operated as designed by the manufacturer.
+
+---
 
 **🟦 Load Positioning Visual Reinforcement.**
 
@@ -590,6 +687,8 @@ I shared a manufacturer reference from Cottrell that clearly identified the uppe
 
 The goal of this resource was to ensure consistent terminology during training, communication, and daily operations—helping the team remain aligned with manufacturer language and expectations when discussing equipment use and safety.
 
+---
+
 **🟦 Team Training – 2-Car Hauler Job Aid Review (Page 1).**
 
 **Date: November 24, 2025**
@@ -606,8 +705,8 @@ I shared an operational update outlining the proper upper- and lower-deck loadin
 
 This guidance followed official loading instructions provided directly by Cottrell, reinforcing standardized loading practices and alignment with manufacturer-approved procedures.
 
+---
   
-
 **🟦 Team Training – Load Positioning & Center of Gravity.**
 
 **Date: December 17, 2025**
@@ -631,4 +730,282 @@ These conversations often include discussions about:
 
 The intent of these discussions is to create an open, supportive environment where team members feel comfortable asking questions, and learning from one another. This approach allows issues to be addressed early, reinforces the importance of pre-trip inspections, and helps keep everyone aligned on safety expectations and operational changes.
 
+---
+
+# Gustavo Guallar Self-Evaluation Summary 2026
+
+## Self-Evaluation Summary – Leadership & Operational Impact
+
+During this review period, I focused on supporting associate development, improving operational readiness, strengthening safety compliance, and creating scalable training resources for the Home Delivery team. My contributions included peer training and onboarding of multiple associates, development of interactive and mobile-accessible training tools, publication of safety and operational communications, and leadership coaching aligned with CarMax values. These efforts supported team performance, reinforced operational standards, and contributed to a culture of safety, accountability, and continuous improvement.
+
+---
+
+🟦 **Operational Support**
+
+  **3-Point Contact Training Videos (November 14, 2025):** Created and shared a series of four training videos demonstrating the proper execution of the three-point contact safety rule during loading and unloading operations on the 2-Car Hauler. The videos cover Entering/Exit procedures for both Upper and Lower Decks. These visual safety guides model correct body positioning and grip sequence, reinforcing safe carrier operations, minimizing slip-and-fall hazards, and supporting team safety compliance.
+
+**Result:** Reinforced a critical safety expectation by providing associates with a visual demonstration of proper climbing and descending techniques. The videos supported safe loading and unloading practices, increased consistency in three-point contact execution, and helped reduce slip-and-fall risk during carrier operations.
+
+
+  **Proper Strap Threading Training Video (November 15, 2025):** Created and shared a detailed training video demonstrating the correct procedures for securing vehicles and threading straps using the Cottrell QuiXspinz ratcheting system. This visual guide shows how to properly align and tension wheel straps to prevent equipment wear, ensure DOT cargo securement compliance, and preserve the integrity of our tie-down systems.
+
+**Result:** Standardized proper securement techniques across the team, reducing the likelihood of strap damage, improper tensioning, and cargo securement errors while reinforcing DOT compliance and equipment longevity.
+
+---
+
+🟦 **Interactive Training**
+
+  **Interactive Pre-Trip Inspection App (January 2026):** Developed and launched a self-contained HTML mobile application to support drivers in conducting thorough vehicle inspections. Accessible on team members' personal phones, the tool translates the official CarMax Pre-Trip Job Aid and the Florida CDL Handbook into an interactive walkthrough. This digital checklist ensures full alignment with FMCSA safety standards, empowering drivers to perform highly detailed, professional inspections and consistently pass formal management evaluations.
+
+**Result:** Established a standardized inspection process that improved training consistency, increased associate confidence during inspections, and provided a reusable resource to support both current and future Home Delivery drivers.
+
+---
+
+🟦 **Audio Training**
+
+*To enhance compliance and simplify training, I developed and distributed a series of mobile-accessible audio briefs. These resources allow drivers to listen to step-by-step inspection protocols hands-free at any time—even while preparing or working, eliminating the need to refer to paper checklists or mobile screens in the field, and reinforcing safe habits in real-time.*
+
+
+  **Pre-Trip Preparation Audio Brief – Step 1 (February 2026):** Produced and distributed an audio training brief covering all 13 points of Step 1 (Pre-Trip Preparation) of the commercial vehicle inspection checklist. Accessible on drivers' phones, the brief guides drivers through the essential starting steps—including UKG clock-in, My20 HOS logging, selecting truck numbers, verifying required safety gear (non-slip shoes, gloves, depth gauges, pressure gauges), light and hazard checks, ignition key safety, and drive wheel chocking—to ensure consistent readiness before starting the physical inspection walkaround.
+
+  **Pre-Trip Inspection Audio Brief – Step 2 Front Cab (February 2026):** Produced and distributed a second audio training brief covering all 14 points of Step 2 (Front Cab Inspection). This mobile-accessible resource guides drivers through checking critical front cab and exterior checkpoints—including upper marker lights, windshield glass, wiper blades, mirrors, turn signals, headlights (high/low beams), hood latches/hinges, grill, bumper securement, checking for leaks underneath, and verifying the suspension and front axle are aligned and not leaning—ensuring a thorough inspection before moving to the engine bay.
+
+  **Pre-Trip Inspection Audio Brief – Step 3 Engine Bay Passenger Side (February 2026):** Produced and distributed a third audio training brief covering all 37 checkpoints under the engine hood on the passenger side. This mobile-accessible resource guides drivers through checking critical mechanical, suspension, and braking systems—including the coolant reservoir, radiator hoses, engine fan/clutch, alternator connections, water pump (verifying no leaks), air dryer, shock absorbers, leaf springs, brake chambers, slack adjusters, tire tread depth/pressure, and the wheel hub oil level—ensuring the passenger side of the truck is structurally and mechanically sound.
+
+  **Pre-Trip Inspection Audio Brief – Step 4 Engine Bay Driver Side (February 2026):** Produced and distributed a fourth audio training brief covering all 34 checkpoints under the engine hood on the driver side. This mobile-accessible resource guides drivers through inspecting key engine fluids, steering linkage, power steering components, and braking assemblies—including power steering fluid levels, engine oil, transmission fluid, the steering gear box, steering shaft/U-joints, drag link, pitman arm, brake valves/chambers, slack adjusters, and the driver-side tire and hub seal—to ensure complete mechanical and operational safety.
+
+**Result:** Collectively, these audio training resources transformed the first four stages of the Pre-Trip Inspection process into mobile-accessible, hands-free learning tools covering 98 individual inspection checkpoints. By making training available on demand, the series reinforced inspection consistency, improved associate familiarity with vehicle components and safety procedures, and provided a reusable resource to support both new and experienced Home Delivery drivers.
+
+---
+
+🟦 **Peer Training – Von Frazier**
+
+**Training Period: March 15, 2026**
+
+Following the successful training of Carlos Barrios, I supported the onboarding of **Von Frazier** into the home delivery team using our refined onboarding and equipment training model. The training focused on establishing rigorous pre-trip inspection routines, mastering securement processes, and aligning with CarMax safety regulations.
+
+**Training Model Continuity**
+Von's training incorporated the successful components of our standard peer-coaching model:
+
+Progressing from supervised observations to independent execution of inspections and loading routines.
+Daily hands-on practice in **pre-trip and post-trip inspections**, **QuiXspinz strap securement**, and **hydraulic deck pinning safety**.
+Emphasizing regulatory standards including **DOT compliance**, **Hours of Service requirements**, and **My20 ELD usage**.
+
+  **ELDT Curriculum Alignment:** Although conducted without a formal classroom curriculum, my peer-training model was designed to mirror the structural requirements of the Federal FMCSA Class B CDL Entry-Level Driver Training (ELDT) curriculum. With the exception of select tractor-trailer components (such as trailer coupling/uncoupling) which do not apply to straight trucks, my hands-on instruction systematically covered all key ELDT areas: basic operation controls, safe driving procedures, visual search habits, space management, and backing maneuvers (including straight line, and parallel parking on both sides). Aligning peer training with these federal standards ensures our home delivery drivers operate with commercial-grade safety and compliance.
+
+**Key Training Focus Areas**
+
+**Pre-Trip Inspection & Component Diagnosis (ELDT B1.1.3 / B1.4.1):** Establishing a thorough, consistent inspection routine. Utilized custom labeled engine-bay and inner-wheel diagrams to train Von on mechanical identification and wear-and-tear diagnosis.
+
+  **QuiXspinz Strap Securement:** Focusing on correct strap alignment and tensioning to prevent equipment wear.
+  **Hydraulic Safety:** Deck pinning procedures and ramp safety during loading operations.
+  **Visual Search & Space Management (ELDT B1.2.1 / B1.2.5):** Coached Von on defensive driving, mirror checks, following distance calibration for air brake lag, and tail swing awareness in dealership/customer delivery zones.
+  **Range-Backing & Docking (ELDT B2.2 / B2.3):** Practiced backing alignments, setups, and maneuvering in controlled environments to build confidence before field routes.
+  **Customer Experience:** Maintaining high standards of professionalism and communication during deliveries.
+
+✅ **Performance & Engagement**
+Von demonstrated exceptional discipline, strong safety compliance, and outstanding mechanical awareness. He immediately owned his vehicle inspection routines and has maintained perfect consistency in performing Pre-Trip inspections at the start of every shift.
+
+✅ **Training Impact**
+Through structured coaching, visual training aids, and hands-on practice, I helped establish strong inspection habits, mechanical awareness, and securement proficiency. Von's successful onboarding reinforced the effectiveness of the peer-training model and contributed to the development of consistent operational and safety standards within the team.
+
+---
+
+🟦 **Peer Training – Dayan Enamorado**
+**Training Period: May 11 – May 25, 2026**
+
+Although **Dayan Enamorado** joined our team as a highly experienced commercial truck driver, he had no prior experience in car hauling. I supported his onboarding into the home delivery team using the same refined coaching procedures established for Von Frazier, focusing on equipment handling and safety.
+
+**Training Model Continuity**
+Dayan's training prioritized transferring his existing road safety skills to the unique demands of car hauling:
+
+Progressing from supervised demonstrations to independent execution of specialized loading and securement.
+
+    Daily hands-on practice in **2-car hauler hydraulic operations**, **deck pinning safety**, and **Pre-Trip and Post-Trip inspections** tailored to our 2-car hauler equipment.
+
+    Ensuring compliance with **DOT regulations**, **HOS rules**, and the **My20 ELD app**.
+
+  **ELDT Curriculum Alignment:** Although conducted without a formal classroom curriculum, my peer-training model mirrors the structural requirements of the Federal FMCSA Class B CDL Entry-Level Driver Training (ELDT) curriculum. With the exception of select tractor-trailer components (such as trailer coupling/uncoupling) which do not apply to straight trucks, my hands-on instruction systematically covered all key ELDT areas: basic operation controls, safe driving procedures, visual search habits, space management, and backing maneuvers (including straight line, and parallel parking). Aligning peer training with these federal standards ensures our home delivery drivers operate with commercial-grade safety and compliance.
+
+**Key Training Focus Areas**
+
+    Transitioning driving techniques to manage the clearance and turning radius of loaded haulers in a controlled environment.
+    Mastering securement using the Cottrell QuiXspinz system, emphasizing proper strap alignment.
+    Safe vehicle alignment, centering, hydraulic pinning and step-down lowering methods.
+    Maintaining customer service excellence and professional communication during drops.
+
+✅ **Performance & Engagement**
+Dayan leveraged his strong commercial driving background to quickly grasp safety procedures, showing exceptional adaptability and focus. He mastered the specialized 2-car hauler mechanics within the training period and was ready for the road test.
+
+💡 **Leadership Coaching & Value Alignment**
+
+Dayan was hired to operate out of Store 7113 under Logistics Manager **Ana Lezcano**. Throughout the training period, I identified several opportunities to provide developmental coaching related to professional communication, workplace conduct, leadership partnership, and brand representation. These situations allowed me to apply coaching techniques, reinforce CarMax values, and further develop my own leadership capabilities.
+
+  1. **Leadership Partnership & Team Alignment:** During training discussions, I observed opportunities to reinforce the importance of constructive relationships with leadership and teammates. Using CarMax's core values of **Win Together** and **Put People First**, I coached Dayan on the importance of mutual trust, collaboration, and maintaining a positive partnership with leadership to support operational success and team cohesion.
+
+  2. **Professional Conduct & Workplace Expectations:** I identified opportunities to reinforce workplace professionalism and appropriate boundaries. Using the **CarMax Code of Conduct** as a coaching framework, I conducted development conversations focused on maintaining a respectful, inclusive, and professional work environment. Recognizing that additional coaching would be beneficial, I partnered with my manager, **Matt Douglas**, to secure additional training time dedicated to professional development and values alignment.
+
+  3. **Professional Communication & Brand Representation:** During customer-facing and partner-facing interactions, I provided coaching regarding professional communication standards and the importance of representing CarMax positively in all environments. We reviewed the connection between professional vocabulary, customer experience, partner relationships, and CarMax's core value of **Do the Right Thing**.
+
+  4. **Respect for Customers, Associates, and the Public:** I reinforced expectations regarding respectful interactions with all individuals encountered during daily operations. Through one-on-one coaching conversations, I emphasized that every associate represents CarMax while in uniform and that professionalism, respect, and integrity are essential components of protecting the company's reputation and maintaining customer trust.
+
+Through these coaching conversations and follow-up discussions, I helped reinforce the professional standards expected of a CarMax associate while continuing to strengthen my own coaching, communication, and leadership skills. Although Dayan successfully completed his equipment training and demonstrated strong operational capability, he ultimately chose not to continue his employment with CarMax.
+
+**Leadership Development Impact:**
+
+This training assignment provided an opportunity to develop competencies outlined in my Individual Development Plan (IDP), particularly in the areas of **Analysis & Decision Making**, **Coaching & Development**, and **Communication**. Throughout the training process, I evaluated several coaching opportunities and determined that direct peer coaching was the most effective approach to support associate development while maintaining a positive learning environment. Using coaching techniques modeled by my manager, Matt Douglas, I reinforced company values, professional standards, and workplace expectations while preserving associate dignity and encouraging growth. These experiences strengthened my ability to assess situations, apply sound judgment, provide constructive feedback, and influence others in a manner aligned with CarMax's culture and values.
+
+---
+
+🟦 **Text Training**
+
+  **MaxOffers Pickup & Delivery Procedure (June 7, 2026):** Developed and published a standardized, step-by-step verification and delivery protocol geared specifically to support new associates with MaxOffers procedures. The training establishes clear guidelines for VIN matching, securement, blue-box key placement, and electronic logging to ensure documentation compliance and minimize vehicle processing errors.
+
+**Result:** Established a consistent and repeatable process for MaxOffers pickups and deliveries, reducing ambiguity for new associates, reinforcing documentation compliance, and improving confidence when completing VIN verification, key control, and delivery procedures.
+
+---
+
+🟦 **Text Training**
+
+  **Toolbox Organization & Equipment Readiness Initiative (June 10, 2026):** Identified and addressed an equipment readiness opportunity on Truck 232557 by coaching a new associate through the organization and replenishment of required toolbox supplies. Documented before-and-after improvements, recognized positive initiative, and converted the experience into a team training resource that reinforced safety, equipment accountability, and operational excellence.
+
+**Result:** Restored the truck's toolbox to operational readiness, reinforced equipment accountability standards, supported the development of a new associate, and provided a practical team-training example that promoted consistent equipment management across the fleet.
+
+---
+
+🟦 **Operational Support**
+
+  **Interactive Loading & Unloading App (June 12, 2026):** Developed and launched a self-contained HTML mobile application to support drivers with loading and unloading procedures. Accessible on team members' personal phones, the tool makes the official CarMax loading and unloading job aid guidelines easily accessible in the field, helping the team follow standardized procedures, ensure proper vehicle securement, and operate safely.
+
+**Result:** Increased field accessibility to loading and unloading procedures by placing standardized guidance directly in associates' hands. The application reinforced proper securement techniques, supported procedural consistency, reduced reliance on printed job aids, and provided a reusable training resource for both new and experienced Home Delivery drivers.
+
+---
+
+🟦 **Text Training**
+
+  **5-Part Ride-Along Series (June 12 – June 18, 2026):** Authored and distributed a comprehensive training series outlining key safety metrics observed during management ride-alongs. The guides covered:
+
+      **Part 1:** Pre-trip checks, mirror setup, and safety starts.
+      **Part 2:** Defensive driving habits, scanning, and following distances.
+      **Part 3:** Brake lag awareness, service brake tests, and speed limit compliance.
+      **Part 4:** Lane changing protocol, passing safety, and signal timing.
+      **Part 5:** Backing procedures, post-trip checks, and securement verification.
+
+**Result:** Converted key management ride-along observations into a structured training resource that made evaluation expectations transparent for associates. The series reinforced safe driving habits, standardized operational expectations, and provided drivers with practical guidance on the behaviors most frequently evaluated during road observations and performance assessments.
+
+---
+
+🟦 **Interactive Training**
+
+  **Interactive Home Delivery Road Test Prep App (June 17, 2026):** Developed and launched a self-contained HTML mobile application to prepare new associates for the final step of their onboarding—the formal road test. Accessible on mobile devices, the tool details the exact evaluation parameters and behaviors examiners look for—including vehicle controls, safe driving habits, tail-swing adjustments, lane transitions, backing maneuvers, and securement protocols (hydraulic operation, wheel chocking, 4-point tie-downs)—ensuring associates are fully prepared to pass the test and safely transition to independent field routes.
+
+**Result:** Standardized road test preparation by providing associates with a mobile-accessible reference covering the exact skills and evaluation criteria assessed during onboarding. The application increased associate confidence, improved readiness for formal road tests, and created a reusable training resource that supports consistent onboarding and safe transition to independent field operations.
+
+---
+
+🟦 **Text Training**
+
+  **Air Dryer Training (June 18, 2026):** Developed and delivered targeted training on the critical function of air dryers in commercial vehicles. The training explained how the system extracts oil and moisture to prevent brake line contamination, ensuring operational safety and maximizing truck uptime.
+
+**Result:** Improved associate understanding of a critical air brake system component, reinforcing the importance of identifying air dryer deficiencies during inspections and preventative maintenance checks. The training supported safer vehicle operation, increased awareness of moisture-related brake system failures, and promoted greater equipment reliability.
+
+---
+
+🟦 **Text Training**
+
+  **Pre-Trip Inspection Importance Reminder (June 20, 2026):** Republished the core training guide on the importance and standardization of Pre-Trip and Post-Trip Inspections as a critical reminder to new team members. This safety broadcast emphasizes why thorough inspections are non-negotiable and addresses new drivers' questions regarding inspection flow, component identification, and DOT compliance, which are actively evaluated during formal loading and unloading observations.
+
+**Result:** Reinforced the importance of consistent Pre-Trip and Post-Trip inspection practices across the team, increasing awareness of inspection expectations, DOT compliance requirements, and management evaluation standards. The reminder helped support a culture of safety, accountability, and inspection excellence for both new and experienced associates.
+
+---
+
+🟦 **Peer Training – Leonardo Aguilera**
+
+**Training Period: May 29, 2026 – June 2026**
+
+I supported the onboarding and development of **Leonardo Aguilera** as a new member of the Home Delivery team. The training followed the structured peer-coaching model refined through previous associate onboarding programs, emphasizing safety, operational readiness, equipment familiarity, and CarMax values.
+
+**Training Model Continuity**
+
+Leonardo's training focused on building confidence and competence through a progressive learning approach:
+
+* Progressing from observation to independent execution of loading, unloading, and securement procedures.
+* Daily hands-on practice in Pre-Trip and Post-Trip inspections, hydraulic deck operations, deck pinning procedures, and vehicle securement.
+* Reinforcing DOT compliance, Hours of Service requirements, and proper utilization of the My20 ELD application.
+* Developing familiarity with truck equipment inventories, required safety supplies, and operational readiness standards.
+
+**Key Training Focus Areas**
+
+* Vehicle loading and unloading procedures.
+* Cottrell QuiXspinz securement techniques and proper strap threading.
+* Hydraulic operation safety and deck pinning procedures.
+* Comprehensive Pre-Trip and Post-Trip inspection routines.
+* Equipment accountability and toolbox organization standards.
+* Professional communication and customer service expectations.
+
+✅ **Performance & Engagement**
+
+Leonardo demonstrated a positive attitude toward learning and consistently sought opportunities to improve his understanding of equipment and procedures. Throughout the training period, he showed strong initiative, actively participating in equipment inspections, securement exercises, and operational readiness activities.
+
+
+💡 **Leadership Coaching & Operational Readiness**
+
+A notable example of Leonardo's development occurred during an equipment readiness review of Truck 232557. After identifying deficiencies in the truck's toolbox inventory, Leonardo took ownership of restoring the toolbox to operational standards. He reorganized the toolbox, replaced the missing spill kit, added spare straps and ratchets, replaced tie-down straps, and identified additional equipment requiring replacement.
+
+I used this opportunity to coach equipment accountability, operational readiness, and team ownership. The initiative was documented through before-and-after photographs and later converted into a team training communication that reinforced toolbox standards, safety expectations, and shared responsibility for maintaining fleet readiness.
+
+To further support Leonardo's transition into independent operations, I coached him through the creation of a comprehensive 3-ring operational reference binder. The binder included the Pre-Trip Inspection Checklist, Pre-Trip Inspection Job Aid, Loading & Unloading Job Aid, blank paper logbook, My20 reference guide, truck lease agreement, insurance documentation, vehicle registration, and paper BOL forms. I reviewed the purpose and practical use of each document, helping him establish a reliable reference system that improved operational readiness, compliance awareness, DOT inspection readiness, and self-sufficiency in the field.
+
+To further accelerate Leonardo's operational readiness, I coached him through the site-access and store-procedure requirements associated with the Home Delivery role. This included obtaining and activating access credentials for the CarMax locations regularly serviced by the team, securing the separate access card required for the CarMax auction facility, and reviewing the delivery procedures unique to each location. I also provided instruction on vehicle jacket handling, Customer Transfer and MaxOffer processes, and Appraisal Pickup (APU) procedures. This training helped prepare Leonardo to operate independently across multiple locations while maintaining compliance with established operational standards.
+
+✅ **Training Impact**
+
+Leonardo's onboarding provided another opportunity to strengthen my coaching, communication, and associate-development skills while reinforcing a culture of safety, accountability, and operational excellence. Through structured guidance, practical instruction, and continuous feedback, I helped support Leonardo's successful transition into the Home Delivery team while contributing to the development of consistent operational standards across the fleet.
+
+**Result:** Successfully supported Leonardo's transition into the Home Delivery team through structured coaching, hands-on training, and operational readiness development. The training reinforced safe operating practices, equipment accountability, and independent execution of loading, unloading, and inspection procedures while providing another opportunity to strengthen my associate-development and leadership skills.
+
+---
+
+🟦 **Operational Problem Solving & Special Assignments**
+
+  **2-Car Hauler Process Certification:** Successfully completed the new 2-Car Hauler certification and partnered with lead drivers to support the certification of three Home Delivery associates in the updated loading and unloading process. This effort helped reinforce standardized securement procedures, mechanical understanding, and safe operating practices across the team.
+
+  **Dealership Partner Solutions:** Successfully recovered and transported a modified MaxOffer vehicle with a significantly lowered suspension from a partner dealership. By applying prior towing experience, evaluating deck geometry, and adjusting loading angles, I completed the transfer without damage, avoiding additional towing expenses, operational delays, and the need for additional manpower.
+
+  **Operational Agility & Team Support:** Supported operational continuity by covering critical APU transports at Store 7198-LKS during periods of business need. This flexibility helped ensure uninterrupted support for store operations while maintaining a seamless experience for both customers and internal partners.
+
+---
+
+🟦 **Leadership Studies & Professional Development**
+
+**Application of *The Five Dysfunctions of a Team* Framework (2026):** Studied and applied Patrick Lencioni's leadership framework to strengthen associate development, team communication, and operational effectiveness within the Home Delivery team. The concepts directly supported my peer-training responsibilities, coaching conversations, and team-training initiatives throughout the year.
+
+  * **Building Trust (Dysfunction 1):** Applied trust-building principles during peer training by creating an environment where new associates felt comfortable asking questions, admitting mistakes, and seeking guidance without fear of criticism.
+
+  * **Healthy Conflict (Dysfunction 2):** Utilized constructive coaching conversations to address performance, communication, and professional conduct opportunities while maintaining positive working relationships and preserving associate dignity.
+
+  * **Commitment (Dysfunction 3):** Reinforced clear expectations regarding safety procedures, securement standards, DOT compliance, and operational readiness to ensure associates understood both the requirements and the reasons behind them.
+
+  * **Accountability (Dysfunction 4):** Encouraged associates to take ownership of vehicle inspections, equipment readiness, toolbox organization, and adherence to operational standards, helping establish a culture of shared responsibility.
+
+  * **Results (Dysfunction 5):** Focused training efforts on measurable team outcomes including safe operations, successful onboarding, equipment readiness, DOT compliance, cargo securement, and customer experience excellence.
+
+Through the application of these principles, I strengthened my ability to coach associates, navigate difficult conversations, build team cohesion, and support a culture aligned with CarMax's values of **Win Together**, **Put People First**, **Go For Greatness**, and **Do The Right Thing**.
+
+---
+
+🟦 **Training Resource Development Impact**
+
+Throughout the review period, I developed and distributed a diverse library of training resources, including instructional videos, audio training briefs, interactive mobile applications, ride-along coaching guides, operational job aids, and team training communications. These resources were designed to standardize procedures, improve accessibility to training content, reinforce safety and compliance expectations, and provide reusable learning tools that continue supporting both current and future Home Delivery associates.
+
+---
+
+🟦 **Associate Development Impact (2025–2026)**
+
+Through structured onboarding, peer coaching, ride-alongs, training resources, and operational support, I contributed directly to the development of six Home Delivery associates while creating reusable training resources that continue supporting current and future team members.
+
+Throughout this review period, I sought opportunities to contribute beyond my daily responsibilities by developing associates, creating training resources, supporting operational excellence, and reinforcing CarMax values. These experiences strengthened my leadership capabilities and prepared me for expanded opportunities to support the team and organization in the future.
+
+
+---
 [[CarMax Leadership Development]]

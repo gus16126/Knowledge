@@ -186,18 +186,16 @@ solutions when making decisions.
 Reflective Thinking
 Surface level Contemplative
 Key Insight Narrative
-Reflective Thinking - May overthink situations and spend more
-time processing or gathering information than necessary.
+Reflective Thinking - May overthink situations and spend more time processing or gathering information than necessary.
 Work Intensity
 Unhurried Urgent
 Key Insight Narrative
 Work Intensity - Is apt to see the value in making sound
 decisions quickly.©2025 HARVER, ALL RIGHTS RESERVED CONFIDENTIALGenerated 8/5/2025 | 5 of 22
 Communication
-Delivers messages in a manner that is effective, honest, and
-motivational. Communicates well with others and is receptive
-to others’ viewpoints. Shares information openly and is
-considerate of the timing, content, and/or forum.
+Delivers messages in a manner that is effective, honest, and motivational. Communicates well with others and is receptive
+to others’ viewpoints. 
+Shares information openly and is considerate of the timing, content, and/or forum.
 0.0 1.0 2.0 3.0 4.0 5.0
 Assertiveness
 Laid-back Dominant

@@ -1,10 +1,15 @@
+"2026-06-16 12:58:00","Give Recognition","Jessy Pesantes","Win Together",,"Thank you, Gustavo, for assisting this morning with the certification of three Vehicle Delivery Drivers in the new CarMax Loading/Unloading Process for the 2-car equipment.  You have demonstrated your presence as a true subject matter expert and continue to pass this knowledge forward to the rest of the HD team.  This shows dedication to the continued safety and maintenance of the Fleet.  Thanks for all you do."
+"2026-06-16 12:47:00","Give Recognition","Matt Douglas","Go for Greatness",,"Congratulations, Gustavo, on completing the CarMax 2-Car Hauler Loading and Unloading certification. Your demonstration shows a clear understanding of the new CarMax process and dedication to the safety and maintenance of the equipment when loading and unloading your truck. Thanks for all you do."
+"2026-06-16 12:50:00",Boost,"Jessy Pesantes",N/A,500,N/A
+"2026-06-16 12:25:00","Give Recognition","Matt Douglas","Go for Greatness",,"Thank you, Gustavo, for recovering a modified MaxOffer yesterday from one of our dealership partners.  This wholesale unit was left behind the other day due to complications in loading a vehicle with a significantly lowered suspension.  You put your functional expertise to use in safely transporting this vehicle to the store.  Your efforts helped to avoid additional manpower and cost to the company in collection of this unit.  Thanks for all you do."
+"2026-06-16 12:05:00","Give Recognition","Matt Douglas","Win Together",,"Thank you, Gustavo, for taking a pivot this afternoon to help cover an APU at 7198-LKS. You helped to ensure the ever-so important iconic experience for both the customer and the store team. Again, you have my gratitude, sir!"
+"2026-05-16 12:00:00","Give Recognition","Todd Rossman","Win Together",,"Gustavo, thanks for helping Kelvin today after his single broke down between 7114 and 6141!  Appreciate you going out of your way to make sure one of the team was safely transported back to the store.  Great Job!"
+"2026-04-14 12:00:00",Boost,"Jessy Pesantes",N/A,500,"Nice job Gustavo! Thank you!"
 
 "2025-10-29 09:46:53",Boost,"Jessy Pesantes",N/A,500,N/A
 "2025-10-29 09:16:42","Give Recognition","Matt Douglas","Go for Greatness",,"Thanks, Gustavo, for covering an out-of-system move on Monday to the auction.  Your efforts helped to deliver a vehicle to the correct location that had inadvertently been dropped at the store.  Appreciate you, sir."
-
 "2025-09-29 10:16:01",Boost,"Jessy Pesantes",N/A,500,N/A
 "2025-09-25 20:02:37","Give Recognition","Esteban Arizaga","Do the Right Thing",,"I want to recognize Gustavo for taking the time and initiative to recover a plate from a car that I forgot to take out and return to the office. Having those plates are a privilege so your effort is highly appreciated."
-
 "2025-09-12 12:31:02",Boost,"Jessy Pesantes",N/A,500,N/A
 "2025-09-11 15:34:51","Give Recognition","Jonathan Culver","Put People First",,"Appreciation for Gustavo!
 I want to give a big shoutout to Gustavo for stepping in to help the team move a vehicle in, especially as we approach the 19th. His kind and helpful demeanor didn’t go unnoticed—it was truly appreciated and made a difference in our day. Gustavo’s actions reflect the CarMax value Put People First, showing care and support for his teammates when it mattered most. I’m genuinely thankful to work alongside teammates like him!"

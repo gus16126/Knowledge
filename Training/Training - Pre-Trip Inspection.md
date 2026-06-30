@@ -106,7 +106,7 @@ Step 4: Engine Bay – Driver Side
  ☐ B) Securely Connected.
 ☐ 4. Air Filter – Condition.
  ☐ A) Green Light Indicator On.
-☐ 5. Intercooler Tube (hot side).
+☐ 5. Intercooler Tube (cool side).
  ☐ A) Tube Condition.
  ☐ B) Clamp Conditions.
  ☐ C) Boots Conditions.
@@ -153,15 +153,15 @@ Step 4: Engine Bay – Driver Side
  ☐ C) No Cuts, Bulges or Tears.
  ☐ D) Tire Tread Depth ≥ 4/32”.
  ☐ E) Outside Wall Condition.
-☐ 38. Wheel.
+☐ 33. Wheel.
  ☐ A) Outside Wheel – No Cracks.
  ☐ B) No Missing Wheel Lug Stud.
  ☐ C) No Missing Lug Nuts.
  ☐ D) Lug Nuts – No Rust Trails.
  ☐ E) Lug Nuts – Secured Tightly.
-☐ 33. Tire Pressure – Use a Pressure Gauge.
+☐ 34. Tire Pressure – Use a Pressure Gauge.
  ☐ Pressure at Manufacturer Recommended Level.
-☐ 34. Wheel Hub – Oil Level and Seal.   
+☐ 35. Wheel Hub – Oil Level and Seal.   
  
 Step 5: Cab Interior – Paperwork 
 ☐ 1. Driver’s License.

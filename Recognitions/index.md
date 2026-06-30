@@ -7,7 +7,7 @@ Vocabulary Audit: complete
   Link: [[Recognitions/Recognition Given.md]]  
   Summary: Gustavo Guallar Recognition Given  
   Tags: recognition, santiago, inspection, thank  
-  Last-modified: 2026-06-06
+  Last-modified: 2026-06-16
 
 - Title: **The Purpose of Recognition at CarMax**  
   Link: [[Recognitions/Recognition Purpose.md]]  
@@ -15,14 +15,14 @@ Vocabulary Audit: complete
   Tags: recognition, their, actions, carmax  
   Last-modified: 2026-06-06
 
-- Title: "2025-10-29 09:46:53",Boost,"Jessy Pesantes",N/A,500,N/A  
+- Title: "2026-06-16 12:58:00","Give Recognition","Jessy Pesantes","Win Together",,"Thank  
   Link: [[Recognitions/Recognition Received.md]]  
-  Summary: 2025 10 29 09 46 53 Boost Jessy Pesantes N A 500 N A 2025 10 29 09 16 42  
-  Tags: gustavo, your, 2025, recognition  
-  Last-modified: 2026-06-06
+  Summary: 2026 06 16 12 58 00 Give Recognition Jessy Pesantes Win Together Thank you Gustavo for assisting this morning with  
+  Tags: gustavo, your, recognition, give  
+  Last-modified: 2026-06-16
 
-- Title: Recognitions Reply.  
+- Title: **Reply:**  
   Link: [[Recognitions/Recognitions Reply.md]]  
-  Summary: Recognitions Reply  
-  Tags: thank, team, reply, appreciate  
-  Last-modified: 2026-06-06
+  Summary: Reply Jun 11 2026 Hi Matt Thank you for the recognition regarding our quarterly file review  
+  Tags: team, thank, reply, appreciate  
+  Last-modified: 2026-06-16

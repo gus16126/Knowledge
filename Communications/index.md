@@ -60,5 +60,11 @@ Vocabulary Audit: complete
 - Title: Management Email Communications Log  
   Link: [[Communications/Management Email Communications.md]]  
   Summary: Management Email Communications Log Purpose Tracking systemic influence operational feedback and professional communication patterns Record 1 The Phased Training Proposal  
-  Tags: gustavo, douglas, matthew, driver  
-  Last-modified: 2026-06-15
+  Tags: gustavo, douglas, matthew, leadership  
+  Last-modified: 2026-06-25
+
+- Title: Role Guide Assessment & Workday Update Message  
+  Link: [[Communications/Role Guide Assessment and Workday Update Message.md]]  
+  Summary: Role Guide Assessment Workday Update Message Date June 25 2026 From Gustavo Guallar To Matthew Douglas FLM Subject Role Guide  
+  Tags: evaluation, self, workday, leadership  
+  Last-modified: 2026-06-25

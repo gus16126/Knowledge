@@ -3,12 +3,6 @@ Training Index
 Vocabulary Guide: CarMax Leadership/CarMax Vocabulary & Philosophy.md
 Vocabulary Audit: complete
 
-- Title: ![[Pasted image 20260601014520.png]]  
-  Link: [[Training/CarMax Two Car Hauler Loading Configuration.md]]  
-  Summary: Pasted image 20260601014520 png Two Car Hauler Loading Configuration Sedans The image above shows a two car hauler loaded with  
-  Tags: front, vehicle, loading, first  
-  Last-modified: 2026-06-05
-
 - Title: ![[Two Car Hauler.png]]  
   Link: [[Training/Pasted image two car hauler.md]]  
   Summary: Two Car Hauler png Training Index Index  
@@ -33,13 +27,26 @@ Vocabulary Audit: complete
   Tags: training, carlos, barrios, carmax  
   Last-modified: 2026-06-05
 
+- Title: 🟦 Peer Training – Dayan Enamorado  
+  Link: [[Training/Peer Training-Dayan Enamorado.md]]  
+  Summary: Peer Training Dayan Enamorado Training Period May 11 May 25 2026 Dayan Enamorado was trained using the refined home delivery  
+  Tags: training, dayan, peer, professional  
+  Last-modified: 2026-06-19
+
 - Title: 🟦 Peer Training – Santiago Munarriz  
   Link: [[Training/Peer Training-Santiago Munarriz.md]]  
   Summary: Peer Training Santiago Munarriz Training Period May 5 June 5 2025 Following the successful onboarding of Ben Gordon I was  
   Tags: training, santiago, carmax, peer  
   Last-modified: 2026-06-05
 
+- Title: 🟦 Peer Training – Von Frazier  
+  Link: [[Training/Peer Training-Von Frazier.md]]  
+  Summary: Peer Training Von Frazier Training Period September 8 October 3 2025 Von Frazier was trained using the refined home delivery  
+  Tags: training, peer, safety, eldt  
+  Last-modified: 2026-06-19
+
 - Title: Pre-Trip Inspection Reinforcement Plan  
+
   Link: [[Training/Pre-Trip Inspection Reinforcement Plan.md]]  
   Summary: Pre Trip Inspection Reinforcement Plan Store 7108 Phased Team Supported Approach Objective Reinforce consistent high quality pre trip inspections by  
   Tags: driver, team, training, trip  
@@ -63,23 +70,17 @@ Vocabulary Audit: complete
   Tags: ratchet, cottrell, strap, system  
   Last-modified: 2026-06-05
 
-- Title: **The Importance of the Air Dryers in a commercial vehicle**.  
-  Link: [[Training/Importance of Air Dryers in Commercial Vehicle.md]]  
-  Summary: The Importance of the Air Dryers in a commercial vehicle  
-  Tags: system, brake, compressed, dryer  
-  Last-modified: 2026-06-15
-
 - Title: Training Index  
   Link: [[Training/Index.md]]  
   Summary: Training Index Vocabulary Guide CarMax Leadership CarMax Vocabulary Philosophy md Vocabulary Audit complete Title Pasted image 20260601014520 png Link Training  
   Tags: training, image, 2026, summary  
-  Last-modified: 2026-06-15
+  Last-modified: 2026-06-19
 
 - Title: ============================================================  
   Link: [[Training/Peer Training and Self-Evaluation Summary.md]]  
   Summary: FILE THREAD Peer Training and Self Evaluation Summary Purpose To consolidate all peer training records safety initiatives and self evaluation  
-  Tags: safety, training, trip, carmax  
-  Last-modified: 2026-06-15
+  Tags: training, safety, trip, carmax  
+  Last-modified: 2026-06-19
 
 - Title: Pre-Trip Inspection Checklist – Two Car Haulers  
   Link: [[Training/pre_trip_inspection_checklist_two_car_haulers.md]]  
@@ -145,7 +146,7 @@ Vocabulary Audit: complete
   Link: [[Training/Training - MaxOffers Procedure.md]]  
   Summary: https fonts gstatic com s e notoemoji 17 0 1f4cb 32 png MaxOffers Pickup Delivery Procedure Team To ensure accurate  
   Tags: vehicle, fonts, gstatic, https  
-  Last-modified: 2026-06-07
+  Last-modified: 2026-06-19
 
 - Title: **Oversized Vehicle Loading: Split-Deck Protocol**  
   Link: [[Training/Training - Oversized Vehicle Loading.md]]  
@@ -157,7 +158,7 @@ Vocabulary Audit: complete
   Link: [[Training/Training - Pre-Trip Inspection.md]]  
   Summary: Pre Trip Inspection Checklist Two Car Haulers Instructions Check each item as completed  
   Tags: condition, rear, side, brake  
-  Last-modified: 2026-06-05
+  Last-modified: 2026-06-20
 
 - Title: 🟦 Team Training – What Managers May Be Observing During Ride-Along  
   Link: [[Training/Training - Ride Along Observation Part 1.md]]  
@@ -501,6 +502,12 @@ Vocabulary Audit: complete
   Tags: image, media  
   Last-modified: 2026-06-15
 
+- Title: Class B—CDL Training Curriculum  
+  Link: [[Training/Training - Class B—CDL Training Curriculum.md]]  
+  Summary: Class B CDL Training Curriculum Appendix B to Part 380 Title 49 up to date as of 6 12 2026  
+  Tags: must, driver, trainees, unit  
+  Last-modified: 2026-06-16
+
 - Title: Training - Cotrell Two Car Carrier Manual  
   Link: [[Training/Training - Cotrell Two Car Carrier Manual.pdf]]  
   Summary: PDF Document: Training - Cotrell Two Car Carrier Manual.pdf  
@@ -735,12 +742,6 @@ Vocabulary Audit: complete
   Tags: image, media  
   Last-modified: 2026-06-15
 
-- Title: Training - Pre-Trip Section 1  
-  Link: [[Training/Training - Pre-Trip Section 1.jpg]]  
-  Summary: Image File: Training - Pre-Trip Section 1.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-10
-
 - Title: Training - pre-trip_inspection_checklist_two car haulers_drive  
   Link: [[Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf]]  
   Summary: PDF Document: Training - pre-trip_inspection_checklist_two car haulers_drive.pdf  
@@ -771,39 +772,9 @@ Vocabulary Audit: complete
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
-- Title: Training - Safeguarding Tags  
-  Link: [[Training/Training - Safeguarding Tags.jpg]]  
-  Summary: Image File: Training - Safeguarding Tags.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
 - Title: Training - Shocking Your Wheels 9-1-25  
   Link: [[Training/Training - Shocking Your Wheels 9-1-25.jpg]]  
   Summary: Image File: Training - Shocking Your Wheels 9-1-25.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 1-Preparation–Pre-Trip Inspection  
-  Link: [[Training/Training - Step 1-Preparation–Pre-Trip Inspection.jpg]]  
-  Summary: Image File: Training - Step 1-Preparation–Pre-Trip Inspection.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 10 Cab-Passenger Side  
-  Link: [[Training/Training - Step 10 Cab-Passenger Side.jpg]]  
-  Summary: Image File: Training - Step 10 Cab-Passenger Side.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 12-Air Brake Test  
-  Link: [[Training/Training - Step 12-Air Brake Test.jpg]]  
-  Summary: Image File: Training - Step 12-Air Brake Test.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 12-Service Brake Test  
-  Link: [[Training/Training - Step 12-Service Brake Test.jpg]]  
-  Summary: Image File: Training - Step 12-Service Brake Test.jpg  
   Tags: image, media  
   Last-modified: 2026-06-15
 
@@ -813,33 +784,9 @@ Vocabulary Audit: complete
   Tags: image, media  
   Last-modified: 2026-06-15
 
-- Title: Training - Step 3-Engine Bay-Passenger Side1  
-  Link: [[Training/Training - Step 3-Engine Bay-Passenger Side1.jpg]]  
-  Summary: Image File: Training - Step 3-Engine Bay-Passenger Side1.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 4-Engine Bay-Driver Side1  
-  Link: [[Training/Training - Step 4-Engine Bay-Driver Side1.jpg]]  
-  Summary: Image File: Training - Step 4-Engine Bay-Driver Side1.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 4-Engine Bay-Driver Side2  
-  Link: [[Training/Training - Step 4-Engine Bay-Driver Side2.jpg]]  
-  Summary: Image File: Training - Step 4-Engine Bay-Driver Side2.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
 - Title: Training - Step 6-Cab Exterior–Driver’s Side  
   Link: [[Training/Training - Step 6-Cab Exterior–Driver’s Side.jpg]]  
   Summary: Image File: Training - Step 6-Cab Exterior–Driver’s Side.jpg  
-  Tags: image, media  
-  Last-modified: 2026-06-15
-
-- Title: Training - Step 8 Bed Inspection-Rear Side  
-  Link: [[Training/Training - Step 8 Bed Inspection-Rear Side.jpg]]  
-  Summary: Image File: Training - Step 8 Bed Inspection-Rear Side.jpg  
   Tags: image, media  
   Last-modified: 2026-06-15
 
@@ -914,3 +861,57 @@ Vocabulary Audit: complete
   Summary: Image File: Training -Tire Diagram.jpg  
   Tags: image, media  
   Last-modified: 2026-06-15
+
+- Title: CarMax Fleet Associate Guide  
+  Link: [[Training/Training - CarMax Fleet Associate Guide-Driver Handbook.md]]  
+  Summary: CarMax Fleet Associate Guide Driver Handbook Orientation Training Requirements As a new CarMax Fleet Associate there are many processes and  
+  Tags: fleet, carmax, associate, associates  
+  Last-modified: 2026-06-20
+
+- Title: ![[Pasted image 20260601014520.png]]  
+  Link: [[Training/Training - CarMax Two Car Hauler Loading Configuration.md]]  
+  Summary: Pasted image 20260601014520 png Two Car Hauler Loading Configuration Sedans The image above shows a two car hauler loaded with  
+  Tags: front, image, vehicle, loading  
+  Last-modified: 2026-06-19
+
+- Title: Class B CDL Training Curriculum Reference  
+  Link: [[Training/Training - Class B CDL Training Curriculum.md]]  
+  Summary: Class B CDL Training Curriculum Reference Official FMCSA Curriculum Guidelines This document serves as the official structured training reference outlining  
+  Tags: unit, vehicle, proficiency, backing  
+  Last-modified: 2026-06-19
+
+- Title: **The Importance of the Air Dryers in a commercial vehicle**.  
+  Link: [[Training/Training - Importance of Air Dryers in Commercial Vehicle.md]]  
+  Summary: The Importance of the Air Dryers in a commercial vehicle  
+  Tags: system, brake, compressed, dryer  
+  Last-modified: 2026-06-19
+
+- Title: Pre-Trip Inspection Importance  
+  Link: [[Training/Training - Pre-Trip Inspection Importance Aug 18, 2025.md]]  
+  Summary: Pre Trip Inspection Importance Aug 18 2025 Good morning team  
+  Tags: safety, inspection, vehicle, every  
+  Last-modified: 2026-06-20
+
+- Title: This document, provided by Gustavo Guallar, a CarMax Fleet driver, is a speciali  
+  Link: [[Training/Training - Pre-Trip Step 3-Engine Bay Passenger Side.md]]  
+  Summary: This document provided by Gustavo Guallar a CarMax Fleet driver is a specialized pre trip inspection guide of the engine  
+  Tags: condition, engine, side, brake  
+  Last-modified: 2026-06-20
+
+- Title: This document, provided by Gustavo Guallar, a CarMax Fleet driver, is a speciali  
+  Link: [[Training/Training - Pre-Trip Step 4-Engine Bay Driver Side.md]]  
+  Summary: This document provided by Gustavo Guallar a CarMax Fleet driver is a specialized pre trip inspection guide of the engine  
+  Tags: condition, leaks, brake, engine  
+  Last-modified: 2026-06-20
+
+- Title: Training - Safeguarding Tags - Sep 24, 2025  
+  Link: [[Training/Training - Safeguarding Tags - Sep 24, 2025.jpg]]  
+  Summary: Image File: Training - Safeguarding Tags - Sep 24, 2025.jpg  
+  Tags: image, media  
+  Last-modified: 2026-06-15
+
+- Title: 🟦 Team Training – What Managers May Be Observing During Ride-Along  
+  Link: [[Training/Training – What Managers May Be Observing During Ride-Along.md]]  
+  Summary: Team Training What Managers May Be Observing During Ride Along June 12 2026 Team as part of CarMax commitment to  
+  Tags: ride, along, team, available  
+  Last-modified: 2026-06-19
