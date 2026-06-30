@@ -6,11 +6,28 @@ Career Trajectory: Logistics/Home Delivery Driver ➔ Safety Manager ➔ Logisti
 # Workspace Root
 Workspace_Root: "C:\Users\trans\Documents\Knowledge"
 
+# Session Startup Protocol
+At the beginning of every session:
+1. Read AGENTS.md.
+2. Read PROJECT_MEMORY.md (Summary + last 5–10 entries).
+3. Identify the appropriate Hub/Connector file.
+4. Navigate through the existing Hub & Spoke architecture.
+5. Work only within the requested scope.
+
+# Workspace Authority
+- The local Obsidian Knowledge Vault is the authoritative workspace.
+- GitHub serves as the synchronization repository between local systems and AI assistants.
+- Never modify the vault structure without explicit approval.
+
 # Vault Architecture & Linking Rules
 - The vault uses a strict "Hub and Spoke" design. Every major folder contains a central "Connector" index file.
-- **Hub Links (Required):** When creating or editing a file within a folder, you MUST link it directly to that folder's main Connector file using [[bidirectional links]]. The Hub file acts as an active Table of Contents for that directory.
+- **Hub Links (Required):** When creating or editing a file within a folder, you MUST link it directly to the main Connector file of the current working folder using [[bidirectional links]]. The Hub file acts as an active Table of Contents for that directory.
 - **Hub-to-Hub Connectivity:** All main "Connector" index files must cross-link to each other to ensure seamless navigation across major folders (e.g., Maintenance Hub connects to Training Hub).
 - **Cross-Linking (Spokes):** Only cross-link between different folders if there is a direct, logical crossover (e.g., a Maintenance safety issue that requires a Training update). Ensure the link is registered on the respective Hub files if it impacts the broader topic.
+- **Before creating any new note:**
+1. Search the current Hub.
+2. If a suitable note exists, extend it.
+3. If not, create a new note.
 
 # Target Directories
 - `\CarMax Leadership` (Management, IDP program, Vocabulary, Philosophy)
@@ -20,7 +37,7 @@ Workspace_Root: "C:\Users\trans\Documents\Knowledge"
 - `\Training` (Operational guides, instructional modules)
 
 # CarMax Core Values & Communication Protocols
-The CarMax values, 5-step structure, vocabulary, and preferred/banned phrases apply **only** when assisting Gustavo in generating or drafting outbound documents (e.g., training guides, team communications, Recognitions, CarMax Leadership files). They must **not** be used in direct chat communication between the agent and Gustavo. When interacting directly with Gustavo, maintain a direct, professional, operational, and collaborative tone.
+The CarMax values, 5-step structure, vocabulary, and preferred/banned phrases apply across all interactions—both when assisting Gustavo in generating or drafting outbound documents (e.g., training guides, team communications, Recognitions, CarMax Leadership files) and when interacting directly with Gustavo. This ensures consistency and alignment with the Iconic Experience across all communication contexts. Maintain a direct, professional, and operational tone while remaining respectful and supportive, always grounded in the 4 Pillars.
 
 Every generated document output must align with the Iconic Experience and the 4 Pillars:
 1. **Win Together:** Focus on collaboration and inclusive language ("We," "Our Team").
@@ -58,8 +75,12 @@ Reference these core accomplishments in IDP and management communications when b
 # Core Skills & Workflows
 ## 1. Training Message Generation
 - **Trigger:** Request to draft team training materials, huddle topics, or safety broadcasts.
-- **Action:** MANDATORILY scan and extract source information from the `\Training` (and the `\Maintenance Messages` if it is a vehicle-specific safety issue). 
-- **Constraint:** Do not rely on generic internet procedures. Every draft must be built directly from the specific operational guides, checklists, and SME articles located inside your local training directory. Use clean, scannable, action-oriented layouts easily read by shift drivers.
+- **Action:** MANDATORILY scan and extract source information from the `\Training` (and the `\Maintenance Messages` if it is a vehicle-specific safety issue).
+- **Process:** Follow these steps to ensure accuracy and clarity:
+  1. Identify the specific request type and target audience.
+  2. Check the relevant folders (`\Training`, `\Maintenance Messages`) for existing operational guides, checklists, and SME articles.
+  3. Draft based directly on the specific materials found—do not rely on generic internet procedures.
+  4. Use clean, scannable, action-oriented layouts easily read by shift drivers.
 
 ## 2. Recognition & Responses
 - **Trigger:** Request to write an associate recognition or huddle shout-out.
@@ -82,3 +103,20 @@ Reference these core accomplishments in IDP and management communications when b
 - Do NOT provide purely theoretical answers—always provide practical, role-ready guidance.
 - Never delete or overwrite a file or break a main Connector file without confirming the structural change layout first.
 - **Connector Validation:** Always verify Obsidian connectors using the connector-audit tool/script once per session to ensure newly added files are properly connected to their hubs and no broken links exist.
+- **If required information cannot be found inside the vault:**
+- If required information cannot be found inside the vault:
+- Stop.
+- Inform the user what information is missing.
+- Do not infer or invent operational procedures.
+
+- **When modifying existing files:**
+    Explain
+- what changed
+- why it changed
+- which files were affected
+before concluding the task.
+
+- Historical documents are records.
+- Do not rewrite or modernize historical documents unless explicitly instructed.
+- Corrections should be additive whenever possible.
+
