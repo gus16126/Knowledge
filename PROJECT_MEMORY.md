@@ -30,6 +30,13 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 ## Recent Activity
 
 
+**2026-06-30 — Updated .agent and SOUL.md profiles to match the revised AGENTS.md rules**
+- Actor: VaultCommander
+- Files: .agent, SOUL.md
+- Summary: Updated .agent and SOUL.md profiles to match the revised AGENTS.md rules
+- Notes: Aligned all agent profiles to include the latest session protocols, folder names, and communications rules.
+
+
 **2026-06-30 — Updated self-evaluation draft, mapped master leadership binder file references, merged vocabulary playbook, and pushed project to GitHub**
 - Actor: VaultCommander
 - Files: CarMax Leadership/Gustavo Guallar-Self-Evaluation Summary - Draft.md, CarMax Leadership/CarMax Master Leadership Binder.md, CarMax Leadership/CarMax Vocabulary & Philosophy.md
