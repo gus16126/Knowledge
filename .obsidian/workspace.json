@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2026-07-03 17.18.21.excalidraw"
             }
           },
           {
@@ -125,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2026-07-03 17.18.21.excalidraw"
             }
           },
           {
@@ -187,7 +189,17 @@
             }
           },
           {
-            "id": "77ea062c6e192cbc",
+            "id": "723e2e5415ea9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "New session"
+            }
+          },
+          {
+            "id": "6d4c21bf034aaed3",
             "type": "leaf",
             "state": {
               "type": "footnotes",
@@ -197,19 +209,9 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
-          },
-          {
-            "id": "723e2e5415ea9fe5",
-            "type": "leaf",
-            "state": {
-              "type": "agent-client-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "New session"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -239,7 +241,7 @@
       "vault-share:Sharing status": false
     }
   },
-  "active": "723e2e5415ea9fe5",
+  "active": "67378d129e12b6b1",
   "lastOpenFiles": [
     "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
     "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
