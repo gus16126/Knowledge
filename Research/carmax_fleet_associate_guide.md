@@ -391,6 +391,7 @@ Hours of Service Requirements for Fleet Associates:
     • 70/8 Hour Duty Limit - Cannot be "on-duty" for more than 70 hours over any 8 consecutive day period.
     • 34-hour Restart - Fleet Associates can restart their 70/8 clock only after spending 34 consecutive hours "off-duty"
     • 30-Minute Rest Break - All Fleet Associates must take a 30-minute break when they have driven for a period of 8 cumulative hours without at least a 30-minute interruption. 
+
 The 30-minute break from driving time can be satisfied by off-duty, sleeper berth, or on-duty not driving time, or by a combination of off-duty, sleeper berth and on-duty not driving time.
 
 Non-CDL Fleet Associates, or Vehicle Delivery Drivers, are also subject to state specific meal and rest break requirements depending on the state in which they work. 

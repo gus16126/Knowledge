@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6dcdde6bcdebc51f",
+        "id": "4e648bec28fa7310",
         "type": "tabs",
         "children": [
           {
-            "id": "030e76f79b9900f8",
+            "id": "39a396492164789d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Training/Training - Pre-Trip Importance - 8-18-25.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Training - Pre-Trip Importance - 8-18-25"
-            }
-          },
-          {
-            "id": "ba5fa678cf82796d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +157,53 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3347e1f984f8b035",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c8fee1edcea1cc29",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Agent client"
+            }
+          },
+          {
+            "id": "77ea062c6e192cbc",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "73656d4d1508b95f",
+            "type": "leaf",
+            "state": {
+              "type": "vault-share-sharing-status",
+              "state": {},
+              "icon": "alert-triangle",
+              "title": "Sharing status"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,56 +223,58 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "vault-share:Sharing status": false
     }
   },
-  "active": "030e76f79b9900f8",
+  "active": "3347e1f984f8b035",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Comicbook Callout Editor.md",
+    "Water Pump.jpg",
+    "Drawing 2026-07-03 13.29.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-30 20.27.28.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-30 20.27.28.excalidraw - 2026-07-03 13.25.47.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
+    "Excalidraw/Scripts/Downloaded/Comicbook Callout Editor.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
+    "Excalidraw/Scripts/Downloaded/Palm Guard.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
+    "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
+    "Excalidraw/Scripts/Downloaded/Text Aura.md",
+    "Excalidraw/Scripts/Downloaded/Printable Layout Wizard.md",
+    "Excalidraw/Scripts/Downloaded/Shade Master.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Training/Two Car Hauler.md",
+    "Research/carmax_fleet_associate_guide.md",
+    "Untitled.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
     "CarMax Leadership/60 Question Personality Test 2 - JobAssessmentHelp.pdf",
     "CarMax Leadership/60 Question Personality Test 1 - JobAssessmentHelp.pdf",
-    "Training/Training - Pre-Trip Section 1.jpg",
-    "Training/Training - Pre-Trip Inspection Section 1 June 15, 26.jpg",
     "Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf",
     "Training/Training - Ride Along Observation Part 3.md",
     "Training/Training - pre-trip_inspection_checklist_two car haulers.pdf",
-    "Training/Training - Engine-Passenger-Side.jpg",
     "Training/49 CFR Part 380 - Special Training Requirements.pdf",
-    "Training/Pasted image 20260601015533.png",
     "Training/Paper BOLL.pdf",
     "Training/Index.md",
     "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf",
     "Training/49 CFR Part 383 (up to date as of 9-29-2025).pdf",
-    "Training/49 CFR Part 382 - Controlled Substances and Alcohol Use and Testing.pdf",
-    "Training/49 CFR Part 376 (up to date as of 9-29-2025).pdf",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "CarMax Leadership/Leading Strengths - Gustavo Guallar.md",
-    "CarMax Leadership/CarMax Department Specific Self Evaluati.md",
-    "Training/pre_trip_inspection_checklist_two_car_haulers.md",
-    "CarMax Leadership/Enroll_in_Content_for_Manager_Enroll__MDP_Explore.pdf",
-    "CarMax Leadership/CarMax Department Specific Self Evaluation for August 2024.md",
-    "Training/Training - The Importance of the Air Dryer.md",
-    "Training/Importance of Air Dryers in Commercial Vehicle.md",
-    "CarMax Leadership/Strong Management Traits.md",
-    "CarMax Leadership/CarMax-What is the CarMax IDP.md",
-    "CarMax Leadership/CarMax-Pre-Trip Inspection Two Car Haulers.md",
-    "CarMax Leadership/CarMax Master Leadership Binder.md",
-    "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
-    "CarMax Leadership/CarMax Human Capital Resources.md",
-    "CarMax Leadership/CarMax Distinguishing Teams from Work Groups.md",
-    "CarMax Leadership/CarMax Code Of Business Conduct.md",
-    "CarMax Leadership/CarMax Business Overview.md",
-    "CarMax Leadership/CarMax Benefits of creating an IDP.md",
-    "Communications/Management Email Communications.md",
-    "CarMax Leadership/Gustavo Guallar CarMax Manager Development – Harver Assessment Summary.md",
-    "CarMax Leadership/Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md",
-    "CarMax Leadership/Self-Evaluation Summary.md",
-    "CarMax Leadership/CarMax Manager Development – Harver Assessment.md",
-    "CarMax Leadership/Gustavo Guallar Harver Assessment Summary.md",
-    "Training/Training - Two Car Hauler.png",
-    "Training/Training - Wrong Three Points of Contact.jpg",
-    "Training/Training - Wrong Three Points of Contact 1.jpg",
-    "Training/Training-Two Car Hauler.png",
-    "Training/Training - Large Vehicles on Two-Car Haulers.jpg",
-    "Training/Training - Weight Station.jpg"
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
   ]
 }

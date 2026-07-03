@@ -130,7 +130,62 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Add Link to New Page and Open": {
+      "Open link in active pane": {
+        "value": false,
+        "description": "Open the link in the current active pane (on) or a new pane (off)."
+      }
+    },
+    "Downloaded/Printable Layout Wizard": {
+      "Page size": {
+        "value": "A4",
+        "valueset": [
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "Letter",
+          "Legal",
+          "Tabloid",
+          "Ledger"
+        ]
+      },
+      "Page orientation": {
+        "value": "portrait",
+        "valueset": [
+          "portrait",
+          "landscape"
+        ]
+      },
+      "Print-margin": {
+        "value": "none",
+        "valueset": [
+          "none",
+          "tiny",
+          "normal"
+        ]
+      },
+      "Should zoom after adding page": {
+        "value": false
+      },
+      "Should close after adding page": {
+        "value": false
+      },
+      "Lock frame after it is created": {
+        "value": true
+      },
+      "Print empty pages": {
+        "value": false
+      },
+      "Print only marker frames": {
+        "value": true
+      }
+    }
+  },
   "previousRelease": "2.23.12",
   "showReleaseNotes": true,
   "excalidrawMasteryPromoCollapsed": false,
