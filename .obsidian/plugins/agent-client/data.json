@@ -39,7 +39,7 @@
   "autoMentionActiveNote": true,
   "enableSystemNotifications": true,
   "debugMode": false,
-  "nodePath": "",
+  "nodePath": "C:\\Users\\trans\\AppData\\Local\\hermes\\node\\node.exe",
   "exportSettings": {
     "defaultFolder": "Agent Client",
     "filenameTemplate": "agent_client_{date}_{time}",

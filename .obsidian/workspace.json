@@ -11,13 +11,30 @@
             "id": "39a396492164789d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CarMax Laws and Regulations For Dealer"
+            }
+          },
+          {
+            "id": "017b936d439376e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-03 17.18.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2026-07-03 17.18.21.excalidraw"
             }
           },
           {
@@ -169,33 +187,15 @@
             }
           },
           {
-            "id": "c8fee1edcea1cc29",
-            "type": "leaf",
-            "state": {
-              "type": "agent-client-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Agent client"
-            }
-          },
-          {
             "id": "77ea062c6e192cbc",
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
-            }
-          },
-          {
-            "id": "73656d4d1508b95f",
-            "type": "leaf",
-            "state": {
-              "type": "vault-share-sharing-status",
-              "state": {},
-              "icon": "alert-triangle",
-              "title": "Sharing status"
             }
           }
         ],
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +229,13 @@
       "vault-share:Sharing status": false
     }
   },
-  "active": "3347e1f984f8b035",
+  "active": "017b936d439376e8",
   "lastOpenFiles": [
+    "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
+    "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/hello@20260703_171227.md",
+    "copilot/copilot-conversations",
     "Excalidraw/Scripts/Downloaded/Comicbook Callout Editor.md",
     "Water Pump.jpg",
     "Drawing 2026-07-03 13.29.03.excalidraw.md",
@@ -268,13 +273,9 @@
     "CarMax Leadership/60 Question Personality Test 2 - JobAssessmentHelp.pdf",
     "CarMax Leadership/60 Question Personality Test 1 - JobAssessmentHelp.pdf",
     "Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf",
-    "Training/Training - Ride Along Observation Part 3.md",
     "Training/Training - pre-trip_inspection_checklist_two car haulers.pdf",
     "Training/49 CFR Part 380 - Special Training Requirements.pdf",
     "Training/Paper BOLL.pdf",
-    "Training/Index.md",
-    "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf",
-    "Training/49 CFR Part 383 (up to date as of 9-29-2025).pdf",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    "Training/49 CFR Part 385 (up to date as of 9-29-2025).pdf"
   ]
 }

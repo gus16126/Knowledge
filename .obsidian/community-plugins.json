@@ -5,8 +5,5 @@
   "dataview",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "copilot",
-  "obsidian-annotator",
-  "google-drive-sync",
-  "vault-share"
+  "obsidian-annotator"
 ]
