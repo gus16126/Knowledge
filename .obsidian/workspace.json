@@ -197,9 +197,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "723e2e5415ea9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "New session"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -229,7 +239,7 @@
       "vault-share:Sharing status": false
     }
   },
-  "active": "3070cc2d42b691bf",
+  "active": "723e2e5415ea9fe5",
   "lastOpenFiles": [
     "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
     "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
