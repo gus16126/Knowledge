@@ -1,4 +1,16 @@
 **Reply:**
+
+## Recognition Reply – Win Together (Matthew Douglas)
+
+Thank you, Matt! I truly appreciate the recognition. It was a pleasure helping Leo get started, and I'm glad I could contribute to making sure he is prepared to work safely and confidently. Supporting the development of new associates is something I enjoy, and I'm proud to be part of a team that succeeds by working together. Thank you for your continued support.
+
+---
+
+## Reply to Jessy Pesantes' Comment (June 28, 2026)
+
+Thank you so much, Jessy. I truly appreciate your kind words and your recognition. It means a great deal coming from someone who was able to see the training firsthand. I'm passionate about helping our new drivers build the confidence, skills, and safety mindset they need to succeed. Thank you for your support and for the opportunity to contribute to the development of our team. I'm proud to be part of Team CarMax.
+
+-----------
 Jun 11, 2026
 Hi Matt,
 

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e648bec28fa7310",
+        "id": "8c06c715816e1df8",
         "type": "tabs",
         "children": [
           {
-            "id": "39a396492164789d",
+            "id": "e4c1688306b3452d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CarMax Laws and Regulations For Dealer"
-            }
-          },
-          {
-            "id": "017b936d439376e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-03 17.18.21.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 484.5
   },
   "right": {
     "id": "5687f5b4d3b44bbf",
@@ -107,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
+                "file": "Training/Rivian_R1_tow_operator_guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-07-03 17.18.21.excalidraw"
+              "title": "Backlinks for Rivian_R1_tow_operator_guide"
             }
           },
           {
@@ -126,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
+                "file": "Training/Rivian_R1_tow_operator_guide.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-07-03 17.18.21.excalidraw"
+              "title": "Outgoing links from Rivian_R1_tow_operator_guide"
             }
           },
           {
@@ -169,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
+                "file": "Training/Rivian_R1_tow_operator_guide.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-07-03 17.18.21.excalidraw"
+              "title": "Outline of Rivian_R1_tow_operator_guide"
             }
           },
           {
@@ -204,7 +187,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md"
+                "file": "Training/Rivian_R1_tow_operator_guide.pdf"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -215,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +224,18 @@
       "vault-share:Sharing status": false
     }
   },
-  "active": "67378d129e12b6b1",
+  "active": "acc2cb86d3119164",
   "lastOpenFiles": [
+    "Training/Pre-Trip Inspection Reinforcement Plan.md",
+    "Training/Pre-Trip Inspection Guidelines.pdf",
+    "Training/Paper BOLL.md",
+    "CarMax Leadership/CarMax Laws and Regulations For Dealer.md",
+    "Training/Paper BOLL.pdf",
+    "Training/Index.md",
+    "Recognitions/index.md",
+    "Maintenance Messages/index.md",
+    "CarMax Leadership/index.md",
+    "Excalidraw/Drawing 2026-07-03 17.18.21.excalidraw.md",
     "Reference Materials/Verbal-Reasoning-Tests-Study-Guide.pdf",
     "Reference Materials/Training - englishdriverhandbook.pdf",
     "Reference Materials/Training - englishcdlhandbook.pdf",
@@ -251,9 +244,6 @@
     "Reference Materials/Role_Guide_Assessment_Tool_Lead_March_14_2025-1.pdf",
     "Reference Materials/Role_Guide_Assessment_Tool_Lead.IC2_FINAL2022.pdf",
     "Reference Materials/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm2.pdf",
-    "Reference Materials/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm1.pdf",
-    "Reference Materials/Role_Guide_Assessment_Tool_Lead.IC2_BlankForm.pdf",
-    "Reference Materials/Role_Guide_Assessment_Tool_Lead.IC2 Late 2025 to 2026.pdf",
     "Training/Training - Carmax Code Of Conduct.md",
     "Training/Training-Carmax Code Of Conduct.md",
     "Training/carmax_fleet_associate_guide.md",
@@ -268,17 +258,10 @@
     "Training/2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.md",
     "Training/rivian-commercial-van-tow-operator-guide.md",
     "Training/Rivian_R1_tow_operator_guide.md",
-    "Training/Paper BOLL.md",
     "Training/Pre-Trip Inspection Guidelines.md",
     "Training/cotrell_two_car_carrier_manual-xl-additions-v-2.md",
     "Training/cotrell_two_car_carrier_manual.md",
     "CarMax Leadership/Training - Home Delivery Road Test.md",
-    "CarMax Leadership/Leave & Accommodation Resources Policy.md",
-    "CarMax Leadership/Logistic - Funtional Observation.md",
-    "CarMax Leadership/Recognition 1.md",
-    "CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.md",
-    "CarMax Leadership/A time you solve complicated business problem.md",
-    "CarMax Leadership/A time you organize a plan to reach a complex goal.md",
     "Water Pump.jpg",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
