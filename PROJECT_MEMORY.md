@@ -22,13 +22,20 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 - Vault hygiene and deduplication (complete)
 - PDF-to-markdown migration for searchability (complete)
 - Reference material consolidation (complete)
-- CarMax Leadership folder organization and index optimization (next)
+- CarMax Leadership folder organization and index optimization (complete)
 
 **Repository Type:** Markdown-based Knowledge Vault using Hub & Spoke connector architecture
 
 ---
 
 ## Recent Activity
+
+
+**2026-07-03 — Rebuilt CarMax Leadership index as curated table of contents**
+- Actor: Hermes Agent
+- Files: CarMax Leadership/index.md
+- Summary: Replaced flat 293-line auto-generated dump with 6-section curated index (237 lines). Organized into Performance & Evaluations, Disciplinary, IDP & Development, Evidence Portfolio, Tools & Frameworks, Reference & Policy. Consolidated 8 redundant entries, rewrote 11 noise entries with useful summaries.
+- Notes: 66 wikilinks verified. No files were moved — purely an index reorganization. Zero broken links.
 
 
 **2026-07-03 — Eliminated SOUL.md, collapsed .agent to one-line redirect to AGENTS.md**
