@@ -16,19 +16,27 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 
 ## Summary
 
-**Current Goal:** Maintain a clean, well-structured Knowledge vault for CarMax leadership development. Active vault hygiene pass completed July 2026.
+**Current Goal:** Maintain a clean, well-structured Knowledge vault for CarMax leadership development. All three vault hygiene issues resolved — duplicates, PDFs, and index curation complete.
 
 **Active Focus Areas:**
 - Vault hygiene and deduplication (complete)
 - PDF-to-markdown migration for searchability (complete)
 - Reference material consolidation (complete)
-- CarMax Leadership folder organization and index optimization (complete)
+- Index curation — CarMax Leadership (complete)
+- Index curation — Training (complete)
 
 **Repository Type:** Markdown-based Knowledge Vault using Hub & Spoke connector architecture
 
 ---
 
 ## Recent Activity
+
+
+**2026-07-03 — Rebuilt Training Index as curated table of contents**
+- Actor: Hermes Agent
+- Files: Training/Index.md
+- Summary: Replaced flat 537-line auto-generated dump with 6-section curated index (200 lines). Organized into Peer Training Records, Team Safety Training, Loading & Vehicle Operations, Procedures & Guides, Reference Manuals, and Team Communication. Removed ~40 auto-generated image/video entries (embedded media, no navigation value).
+- Notes: 56 wikilinks verified. Most dramatic reduction — 537 lines to 200. Images/videos remain in the folder as embedded media within training messages; they simply no longer clutter the index.
 
 
 **2026-07-03 — Rebuilt CarMax Leadership index as curated table of contents**
