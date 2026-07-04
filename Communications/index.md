@@ -1,70 +1,53 @@
-Communications Index
+# Communications Index
 
-Vocabulary Guide: CarMax Leadership/CarMax Vocabulary & Philosophy.md
-Vocabulary Audit: complete
+> Vocabulary Guide: [[CarMax Leadership/CarMax Vocabulary & Philosophy]]
+> Last curated: 2026-07-03
 
-- Title: **Good evening, Jessy.**  
-  Link: [[Communications/Christmas Message To Jessy.md]]  
-  Summary: Good evening Jessy On this Christmas Eve I wanted to wish you and your family a peaceful and happy Christmas  
-  Tags: christmas, your, holiday, index  
-  Last-modified: 2026-06-05
+---
 
-- Title: **Good evening, Matt.**  
-  Link: [[Communications/Christmas Message To Matt Douglas.md]]  
-  Summary: Good evening Matt On this Christmas Eve I wanted to take a moment to wish you and your wife a  
-  Tags: christmas, together, both, holiday  
-  Last-modified: 2026-06-05
+## Messages to Management (Matthew Douglas)
 
-- Title: **The Importance of Effective Communication and Professional Vocabulary in Leade  
-  Link: [[Communications/Effective Communication & Vocabulary.md]]  
-  Summary: The Importance of Effective Communication and Professional Vocabulary in Leadership Effective communication is a fundamental leadership skill and an essential  
-  Tags: communication, associates, professional, effective  
-  Last-modified: 2026-06-05
+- **Truck 557 Safety & Compliance Gaps** — Leonardo Aguilera's pre-trip findings on Truck 232557.  
+  [[Message To Matt On Truck 557]]
 
-- Title: Team,  
-  Link: [[Communications/Message To Matt - Toolbox.md]]  
-  Summary: Team Truck 232557 s toolbox has been cleaned and reorganized by our new team member Leonardo  
-  Tags: leonardo, team, replaced, straps  
-  Last-modified: 2026-06-10
+- **Toolbox Cleaned & Reorganized** — Truck 232557 toolbox update by Leonardo.  
+  [[Message To Matt - Toolbox]]
 
-- Title: **Hi Matt,**  
-  Link: [[Communications/Message To Matt On Truck 557.md]]  
-  Summary: Hi Matt During today s pre trip inspection on truck 232557 Leonardo Aguilera identified a few safety and compliance gaps  
-  Tags: toolbox, index, missing, 232557  
-  Last-modified: 2026-06-07
+- **Vehicle Jacket Found** — Carlos found jacket inside Truck 451.  
+  [[Message To Matt Vehicle Jacket Found]]
 
-- Title: **Matt,**  
-  Link: [[Communications/Message To Matt Vehicle Jacket Found.md]]  
-  Summary: Matt Carlos found this vehicle jacket inside Truck 451 and gave it to me  
-  Tags: additional, index, jacket, action  
-  Last-modified: 2026-06-09
+- **Management Email Communications Log** — Tracking systemic influence, operational feedback, and leadership communication patterns.  
+  [[Management Email Communications]]
 
-- Title: From: Gustavo Guallar (gus16126@gmail.com)  
-  Link: [[Communications/Training Correction Message To Matthew Douglas.md]]  
-  Summary: From Gustavo Guallar gus16126 gmail com To Matthew Douglas CarMax Logistic Manager Nov 21 2025 8 12 PM Job Aid  
-  Tags: vehicles, vehicle, clearances, heavy  
-  Last-modified: 2026-06-05
+- **Christmas Message (Jessy Pesantes)** — Holiday goodwill, Dec 2024.  
+  [[Christmas Message To Jessy]]
 
-- Title: Training Proposal  
-  Link: [[Communications/Training Message To Matt Douglas.md]]  
-  Summary: Training Proposal Date Dec 16 2025 From Gustavo Guallar To Matthew Douglas Subject 7108 Pre Trip Support Proposal Good afternoon  
-  Tags: team, gustavo, help, support  
-  Last-modified: 2026-06-05
+- **Christmas Message (Matt Douglas)** — Holiday goodwill to manager.  
+  [[Christmas Message To Matt Douglas]]
 
-- Title: Team Huddle Notes  
-  Link: [[Communications/huddle_morning_safety_brief___tire_pressure_checks_2026-05-22.md]]  
-  Summary: Team Huddle Notes Date 2026 05 22 Time 16 53 From Gustavo Guallar CarMax Logistics Team To CarMax Logistics Team  
-  Tags: morning, safety, team, brief  
-  Last-modified: 2026-06-10
+---
 
-- Title: Management Email Communications Log  
-  Link: [[Communications/Management Email Communications.md]]  
-  Summary: Management Email Communications Log Purpose Tracking systemic influence operational feedback and professional communication patterns Record 1 The Phased Training Proposal  
-  Tags: gustavo, douglas, matthew, leadership  
-  Last-modified: 2026-06-25
+## Team Communications
 
-- Title: Role Guide Assessment & Workday Update Message  
-  Link: [[Communications/Role Guide Assessment and Workday Update Message.md]]  
-  Summary: Role Guide Assessment Workday Update Message Date June 25 2026 From Gustavo Guallar To Matthew Douglas FLM Subject Role Guide  
-  Tags: evaluation, self, workday, leadership  
-  Last-modified: 2026-06-25
+- **Morning Safety Brief: Tire Pressure Checks** — Team huddle notes, May 22, 2026.  
+  [[huddle_morning_safety_brief___tire_pressure_checks_2026-05-22]]
+
+- **Effective Communication & Professional Vocabulary** — Leadership communication fundamentals.  
+  [[Effective Communication & Vocabulary]]
+
+---
+
+## Training Proposals & Updates
+
+- **Pre-Trip Support Proposal (Store 7108)** — Training proposal to Matt Douglas, Dec 2025.  
+  [[Training Message To Matt Douglas]]
+
+- **Training Correction Message** — Job aid clarifications to Matthew Douglas, Nov 2025.  
+  [[Training Correction Message To Matthew Douglas]]
+
+- **Role Guide Assessment & Workday Update** — Self-evaluation update to Matt, June 2026.  
+  [[Role Guide Assessment and Workday Update Message]]
+
+---
+
+> End of index. Organized into 3 sections: Messages to Management, Team Communications, Training Proposals.
