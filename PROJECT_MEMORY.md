@@ -32,6 +32,13 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 ## Recent Activity
 
 
+**2026-07-03 — Rebuilt Communications, Recognitions, and Maintenance indexes**
+- Actor: Hermes Agent
+- Files: Communications/index.md, Recognitions/index.md, Maintenance Messages/index.md
+- Summary: Curated all three remaining connector indexes. Communications: Messages to Management, Team Communications, Training Proposals. Recognitions: framework → given → received → reply cycle. Maintenance Messages: fleet log template.
+- Notes: All five connector indexes now curated. Full vault hygiene pass complete.
+
+
 **2026-07-03 — Rebuilt Training Index as curated table of contents**
 - Actor: Hermes Agent
 - Files: Training/Index.md
