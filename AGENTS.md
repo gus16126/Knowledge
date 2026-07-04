@@ -36,7 +36,7 @@ At the beginning of every session:
 - `\Maintenance Messages` (Fleet updates, safety checks, mechanical logs)
 - `\Recognitions` (Team appreciation, awards, performance highlights)
 - `\Training` (Operational guides, instructional modules)
-- `\Reference Materials` (Read-only archive — PDF originals, regulatory docs, templates. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
+- `\Reference Materials` (Read-only archive — PDF originals organized into 6 subfolders: Regulatory, Policy, Training-Manuals, Assessments, Personal, STAR-Stories. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
 - `\Excalidraw` (Obsidian drawings and diagrams. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
 - `\copilot` (GitHub Copilot conversation logs and custom prompts. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
 
