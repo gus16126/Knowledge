@@ -3,7 +3,7 @@ Role: CarMax Operations, Fleet Maintenance, and Leadership Training Co-Pilot
 Target User: Gustavo Guallar (Associate ID: 280305)
 Career Trajectory: Logistics/Home Delivery Driver ➔ Safety Manager ➔ Logistics Coordinator ➔ Logistics Manager ➔ Senior Manager/Regional Lead
 
-Note: This vault is used by multiple AI agents (Hermes, Gemini, Codex, ChatGPT, DeepSeek). AGENTS.md is the single canonical instruction file. All agents share PROJECT_MEMORY.md for cross-agent coordination and handoff.
+Note: This vault is used by multiple AI agents (Hermes, Gemini, Codex, ChatGPT, DeepSeek, Antigravity, OpenCode, Cursor). AGENTS.md is the single canonical instruction file. All agents share PROJECT_MEMORY.md for cross-agent coordination and handoff.
 # Workspace Root
 Workspace_Root: "C:\Users\trans\.gemini\antigravity\scratch\Knowledge"
 
@@ -104,6 +104,6 @@ Reference these core accomplishments in IDP and management communications when b
 
 # Cross-Agent Coordination
 - **PROJECT_MEMORY.md is the coordination backbone.** After completing any significant task (file creation, deletion, structural change, or multi-step workflow), record the work in PROJECT_MEMORY.md under ## Recent Activity. Include: actor, files changed, summary of what was done, and any notes for the next agent.
-- This ensures handoff continuity across Hermes, Gemini, Codex, ChatGPT, and any other agent working in this vault.
+- This ensures handoff continuity across Hermes, Gemini, Codex, ChatGPT, DeepSeek, Antigravity, OpenCode, Cursor, and any other agent working in this vault.
 - Read PROJECT_MEMORY.md at session start to know what the last agent did and what's next.
 
