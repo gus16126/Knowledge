@@ -3,7 +3,7 @@
 ---
 title: "Project Memory"
 tags: [project-memory, knowledge-vault]
-updated: 2026-06-07
+updated: 2026-07-03
 status: active
 ---
 
@@ -16,18 +16,33 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 
 ## Summary
 
-**Current Goal:** Build a project memory system and establish AI agent workflows for Knowledge vault maintenance.
+**Current Goal:** Maintain a clean, well-structured Knowledge vault for CarMax leadership development. Active vault hygiene pass completed July 2026.
 
 **Active Focus Areas:**
-- Create `PROJECT_MEMORY.md` structure and helper tooling
-- Establish connector audit and sync workflows
-- Document agent integration patterns
+- Vault hygiene and deduplication (complete)
+- PDF-to-markdown migration for searchability (complete)
+- Reference material consolidation (complete)
+- CarMax Leadership folder organization and index optimization (next)
 
 **Repository Type:** Markdown-based Knowledge Vault using Hub & Spoke connector architecture
 
 ---
 
 ## Recent Activity
+
+
+**2026-07-03 — Vault cleanup: consolidated duplicates, converted PDFs, moved reference materials**
+- Actor: Hermes Agent (via Gus)
+- Files: Deleted 6 duplicate notes in CarMax Leadership. Renamed 2 Code of Conduct files for clarity. Converted 22 PDFs to searchable markdown (performance reviews, STAR stories, training guides, operator manuals). Moved all 57 PDFs to new Reference Materials/ folder. Updated 24 connector links across CarMax Leadership/index.md and Training/Index.md.
+- Summary: Major vault hygiene pass. CarMax Leadership went from 60+ files to ~55 clean markdown notes with zero duplicate content. All PDFs consolidated into Reference Materials/. Connector indexes now contain zero .pdf links — all active references point to searchable .md files.
+- Notes: pymupdf used for PDF extraction. Remaining PDFs (49 CFR parts, CDL handbooks, personality tests, blank forms) are in Reference Materials/ with no index links — pure reference, not hub-and-spoke content. One PDF failed extraction (Time Help A Team Member — likely scanned/image-based).
+
+
+**2026-07-03 — Consolidated duplicate notes in CarMax Leadership**
+- Actor: Hermes Agent
+- Files: CarMax Leadership/ (6 deletes, 2 renames), CarMax Leadership/index.md (8 link fixes)
+- Summary: Merged 4 duplicate Performance Rating files into 1 canonical note. Merged 4 Harver Assessment files into 2 (full report + condensed). Deleted truncated self-eval duplicate. Renamed Code of Conduct files for clarity (Quick Index vs Full Text). All connector links preserved.
+- Notes: No content lost — all duplicates contained identical or subset content of the canonical keepers. Commit 1a451c7.
 
 
 **2026-06-30 — Updated .agent and SOUL.md profiles to match the revised AGENTS.md rules**
