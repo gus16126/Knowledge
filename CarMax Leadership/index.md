@@ -123,7 +123,7 @@ Vocabulary Audit: complete
   Tags: leadership, promotion, carmax, development  
   Last-modified: 2026-06-07
 
-- Title: ![[Manager_Evaluation__File_Review__Gustavo_Guallar.pdf]][[CarMax Leadership/ind  
+- Title: ![[Manager_Evaluation__File_Review__Gustavo_Guallar.md]][[CarMax Leadership/ind  
   Link: [[CarMax Leadership/Manager Evaluation 7-1-25.md]]  
   Summary: Manager_Evaluation__File_Review__Gustavo_Guallar pdf CarMax Leadership index index  
   Tags: index, carmax, leadership, manager_evaluation__file_review__gustavo_guallar  
@@ -310,19 +310,19 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: A time you organize a plan to reach a complex goal  
-  Link: [[CarMax Leadership/A time you organize a plan to reach a complex goal.pdf]]  
+  Link: [[CarMax Leadership/A time you organize a plan to reach a complex goal.md]]  
   Summary: PDF Document: A time you organize a plan to reach a complex goal.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: A time you solve complicated business problem  
-  Link: [[CarMax Leadership/A time you solve complicated business problem.pdf]]  
+  Link: [[CarMax Leadership/A time you solve complicated business problem.md]]  
   Summary: PDF Document: A time you solve complicated business problem.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: Conflict Resolution  
-  Link: [[CarMax Leadership/Conflict Resolution.pdf]]  
+  Link: [[CarMax Leadership/Conflict Resolution.md]]  
   Summary: PDF Document: Conflict Resolution.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-24
@@ -334,7 +334,7 @@ Vocabulary Audit: complete
   Last-modified: 2025-07-01
 
 - Title: gustavo_guallar_MDP_assessment  
-  Link: [[CarMax Leadership/gustavo_guallar_MDP_assessment.pdf]]  
+  Link: [[CarMax Leadership/gustavo_guallar_MDP_assessment.md]]  
   Summary: PDF Document: gustavo_guallar_MDP_assessment.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -352,25 +352,25 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Logistic - Funtional Observation  
-  Link: [[CarMax Leadership/Logistic - Funtional Observation.pdf]]  
+  Link: [[CarMax Leadership/Logistic - Funtional Observation.md]]  
   Summary: PDF Document: Logistic - Funtional Observation.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: Manager_Evaluation__File_Review__Gustavo_Guallar  
-  Link: [[CarMax Leadership/Manager_Evaluation__File_Review__Gustavo_Guallar.pdf]]  
+  Link: [[CarMax Leadership/Manager_Evaluation__File_Review__Gustavo_Guallar.md]]  
   Summary: PDF Document: Manager_Evaluation__File_Review__Gustavo_Guallar.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-05
 
 - Title: Mid_Year_Self_Evaluation_2025  
-  Link: [[CarMax Leadership/Mid_Year_Self_Evaluation_2025.pdf]]  
+  Link: [[CarMax Leadership/Mid_Year_Self_Evaluation_2025.md]]  
   Summary: PDF Document: Mid_Year_Self_Evaluation_2025.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: Recognition 1  
-  Link: [[CarMax Leadership/Recognition 1.pdf]]  
+  Link: [[CarMax Leadership/Recognition 1.md]]  
   Summary: PDF Document: Recognition 1.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -394,7 +394,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-03-04
 
 - Title: Role_Guide_Assessment_Tool_Lead_March_14_2025  
-  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf]]  
+  Link: [[CarMax Leadership/Role_Guide_Assessment_Tool_Lead_March_14_2025.md]]  
   Summary: PDF Document: Role_Guide_Assessment_Tool_Lead_March_14_2025.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -406,7 +406,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Time helped coworker improve performance  
-  Link: [[CarMax Leadership/Time helped coworker improve performance.pdf]]  
+  Link: [[CarMax Leadership/Time helped coworker improve performance.md]]  
   Summary: PDF Document: Time helped coworker improve performance.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -460,7 +460,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-16
 
 - Title: Leave & Accommodation Resources Policy  
-  Link: [[CarMax Leadership/Leave & Accommodation Resources Policy.pdf]]  
+  Link: [[CarMax Leadership/Leave & Accommodation Resources Policy.md]]  
   Summary: PDF Document: Leave & Accommodation Resources Policy.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-20
@@ -496,7 +496,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-24
 
 - Title: Training - Home Delivery Road Test  
-  Link: [[CarMax Leadership/Training - Home Delivery Road Test.pdf]]  
+  Link: [[CarMax Leadership/Training - Home Delivery Road Test.md]]  
   Summary: PDF Document: Training - Home Delivery Road Test.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-20

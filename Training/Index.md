@@ -263,13 +263,13 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-05
 
 - Title: 2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing  
-  Link: [[Training/2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.pdf]]  
+  Link: [[Training/2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.md]]  
   Summary: PDF Document: 2017-2023_Tesla_Model_Y_Transport_Mode_and_Towing.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: 2024-01-25_fl_weigh-stations-best-practices  
-  Link: [[Training/2024-01-25_fl_weigh-stations-best-practices.pdf]]  
+  Link: [[Training/2024-01-25_fl_weigh-stations-best-practices.md]]  
   Summary: PDF Document: 2024-01-25_fl_weigh-stations-best-practices.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -347,7 +347,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Carmax Code Of Conduct  
-  Link: [[Training/Carmax Code Of Conduct.pdf]]  
+  Link: [[Training/Carmax Code Of Conduct.md]]  
   Summary: PDF Document: Carmax Code Of Conduct.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -359,19 +359,19 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: cotrell_two_car_carrier_manual-xl-additions-v-2  
-  Link: [[Training/cotrell_two_car_carrier_manual-xl-additions-v-2.pdf]]  
+  Link: [[Training/cotrell_two_car_carrier_manual-xl-additions-v-2.md]]  
   Summary: PDF Document: cotrell_two_car_carrier_manual-xl-additions-v-2.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: cotrell_two_car_carrier_manual  
-  Link: [[Training/cotrell_two_car_carrier_manual.pdf]]  
+  Link: [[Training/cotrell_two_car_carrier_manual.md]]  
   Summary: PDF Document: cotrell_two_car_carrier_manual.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: Paper BOLL  
-  Link: [[Training/Paper BOLL.pdf]]  
+  Link: [[Training/Paper BOLL.md]]  
   Summary: PDF Document: Paper BOLL.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -425,19 +425,19 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-10
 
 - Title: Pre-Trip Inspection Guidelines  
-  Link: [[Training/Pre-Trip Inspection Guidelines.pdf]]  
+  Link: [[Training/Pre-Trip Inspection Guidelines.md]]  
   Summary: PDF Document: Pre-Trip Inspection Guidelines.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: rivian-commercial-van-tow-operator-guide  
-  Link: [[Training/rivian-commercial-van-tow-operator-guide.pdf]]  
+  Link: [[Training/rivian-commercial-van-tow-operator-guide.md]]  
   Summary: PDF Document: rivian-commercial-van-tow-operator-guide.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
 
 - Title: Rivian_R1_tow_operator_guide  
-  Link: [[Training/Rivian_R1_tow_operator_guide.pdf]]  
+  Link: [[Training/Rivian_R1_tow_operator_guide.md]]  
   Summary: PDF Document: Rivian_R1_tow_operator_guide.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -743,7 +743,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Training - pre-trip_inspection_checklist_two car haulers_drive  
-  Link: [[Training/Training - pre-trip_inspection_checklist_two car haulers_drive.pdf]]  
+  Link: [[Training/Training - pre-trip_inspection_checklist_two car haulers_drive.md]]  
   Summary: PDF Document: Training - pre-trip_inspection_checklist_two car haulers_drive.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -755,7 +755,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Training - Pretrip Observation Log  
-  Link: [[Training/Training - Pretrip Observation Log.pdf]]  
+  Link: [[Training/Training - Pretrip Observation Log.md]]  
   Summary: PDF Document: Training - Pretrip Observation Log.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
@@ -767,7 +767,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-06
 
 - Title: Training - QuiXspinz 2.0 Ratcheting System Report  
-  Link: [[Training/Training - QuiXspinz 2.0 Ratcheting System Report.pdf]]  
+  Link: [[Training/Training - QuiXspinz 2.0 Ratcheting System Report.md]]  
   Summary: PDF Document: Training - QuiXspinz 2.0 Ratcheting System Report.pdf  
   Tags: pdf, document  
   Last-modified: 2026-06-15
