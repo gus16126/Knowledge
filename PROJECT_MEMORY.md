@@ -31,6 +31,13 @@ A living record of work performed on the Knowledge vault. All AI agents and team
 ## Recent Activity
 
 
+**2026-07-03 — Eliminated SOUL.md, collapsed .agent to one-line redirect to AGENTS.md**
+- Actor: Hermes Agent
+- Files: SOUL.md (deleted), .agent (rewritten to 4 lines)
+- Summary: SOUL.md was a triplicate of AGENTS.md — removed after confirming Hermes does not auto-read it. .agent now redirects to AGENTS.md as the single source of truth for all agents.
+- Notes: AGENTS.md is now the only canonical agent instruction file. Two files instead of three — zero sync burden.
+
+
 **2026-07-03 — Vault cleanup: consolidated duplicates, converted PDFs, moved reference materials**
 - Actor: Hermes Agent (via Gus)
 - Files: Deleted 6 duplicate notes in CarMax Leadership. Renamed 2 Code of Conduct files for clarity. Converted 22 PDFs to searchable markdown (performance reviews, STAR stories, training guides, operator manuals). Moved all 57 PDFs to new Reference Materials/ folder. Updated 24 connector links across CarMax Leadership/index.md and Training/Index.md.
