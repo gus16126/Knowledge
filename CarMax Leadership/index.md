@@ -4,8 +4,8 @@ Vocabulary Guide: CarMax Vocabulary & Philosophy.md
 Vocabulary Audit: complete
 
 - Title: 2025 Overall Performance Rating & APR Summary  
-  Link: [[CarMax Leadership/2025_Overall_Performance_Rating_APR_Summary.md]]  
-  Summary: 2025 Overall Performance Rating APR Summary Manager Rating Successful Strength Results Focus Gustavo consistently demonstrates exceptional results focus and is  
+  Link: [[CarMax Leadership/Gustavo Guallar Overall Performance 2025.md]]  
+  Summary: 2025 Overall Performance Rating APR Summary Manager Rating Successful Strength Results Focus Gustavo consistently demonstrates exceptional results focus and is
   Tags: team, gustavo, decision, focus  
   Last-modified: 2026-06-05
 
@@ -22,7 +22,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-05
 
 - Title: 📑 CarMax Code of Business Conduct (2014) – Quick Index  
-  Link: [[CarMax Leadership/CarMax Code Of Conduct.md]]  
+  Link: [[CarMax Leadership/CarMax Code Of Conduct (Quick Index).md]]  
   Summary: CarMax Code of Business Conduct 2014 Quick Index Introduction Purpose scope and responsibilities Duty to report misconduct Help Line information  
   Tags: carmax, business, information, code  
   Last-modified: 2026-06-19
@@ -100,7 +100,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-29
 
 - Title: Gustavo Guallar (280305) 2025 Overall Performance Rating & APR Summary  
-  Link: [[CarMax Leadership/Gustavo Guallar Performance Rating.md]]  
+  Link: [[CarMax Leadership/Gustavo Guallar Overall Performance 2025.md]]  
   Summary: Gustavo Guallar 280305 2025 Overall Performance Rating APR Summary Manager Rating Successful Comment Strength Results Focus Gustavo consistently demonstrates exceptional  
   Tags: rating, gustavo, team, 2025  
   Last-modified: 2026-06-05
@@ -190,13 +190,13 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: CarMax Code Of Business Conduct  
-  Link: [[CarMax Leadership/CarMax Code Of Business Conduct.md]]  
+  Link: [[CarMax Leadership/CarMax Code Of Business Conduct (Full Text).md]]  
   Summary:   
   Tags:   
   Last-modified: 2026-06-15
 
 - Title: CarMax Department Specific Self Evaluation for August 2024.  
-  Link: [[CarMax Leadership/CarMax Department Specific Self Evaluati.md]]  
+  Link: [[CarMax Leadership/CarMax Department Specific Self Evaluation for August 2024.md]]  
   Summary: CarMax Department Specific Self Evaluation for August 2024  
   Tags: vehicle, mazda, brickell, after  
   Last-modified: 2026-06-15
@@ -226,7 +226,7 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: CarMax Manager Development – Harver Assessment Summary  
-  Link: [[CarMax Leadership/CarMax Manager Development – Harver Assessment.md]]  
+  Link: [[CarMax Leadership/Gustavo Guallar Harver Assessment Report.md]]  
   Summary: CarMax Manager Development Harver Assessment Summary Name Gustavo Guallar Role Manager Field For Development Assessment Completed June 23 2025 Report  
   Tags: others, development, focus, team  
   Last-modified: 2026-06-15
@@ -250,14 +250,14 @@ Vocabulary Audit: complete
   Last-modified: 2026-06-15
 
 - Title: Gustavo Guallar (280305) 2025 Overall Performance Rating & APR Summary  
-  Link: [[CarMax Leadership/Gustavo Guallar 2025 Overall Performance Rating & APR Summary.md]]  
-  Summary: Gustavo Guallar 280305 2025 Overall Performance Rating APR Summary Manager Rating Successful Comment Strength Results Focus Gustavo consistently demonstrates exceptional  
+  Link: [[CarMax Leadership/Gustavo Guallar Overall Performance 2025.md]]  
+  Summary: Gustavo Guallar 280305 2025 Overall Performance Rating APR Summary Manager Rating Successful Comment Strength Results Focus Gustavo consistently demonstrates exceptional
   Tags: rating, gustavo, team, 2025  
   Last-modified: 2026-06-15
 
 - Title: CarMax Manager Development – Harver Assessment Summary  
-  Link: [[CarMax Leadership/Gustavo Guallar CarMax Manager Development – Harver Assessment Summary.md]]  
-  Summary: CarMax Manager Development Harver Assessment Summary Name Gustavo Guallar Role Manager Field For Development Assessment Completed June 23 2025 Report  
+  Link: [[CarMax Leadership/Gustavo Guallar Harver Assessment Report.md]]  
+  Summary: CarMax Manager Development Harver Assessment Summary Name Gustavo Guallar Role Manager Field For Development Assessment Completed June 23 2025 Report
   Tags: others, development, focus, team  
   Last-modified: 2026-06-15
 
