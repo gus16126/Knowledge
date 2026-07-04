@@ -37,6 +37,8 @@ At the beginning of every session:
 - `\Recognitions` (Team appreciation, awards, performance highlights)
 - `\Training` (Operational guides, instructional modules)
 - `\Reference Materials` (Read-only archive — PDF originals, regulatory docs, templates. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
+- `\Excalidraw` (Obsidian drawings and diagrams. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
+- `\copilot` (GitHub Copilot conversation logs and custom prompts. Not part of hub-and-spoke. Do not link to files here from connector indexes.)
 
 # CarMax Core Values & Communication Protocols
 The CarMax values, 5-step structure, vocabulary, and preferred/banned phrases apply across all interactions—both when assisting Gustavo in generating or drafting outbound documents (e.g., training guides, team communications, Recognitions, CarMax Leadership files) and when interacting directly with Gustavo. This ensures consistency and alignment with the Iconic Experience across all communication contexts. Maintain a direct, professional, and operational tone while remaining respectful and supportive, always grounded in the 4 Pillars.
