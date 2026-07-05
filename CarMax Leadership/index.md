@@ -16,8 +16,11 @@
 - **2025 Annual Self-Evaluation** — Overall rating: Exceptional. Training new associates, team development.  
   [[Gustavo -Self Evaluation 2025]]
 
-- **Self-Evaluation Summary (Career Timeline)** — Onboarding (June 2022) through present. Full career narrative.  
-  [[Self-Evaluation Summary]]
+- **Leadership Evidence Portfolio** — Complete career evidence from June 2022 to present. Chronological accomplishments, peer training, safety initiatives.  
+  [[Gustavo Leadership Evidence Portfolio]]
+
+- **Role Guide Assessment IC2 2026** — Quarterly competency mapping: Values, Developing Talent, Planning & Execution, Working Through Others, Influence, Leadership Style.  
+  [[CarMax Role_Guide_Assessment_Tool_Lead.IC2 2026]]
 
 - **Department Self-Evaluation (Aug 2024)** — Fleet restructuring transition from Rollback to Home Delivery.  
   [[CarMax Department Specific Self Evaluation for August 2024]]
@@ -55,6 +58,9 @@
 ## IDP & Development Framework
 
 ### Core Programs
+- **IDP Tracker** — Forward-looking dashboard: career timeline, competency RAG status, 90-day action items, milestones. Open this first.  
+  [[IDP Tracker]]
+
 - **Leadership Development Program (LDP)** — Acting assignments, execution, readiness validation.  
   [[CarMax LDP]]
 
