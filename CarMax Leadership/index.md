@@ -61,6 +61,9 @@
 - **IDP Tracker** — Forward-looking dashboard: career timeline, competency RAG status, 90-day action items, milestones. Open this first.  
   [[IDP Tracker]]
 
+- **IDP Strategy** — What I control: portable record, stakeholder playbook, evidence gap scan, monthly pulse check. Acknowledges IDP opacity, focuses on being undeniable.  
+  [[IDP Strategy]]
+
 - **Leadership Development Program (LDP)** — Acting assignments, execution, readiness validation.  
   [[CarMax LDP]]
 
