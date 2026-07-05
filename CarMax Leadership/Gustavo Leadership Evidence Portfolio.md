@@ -1,5 +1,7 @@
 # **Gustavo Guallar – Leadership Evidence Portfolio**
 
+**LinkedIn:** http://www.linkedin.com/in/gustavo-guallar-6b4776118
+
 # Purpose
 
 This document serves as the permanent evidence library for my leadership development at CarMax.
